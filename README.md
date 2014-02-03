@@ -2,7 +2,9 @@ No Es Una Crisis
 ================
 
 This is the source code for the web-documentary **No Es Una Crisis**, produced by *La Société Des Apaches* in 2013.
-http://noesunacrisis.com
+
+- Homepage : http://noesunacrisis.com
+- Direct access to HTML5 version : http://framasoft-streaming2.rezopole.net/html5/
 
 The ressources of the original web-documentary are fully CC By-Sa, but unfortunately the diffusion format is in Flash, so the webdoc couldn't be seen on many devices (tablets, smartphones, GNU/Linux and, of course, any devices where Adobe Flash Player is not installed).
 
