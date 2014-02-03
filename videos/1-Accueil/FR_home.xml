@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<home>
+	<lang>
+		<item id='fr'>FR</item>
+		<item id='en'>EN</item>
+		<item id='es'>ES</item>
+	</lang>
+	
+	<partners><![CDATA[Avec la participation de]]></partners>
+	<producer><![CDATA[Produit par]]></producer>
+	<partnersLink>
+		<link><![CDATA[http://www.cnc.fr/]]></link>
+		<link><![CDATA[http://www.fondationdefrance.org/La-Fondation-de-France/Fonds-et-fondations-sous-egide/Toutes-les-fondations/Un-monde-par-tous]]></link>
+		<link><![CDATA[http://www.rhonealpes.fr/]]></link>
+		<link><![CDATA[http://www.mediapart.fr/]]></link>
+		<link><![CDATA[http://www.courrierinternational.com/]]></link>
+		<link><![CDATA[http://usbek-et-rica.fr/]]></link>
+		<link><![CDATA[http://www.eldiario.es/]]></link>
+		<link><![CDATA[http://cinemadocumentaire.wordpress.com/]]></link>
+		<link><![CDATA[http://www.framasoft.net/]]></link>
+	</partnersLink>
+	<producerLink>
+		<link><![CDATA[http://lasocietedesapaches.com/]]></link>
+	</producerLink>
+	<title><![CDATA[Un web{0}documentaire]]></title>
+	<subtitle><![CDATA[de Fabien Benoit et Julien Malassigné]]></subtitle>
+	<description><![CDATA[Depuis 2008, l'Espagne s'enfonce dans la crise.<br />Les politiques d'austérité s'abattent sur Madrid.<br />La ville est exsangue, meurtrie.<br />Pourtant, le peuple résiste.]]></description>
+	<start><![CDATA[Démarrer]]></start>
+</home>

@@ -1,0 +1,138 @@
+/* vim:set sw=4 ts=4 sts=4 ft=css expandtab smartindent: */
+body {
+    font-family: 'Voces', cursive;
+    font-weight: bold;
+    /*background-image: url("../img/1-Accueil/home.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;*/
+    margin: 0;
+    background-color: #EEE;
+    
+}
+img {
+    width: 100%;
+    z-index: 0;
+}
+
+
+#lang_langs {
+    position: absolute;
+    font-size: 11pt;
+    top: 1%;
+    right: 1%;
+    font-weight: bolder;
+}
+
+#lang_langs span.active, #lang_langs span:hover {
+    color: white;
+}
+
+#lang_blog {
+    position: absolute;
+    top: 2%;
+    left: 0.7%;
+    width: 5%;
+    height: 5%;
+}
+
+#lang_home, #lang_home_subtitle {
+    position: absolute;
+    text-align: center;
+}
+
+#lang_home {
+    font-size: 8pt;
+    left: 42%;
+    top: 20%;
+    width: 15%;
+    background-color: white;
+    z-index: 30;
+}
+
+#lang_home h2 {
+    margin-bottom: 0;
+}
+#lang_home hr {
+    color: black;
+    border: 1px solid;
+}
+#lang_home p.subtitle {
+    font-weight: normal;
+    font-style: italic;
+    font-size: 9pt;
+}
+#lang_home p.descr {
+    font-weight: normal;
+    line-height: 150%;
+}
+
+#lang_home p.btn {
+    z-index: 1;
+    width: 169px;
+    height: 66px;
+    background-image: url('../img/1-Accueil/demarrez_button_fond.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    margin-left: 7%;
+}
+#lang_home p.btn a {
+  position: relative;
+  text-decoration: none;
+  text-align: center;
+  color: white;
+  font-size: 18pt;
+  padding-top: 5px;
+  top: 25%;
+}
+
+#lang_home_subtitle {
+    color: white;
+    font-size: 22pt;
+    width: 10%;
+    top: 15%;
+    left: 62%;
+}
+
+
+#lang_produced, #lang_participation {
+  z-index: 1;
+  position: fixed;
+  bottom: 12%;
+  color: white;
+  font-weight: normal;
+  font-style: italic;	
+  text-decoration: underline;
+}
+
+#lang_produced_logos, #lang_participation_logos {
+  z-index: 1;
+  position: fixed;
+  bottom: 2%;
+  color: white;
+  font-weight: normal;
+  font-style: italic;
+}
+
+#lang_participation_logos {
+	max-width: 80%;
+}
+
+
+@media screen and (min-device-width: 68px) and (max-device-width: 768px) and (orientation: portrait) { 
+	#lang_home {
+		top: 10%;
+    }
+}    
+
+#lang_produced_logos img, #lang_participation_logos img {
+	width: initial;
+}
+#lang_produced {
+  right: 1%;
+}
+ #lang_produced_logos img {
+	position: fixed;
+	right: 1%;	
+	bottom: 3%;
+	height: 45px;
+}

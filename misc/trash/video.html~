@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset=utf-8 />
+	<title>Interface video pour No Es Una Crisis / test</title>
+	<script src="inc/js/libs/jquery-2.0.3.min.js"></script>
+	<link href="inc/css/libs/video-js.css" rel="stylesheet"/>
+	<link href="inc/css/libs/videojs.markers.css" rel="stylesheet"/>
+        <script src="inc/js/libs/video-js/video.js"></script>
+	<script src="inc/js/libs/videojs.markers.js"></script>
+        <script src="inc/js/libs/boostrap.min.js"></script>
+	<link href="inc/css/libs/bootstrap.min.css" rel="stylesheet"/>
+        
+        <link href="inc/css/video.css" rel="stylesheet"/>
+	<script src="inc/js/video.js"></script>
+        <script>
+           videojs.options.flash.swf = "inc/video-js.swf"
+        </script>
+</head>
+<body>
+	<video  id="neuc-video"
+                class="video-js vjs-default-skin"
+                controls="controls"
+                loop="false"
+                preload="auto"
+                poster=""
+                autoplay="false"
+                width="480" height="270"
+                data-setup="{}">
+		<source src="videos/8-Portraits/videos/Carlos/SD_carlos.mp4" type="video/mp4" class="mp4"></source>
+		<source src="videos/8-Portraits/videos/Carlos/HD_carlos.webm" type="video/webm" class="webm"></source>
+		<track src="" srclang="fr" label="Fran&ccedil;ais" kind="subtitles" class="fr"></track>
+                <track src="" srclang="en" label="English" kind="subtitles" class="en"></track>
+                <track src="" srclang="es" label="Español" kind="subtitles" class="es"></track>
+	</video>
+        <nav class="video-nav">
+            <ul><li><a href="#">Préface</a></li><li><a href="#">Blog</a></li><li><a href="#">Credits</a></li></ul>
+        <div class="share"><span class="texte-over">share</span><a href="" class="fb">FB</a><a href="" class="twitter">TWITTER</a></div>
+        <div id="video-modals"></div>
+    </nav>
+</body>
+</html>

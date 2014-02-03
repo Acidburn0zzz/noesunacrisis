@@ -1,0 +1,39 @@
+{
+  "VIDEO": {
+	"PANNEAU":"8-Portraits",
+	"TITLE": {
+		"EN": "Valentin",
+		"ES": "Valentin",
+		"FR": "Valentin"
+	},
+	"SUBTITLE": {
+		"EN": "",
+		"ES": "",
+		"FR": "Étudiant"
+	},
+    "SRT": {
+		"EN": "EN_VALENTIN.srt",
+		"ES": "ES_VALENTIN.srt",
+		"FR": "FR_VALENTIN.srt"
+	},
+    "FILE": {
+		"HD-MP4": "Valentin/HD_valentin.mp4",
+		"HD-WEBM": "Valentin/HD_valentin.webm",
+		"SD-MP4": "Valentin/SD_valentin.mp4",
+		"SD-WEBM": "Valentin/SD_valentin.webm"
+	}
+  },
+  "NEXT" : {
+	"TITLE": {
+		"EN": "",
+		"ES": "",
+		"FR": ""
+	},
+	"SUBTITLE": {
+		"EN": "",
+		"ES": "",
+		"FR": ""
+	},
+	"JSON":""
+  }
+}

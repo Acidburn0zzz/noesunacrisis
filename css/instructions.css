@@ -1,0 +1,57 @@
+/* vim:set sw=4 ts=4 sts=4 ft=css expandtab smartindent: */
+body {
+    font-family: 'Voces', cursive;
+    margin: 0;
+}
+img {
+    width: 100%;
+    z-index: 0;
+}
+
+#lang_langs {
+    position: absolute;
+    font-size: 11pt;
+    top: 3%;
+    right: 1%;
+    font-weight: bolder;
+}
+
+#lang_langs span.active, #lang_langs span:hover {
+    color: blue;
+}
+
+#lang_instructions {
+    position: absolute;
+    font-size: 8pt;
+    left: 13%;
+    top: 15%;
+    width: 20%;
+    color: 
+}
+
+#lang_instructions p {
+    background-color: white;
+    color: #187EA8;
+    font-size: 9pt;
+    line-height: 200%;
+}
+
+#lang_instructions p.btn {
+    text-align: center;
+    z-index: 1;
+    width: 169px;
+    height: 66px;
+    background-image: url('../img/3-PanneauIntro/accedez_button_fond.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    margin-left: 7%;
+}
+#lang_instructions p.btn a {
+  position: relative;
+  text-decoration: none;
+  color: white;
+  font-size: 18pt;
+  padding-top: 5px;
+  top: 30%;
+}
+

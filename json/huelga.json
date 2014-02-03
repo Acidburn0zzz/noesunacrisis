@@ -1,0 +1,40 @@
+{
+  "VIDEO": {
+	"PANNEAU":"5-PanneauSaccage",
+	"TITLE": {
+		"EN": "General strike",
+		"ES": "Huelga general",
+		"FR": "Grève générale"
+	},
+	"SUBTITLE": {
+		"EN": "Everybody in the street !",
+		"ES": "¡Todos a la calle!",
+		"FR": "Tous dans la rue !"
+	},
+    "SRT": {
+		"EN": "EN_2_GREVE.srt",
+		"ES": "ES_2_GREVE.srt",
+		"FR": "FR_2_GREVE.srt"
+	},
+    "FILE": {
+		"HD-MP4": "HD_huelga.mp4",
+		"HD-WEBM": "HD_huelga.webm",
+		"SD-MP4": "SD_huelga.mp4",
+		"SD-WEBM": "SD_huelga.webm"
+	},
+	"POPUPS": {}
+  },
+  "NEXT" : {
+	"TITLE": {
+		"EN": "Gregorio Marañon Hospital",
+		"ES": "Gregorio Marañon Hospital",
+		"FR": "Gregorio Marañon Hospital"
+	},
+	"SUBTITLE": {
+		"EN": "Privatizing health... and public benefits",
+		"ES": "Privatización de la salud... y de los beneficios públicos",
+		"FR": "Privatisons la santé... et les bénéfices publics"
+	},
+	"JSON":"hopital"
+  }
+}

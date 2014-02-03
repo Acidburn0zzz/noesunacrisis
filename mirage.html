@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+<!-- vim:set sw=4 ts=4 sts=4 ft=html expandtab autoindent: -->
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="css/no-es-una-crisis.css">
+        <link rel="stylesheet" href="css/noo_accordion.css">
+        <link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.0.3/css/bootstrap.min.css">
+        <link rel="stylesheet" href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css">
+        <link rel='stylesheet' href='css/all.css' type='text/css'>
+        <link rel='stylesheet' href='http://fonts.googleapis.com/css?family=Voces&subset=latin,latin-ext' type='text/css'>
+    </head>
+    <body>
+		<!-- Barre de navigation top-->
+        <nav class="navbar navbar-fixed-top" role="navigation">
+            <div class="hidden-xs hidden-sm" id="logo-no-es-una-crisis">
+                <ul class="nav navbar-nav">
+                    <li><img src="img/0-Communs/LogosEtPictos/logo_noesunacrisis_blanc.png" alt="Logo No es una crisis"></li>
+                </ul>
+                <ul class="nav navbar-nav navbar-right">
+                    <li><a id="portraits-link-right" href="portraits.html">PORTRAITS</a></li>
+                </ul>
+            </div>
+			<!-- Barre de navigation top (mobile) -->
+            <div class="navbar-header navbar-inverse hidden-md hidden-lg" id="menu-mobile">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                    <span class="sr-only">Navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <ul class="nav navbar-nav collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                    <li><a href="#" id="preface-link" data-toggle="modal" data-target="#modal-preface">PRÉFACE</a></li>
+
+                    <li><a href="mirage.html" id="mirage-link" class="active">MIRAGE</a></li>
+                    <li><a href="saccage.html" id="saccage-link">SACCAGE</a></li>
+                    <li><a href="revolte.html" id="revolte-link">RÉVOLTE</a></li>
+                    <li><a href="nofuture.html" id="nofuture-link">NO FUTURE</a></li>
+                    <li><a id="portraits-link" href="portraits.html">PORTRAITS</a></li>
+                    <li><a href="http://blog.noesunacrisis.com">BLOG</a></li>
+                    <li><a href="#" id="credits-link" data-toggle="modal" data-target="#modal-credits">CRÉDITS</a></li>
+                    <li class="dropdown"><a href="#" id="share-link" class="dropdown-toggle" data-toggle="dropdown">Partager <b class="caret"></b></a>
+                        <ul class="dropdown-menu pan-share text-center">
+                            <li>
+                                <a href="#" class="pan-share-icon"><i class="fa fa-twitter"></i></a>
+                                <a href="#" class="pan-share-icon"><i class="fa fa-facebook"></i></a>
+                            </li>
+                        </ul>
+                    </li>
+                </div>
+                    </ul>
+                </div>
+                </ul>
+            </div>
+        </nav>
+        
+		<!-- Modale préface-->
+        <div class="modal fade" id="modal-preface" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+            <div class="modal-dialog">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+                        <h4 class="modal-title" id="myModalLabel">Préface</h4>
+                    </div>
+                    <div class="modal-body" id="preface-body">
+                        ...
+                    </div>
+                    <div class="modal-footer">
+                        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+                    </div>
+                </div><!-- /.modal-content -->
+            </div><!-- /.modal-dialog -->
+        </div><!-- /.modal -->
+        <!-- Modale crédits-->
+        <div class="modal fade" id="modal-credits" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+            <div class="modal-dialog">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+                        <h4 class="modal-title" id="myModalLabel">Crédits</h4>
+                    </div>
+                    <div class="modal-body" id="credits-body">
+                        ...
+                    </div>
+                    <div class="modal-footer">
+                        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+                    </div>
+                </div><!-- /.modal-content -->
+            </div><!-- /.modal-dialog -->
+        </div><!-- /.modal -->
+        
+
+	<!-- Interface principale -->
+	<div id="panelTitle" class="panelTitle"><h1>MIRAGE</h1><p>Les illusions du boom immobilier</p></div>
+
+        <img id="interface" src="img/4-PanneauMirage/mirage.jpg" usemap="#map" >
+
+        <map name="map">
+            <!-- #$-:Image map file created by GIMP Image Map plug-in -->
+            <!-- #$-:GIMP Image Map plug-in by Maurits Rijk -->
+            <!-- #$-:Please do not edit lines starting with "#$" -->
+            <!-- #$VERSION:2.3 -->
+            <!-- #$AUTHOR:pyg -->
+            <area shape="poly" coords="314,297,249,243,158,285,183,652,156,655,150,715,255,722,317,783,379,750,415,734,418,609,434,601,441,318,356,291" alt="Tours Bankia|Spéculation et bulle immobilière" href="video.html#bankia" id="bankia" data-maphilight='{"stroke":false}' style='{"fillColor":"ff0000","fillOpacity":0.6"}' />
+            <area shape="poly" coords="438,599,515,578,583,607,579,645,635,647,651,625,689,647,679,696,534,793,480,770,431,765,415,741,422,605,425,606" alt="Permanence de la PAH|Le fléau des expulsions" href="video.html#pah" id="pah"  data-maphilight='{"stroke":false}'/>
+            <area shape="poly" coords="479,585,471,457,437,456,445,414,628,340,609,449,779,435,782,362,929,379,1081,492,1061,524,1067,692,912,760,702,700,692,635" alt="Ciudad Valdeluz|Ville recherche habitants" href="video.html#valdeluz" id="valdeluz"  data-maphilight='{"stroke":false}'/>
+            <area shape="poly" coords="1069,687,1112,794,1273,759,1396,758,1470,608,1446,414,1145,410,1063,516" alt="Campement de Caja Madrid|En guerre contre les banques" href="video.html#caja_madrid" id="caja_madrid" data-maphilight='{"stroke":false}'/>
+        </map>
+        
+        <!-- barre de navigation du bas -->
+        <nav class="navbar navbar-fixed-bottom hidden-xs hidden-sm" role="navigation" id="menu-bas">
+            <ul class="nav navbar-nav navbar-left col-md-3">
+                <li><a href="#" id="pan-menu-preface" data-toggle="modal" data-target="#modal-preface">PRÉFACE</a></li>
+                <li><a href="http://blog.noesunacrisis.com">BLOG</a></li>
+                <li><a href="#" id="pan-menu-credits" data-toggle="modal" data-target="#modal-credits">CRÉDITS</a></li>
+            </ul>
+            <ul class="nav navbar-nav col-md-6 row">
+                <li class="col-md-3 text-center"><a href="mirage.html" id="pan-menu-mirage" class="active">MIRAGE</a></li>
+                <li class="col-md-3 text-center"><a href="saccage.html" id="pan-menu-saccage">SACCAGE</a></li>
+                <li class="col-md-3 text-center"><a href="revolte.html" id="pan-menu-revolte">RÉVOLTE</a></li>
+                <li class="col-md-3 text-center"><a href="nofuture.html" id="pan-menu-no-future">NO FUTURE</a></li>
+            </ul>
+            <ul class="nav navbar-nav navbar-right" id="menu-bas-droite">
+                <li class="pan-share dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown" id="pan-menu-share">Partager <b class="caret"></b></a>
+                    <ul class="dropdown-menu pan-share text-center">
+                        <li>
+                            <a href="#" class="pan-share-icon"><i class="fa fa-twitter"></i></a>
+                            <a href="#" class="pan-share-icon"><i class="fa fa-facebook"></i></a>
+                        </li>
+                    </ul>
+                </li>
+                <!--<li><a href="#"><i id="pan-volume" class="glyphicon glyphicon-volume-up"></i></a></li>-->
+                <li><a href="#" onclick="requestFullScreen();"><i id="pan-full-screen" class="glyphicon glyphicon-resize-full"></i></a></li>
+            </ul>
+        </nav>
+        
+        <!-- scripts -->
+        <script type="text/javascript" src="//code.jquery.com/jquery-2.0.3.min.js"></script>
+        <script type="text/javascript" src="//netdna.bootstrapcdn.com/bootstrap/3.0.3/js/bootstrap.min.js"></script>
+        <script type="text/javascript" src="js/no-es-una-crisis.js"></script>
+        <script type="text/javascript" src="js/jquery.rwdImageMaps.min.js"></script>
+        <script type="text/javascript" src="js/jquery.maphilight.js"></script>
+        <script type="text/javascript" src="js/all.js"></script>
+        <script>
+            $( document ).ready(function() {
+            // Internationalization
+            $.get('json/interface.json', function (data) { intl(data); });
+
+            var intl = function (data) {
+              var userLang = document.cookie.replace(/(lang=|; |res=\w{2})/gi, '') || 'FR';
+				$("#bankia").prop("alt",data.MIRAGE.BANKIA.TITLE[userLang]+"|"+data.MIRAGE.BANKIA.SUBTITLE[userLang]);
+				$("#pah").prop("alt",data.MIRAGE.PAH.TITLE[userLang]+"|"+data.MIRAGE.PAH.SUBTITLE[userLang]);
+				$("#valdeluz").prop("alt",data.MIRAGE.VALDELUZ.TITLE[userLang]+"|"+data.MIRAGE.VALDELUZ.SUBTITLE[userLang]);
+				$("#caja_madrid").prop("alt",data.MIRAGE.CAJA.TITLE[userLang]+"|"+data.MIRAGE.CAJA.SUBTITLE[userLang]);
+				$("#panelTitle h1").text(data.MIRAGE.NAME[userLang]);
+				$("#panelTitle p").text(data.MIRAGE.TITLE[userLang]);
+            };
+      });
+
+        </script>
+    </body>
+</html>

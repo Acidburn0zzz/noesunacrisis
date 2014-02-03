@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<home>
+	<lang>
+		<item id='fr'>FR</item>
+		<item id='en'>EN</item>
+		<item id='es'>ES</item>
+	</lang>
+	
+	<partners><![CDATA[Con la participación de]]></partners>
+	<producer><![CDATA[Producido por]]></producer>
+	<partnersLink>
+		<link><![CDATA[http://www.cnc.fr/]]></link>
+		<link><![CDATA[http://www.fondationdefrance.org/La-Fondation-de-France/Fonds-et-fondations-sous-egide/Toutes-les-fondations/Un-monde-par-tous]]></link>
+		<link><![CDATA[http://www.rhonealpes.fr/]]></link>
+		<link><![CDATA[http://www.mediapart.fr/]]></link>
+		<link><![CDATA[http://www.courrierinternational.com/]]></link>
+		<link><![CDATA[http://usbek-et-rica.fr/]]></link>
+		<link><![CDATA[http://www.eldiario.es/]]></link>
+		<link><![CDATA[http://cinemadocumentaire.wordpress.com/]]></link>
+		<link><![CDATA[http://www.framasoft.net/]]></link>
+	</partnersLink>
+	<producerLink>
+		<link><![CDATA[http://lasocietedesapaches.com/]]></link>
+	</producerLink>
+	<title><![CDATA[Un web{0}documental]]></title>
+	<subtitle><![CDATA[de Fabien Benoit y Julien Malassigné]]></subtitle>
+	<description><![CDATA[Desde 2008, España se ahoga en la crisis.<br />Las políticas de austeridad<br />se han ensañado con Madrid.<br />La ciudad está exangüe, maltrecha. <br />Pese a todo, el pueblo resiste.]]></description>
+	<start><![CDATA[EMPEZAR]]></start>
+</home>

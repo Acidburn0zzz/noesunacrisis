@@ -1,0 +1,173 @@
+<!DOCTYPE html>
+<!-- vim:set sw=4 ts=4 sts=4 ft=html expandtab smartindent: -->
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.0.3/css/bootstrap.min.css">
+        <link rel="stylesheet" href="css/jquery.kwicks.min.css">
+        <link rel="stylesheet" href="css/no-es-una-crisis.css">
+        <script type="text/javascript" src="//code.jquery.com/jquery-2.0.3.min.js"></script>
+        <script type="text/javascript" src="//netdna.bootstrapcdn.com/bootstrap/3.0.3/js/bootstrap.min.js"></script>
+    </head>
+    <body>
+        <nav class="navbar navbar-fixed-top" role="navigation">
+            <div class="navbar-header">
+                <ul class="nav navbar-nav">
+                    <li>logo</li>
+                </ul>
+            </div>
+            <div class="pull-right">
+                <ul class="nav navbar-nav">
+                    <li>portraits</li>
+                </ul>
+            </div>
+        </nav>
+        <div id="pan-content">
+            <div id="pan-title" class="container">
+                <div class="row">
+                    <div class="text-center">
+                        Mirage
+                    </div>
+                </div>
+                <!-- MIRAGE BEGIN -->
+                <style>
+                .mirage img {
+                }
+                #bankia {
+                    z-index: 0;
+                    max-width: 20%;
+                }
+                #pah {
+                    position: absolute;
+                    z-index: 1;
+                    max-width: 15%;
+                    top: 58%;
+                    left: 23%;
+                }
+                #valdeluz {
+                    position: absolute;
+                    max-width: 47%;
+                    top: 27%;
+                    left: 24%;
+                }
+                #caja {
+                    position: absolute;
+                    max-width: 24%;
+                    top: 36%;
+                    left: 65%;
+                }
+                </style>
+                <div class="row mirage">
+                    <img id="bankia"
+                        src="img/4-PanneauMirage/bankia.png"
+                        data-content=""
+                        data-placement="top"
+                        data-container="body"
+                        data-toggle="popover"
+                        data-html="true" />
+                    <img id="pah"
+                        src="img/4-PanneauMirage/pah.png"
+                        data-content=""
+                        data-placement="top"
+                        data-container="body"
+                        data-toggle="popover"
+                        data-html="true" />
+                    <img id="valdeluz"
+                        src="img/4-PanneauMirage/ciudad_valdeluz.png"
+                        data-content=""
+                        data-placement="top"
+                        data-container="body"
+                        data-toggle="popover"
+                        data-html="true" />
+                    <img id="caja"
+                        src="img/4-PanneauMirage/caja_madrid.png"
+                        data-content=""
+                        data-placement="top"
+                        data-container="body"
+                        data-toggle="popover"
+                        data-html="true" />
+                </div>
+                <script type="text/javascript">
+                // Globals
+                var LANG;
+                var userLang = "FR";
+                // Cache
+                var jqCache = {
+                    bankia: $('#bankia'),
+                    pah: $('#pah'),
+                    valdeluz: $('#valdeluz'),
+                    caja: $('#caja')
+                };
+                // Events
+                // MouseOver
+                var initEvents = function () {
+                    var overEvents = function () {
+                        for (var key in jqCache) {
+                            var contentData = LANG['MIRAGE'][key.toUpperCase()];
+                            jqCache[key].mouseover(function() {
+                                $(this).popover('show');
+                            });
+                            jqCache[key].mouseout(function() {
+                                $(this).popover('hide');
+                            });
+                        }
+                    };
+
+                    overEvents();
+                };
+                // Internationalization
+                initLang = function () {
+                    for (var key in jqCache) {
+                        var data = LANG['MIRAGE'][key.toUpperCase()];
+                        var title = data['TITLE'][userLang];
+                        var subtitle = data['SUBTITLE'][userLang];
+                        var popoverContent = "<h2>" + title + "</h2>";
+                        popoverContent += "<p>" + subtitle + "<p>";
+                        jqCache[key].attr({
+                            alt: title,
+                            'data-content': popoverContent
+                        });
+                    }
+                };
+                // Global initialization
+                $.get('lang/interface.json', function (data) { init(data); });
+                var init = function (lang) {
+                    LANG = lang;
+                    initLang();
+                    initEvents();
+                }
+                </script>
+                <!-- MIRAGE END -->
+            </div>
+        </div>
+        <nav class="navbar navbar-fixed-bottom" role="navigation">
+            <div class="row">
+                <div class="col-md-3">
+                    <ul class="nav navbar-nav">
+                        <li>Préface</li>
+                        <li>Blog</li>
+                        <li>Crédits</li>
+                    </ul>
+                </div>
+                <div class="col-md-6">
+                    <div class="row">
+                        <div class="col-md-3 text-center">Mirage</div>
+                        <div class="col-md-3 text-center">Saccage</div>
+                        <div class="col-md-3 text-center">Revolte</div>
+                        <div class="col-md-3 text-center">No future</div>
+                    </div>
+                </div>
+                <div class="col-md-3">
+                    <ul class="nav navbar-nav pull-right">
+                        <li>Partager</li>
+                        <li>Son</li>
+                        <li>Full-screen</li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+        <!--<script type="text/javascript" src="js/jquery.kwicks.min.js"></script>-->
+        <!--<script type="text/javascript" src="js/no-es-una-crisis.js"></script>-->
+    </body>
+</html>

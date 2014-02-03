@@ -1,0 +1,75 @@
+{
+  "VIDEO": {
+	"PANNEAU":"6-PanneauRevolte",
+	"TITLE": {
+		"EN": "Puerta del Sol",
+		"ES": "Puerta del Sol",
+		"FR": "Puerta del Sol"
+	},
+	"SUBTITLE": {
+		"EN": "The 15M Movement",
+		"ES": "El 15M",
+		"FR": "Le mouvement du 15M"
+	},
+    "SRT": {
+		"EN": "EN_3_PUERTADELSOL.srt",
+		"ES": "ES_3_PUERTADELSOL.srt",
+		"FR": "FR_3_PUERTADELSOL.srt"
+	},
+    "FILE": {
+		"HD-MP4": "HD_puertadelsol_mouvement.mp4",
+		"HD-WEBM": "HD_puertadelsol_mouvement.webm",
+		"SD-MP4": "SD_puertadelsol_mouvement.mp4",
+		"SD-WEBM": "SD_puertadelsol_mouvement.webm"
+	},
+	"POPUPS": {
+		"154": {
+			"EN": {
+				"TITLE":"The Bologna process",
+				"LONGTITLE":"The Bologna process",
+				"MODALE":"<p align='justify'>The Bologna process is a set of reforms with the objective of creating a European higher education space involving two major lines: the mobility for students and researchers and the attractiveness of the european universities in the world. In France the most visible Bologna reforms are the adoption of the ECTS credits and the reorganization of the curriculums on the trio model LMD « License (bachelor)-Master-Doctorate.<br>Under the influence of the European Commission, the Bologna process started encouraging the economic competitiveness of the higher education, through the increased competition between the higher learning institutions.<br>This way the process became an excuse for the national governments to increase the  autonomy of these institutions, as for example by reforming their way of governance in order to reinforce the powers of their leaders. The budgetary autonomy is also one of the main objectives: increasing the personal revenues of the institution (registration fees), developing the private funding.<br>All of this makes the Bologna process be perceived by a large part of the academic community as the Trojan Horse of the dismantling of public services, education and research.<\/p>"
+			},
+			"ES": {
+				"TITLE":"El Proceso de Bolonia",
+				"LONGTITLE":"El Proceso de Bolonia",
+				"MODALE":"<p align='justify'>El Proceso de Bolonia es un conjunto de reformas que tiene por objetivo crear un espacio europeo de educación superior, centrado en dos grandes ejes: potenciar la movilidad de los estudiantes e investigadores y el atractivo de las universidades europeas en el mundo. En Francia, las reformas mas visibles del Plan Bolonia fueron la adopción del sistema de créditos ETC y la reorganización de los currículos sobre un modelo tríptico Licenciatura – Máster – Doctorado (LMD).<br>Bajo la influencia de la Comisión Europea, el proceso de Bolonia ha tomado un giro en el que se incrementa la competitividad económica de la enseñanza superior, en un contexto que promueve la rivalidad de los centros universitarios.<br>De este modo, el proceso ha servido de pretexto a los gobiernos estatales para incrementar la autonomía de los centros de enseñanza superior, reformando, por ejemplo, los órganos de gobierno - para aumentar los poderes del presidente de la universidad-. La autonomía de presupuesto también se confirma como objetivo; aumentan las tarifas (precio de matrícula) y se desarrollan modelos privados de financiación.<br>Todo esto hace que el proceso de Bolonia sea percibido por gran parte de la comunidad académica, como el caballo de Troya del desmantelamiento de los servicios públicos de  educación superior e investigación.<\/p>"
+			},
+			"FR": {
+				"TITLE":"Le processus de Bologne",
+				"LONGTITLE":"Le processus de Bologne",
+				"MODALE":"<p align='justify'>Le processus de Bologne et un ensemble de réformes visant à créer un Espace européen de l’enseignement supérieur autour de deux grands axes : la mobilité des étudiants et des chercheurs en Europe, et l’attractivité des universités européennes dans le monde. En France les réformes « Bologne » les plus visibles furent l’adoption des crédits ECTS et la réorganisation des cursus sur le triptyque Licence-Master-Doctorat (LMD).<br>Sous l’influence de la Commission européenne, le processus de Bologne a pris une tournure encourageant la compétitivité économique de l’enseignement supérieur, dans un contexte de mise en concurrence accrue des établissements d’enseignement supérieur.<br>Le processus a pu ainsi servir de prétexte à des gouvernements nationaux pour accroître l’autonomie des établissements, par exemple en réformant leur mode de gouvernance pour renforcer les pouvoirs des chefs d’établissement. L’autonomie budgétaire est également un des buts affichés : augmentation des recettes propres (frais d’inscription), développement des financements privés.<br>Tout ceci fait que le processus de Bologne est perçu par une grande partie de la communauté universitaire comme le cheval de Troie du démantèlement du service public de l’enseignement et de la recherche.<\/p>"
+			}
+		},
+		"1385": {
+			"EN": {
+				"TITLE":"15M, chronology of a movement",
+				"LONGTITLE":"15M, chronology of a movement",
+				"MODALE":"<p align='justify'><ul><li><b>15 of May 2011 : <\/b> call to protest throughout Spain against austerity and for a real democracy. In madrid, a small group of protesters decide to camp at Puerta del Sol, they will be evacuated next morning by the police.<\/li><br\/><li><b>17 of May 2011: : <\/b>new protests around the country. Puerta del Sol is occupied in the evening.<\/li><br\/><li><b>27 of May 2011 : <\/b>the camp at Catalunya Square of Barcelona is evacuated « manu militari » by the anti-riots police.<\/li><br\/><li><b>12 of June 2011 : <\/b>the assembly at Puerta del Sol decides to dismantle the camp.<\/li><br\/><li><b>19 of June 2011 : <\/b>European day of protest against austerity<\/li><br\/><li><b>23 of July 2011 : <\/b>arrive in Madrid the indignant popular marches that left a month before from 20 spanish cities.<\/li><br\/><li><b>17 of September 2011 : <\/b>beginning of the Occupy Wall Street movement in the United States.<\/li><br\/><li><b>15 of October 2011 : <\/b>first world day of the indignants, allmost a thousand protests in 80 countries.<\/li><br\/><li><b>15 of May 2012 : <\/b>first anniversary of the movement, some regret (and mock) its loss of impetus, others on the contrary point the extraordinary dynamic it has brought into the spanish civil society. <\/li><br\/><li><b>25 of September 2012 : <\/b>At the time when austerity is widespread, the slogan « They don't represent us » remains current for the spanish “indignados”. Reunited under the « Coordination 25-S » manifest, the constellation of movements born from the 15M, make a call to encircle the Deputy Congress. <\/li><\/ul><\/p>"
+			},
+			"ES": {
+				"TITLE":"Cronología del 15M",
+				"LONGTITLE":"Cronología del 15M",
+				"MODALE":"<p align='justify'><ul><li><b>15 de mayo 2011 : <\/b>manifestación en toda España contra la austeridad y por una democracia real. En Madrid, un pequeño grupo de manifestantes decide acampar en la Puerta del Sol, serán evacuados por la policía a la mañana siguiente.<\/li><br\/><li><b>17 de mayo 2011: : <\/b>de nuevo, manifestaciones por todo el país. La puerta del Sol es ocupada al atardecer.<\/li><br\/><li><b>27 de mayo 2011 : <\/b>el campamento de la plaza Cataluña de Barcelona es evacuado manu militari por los antidisturbios.<\/li><br\/><li><b>12 de junio 2011 : <\/b>la asamblea de la Puerta del Sol decide desmantelar su campamento.<\/li><br\/><li><b>19 de junio 2011 : <\/b>jornada europea de protestas contra la austeridad.<\/li><br\/><li><b>23 de julio 2011 : <\/b>llegada a Madrid de las marchas populares de los indignados, partidas un mes antes desde una veintena de ciudades españolas.<\/li><br\/><li><b>17 de septiembre 2011 : <\/b>debut del movimiento Occupy Wall Street en Estados-Unidos.<\/li><br\/><li><b>15 de octubre 2011 : <\/b>primera jornada mundial de los indignados, con cerca de un millar de manifestaciones en 80 países.<\/li><br\/><li><b>15 de mayo 2012 : <\/b>primer aniversario del movimiento, algunos lamentan (y desprecian) su desinflamiento, otros, al contrario, subrayan el extraordinario dinamismo que ha aportado a la sociedad civil española.<\/li><br\/><li><b>25 de septiembre 2012 : <\/b>en un momento de austeridad generalizada, el lema 'no nos representan' sigue siendo válido para los indignados españoles. Reunidos en el seno de la Coordinadora 25-S, la constelación de movimientos surgidos a raíz del 15M hace un llamamiento para rodear el Congreso de Diputados.<\/li><\/p><br\/><li>Más información en La Vanguardia<br><i><a href='http:\/\/www.lavanguardia.com\/cultura\/20110615\/54169595425\/cronica-personal-de-un-movimiento.html' target=_blank>Crónica personal de un movimiento<\/a><\/i><\/li><br\/><li>Más información en El Pais<br><i><a href='http:\/\/politica.elpais.com\/politica\/2012\/05\/05\/actualidad\/1336234920_810740.html' target=_blank>La silenciosa expansión del 15-M<\/a><\/i><\/li><br\/><li>Más información en InfoLibre (con subscripción)<br><i><a href='http:\/\/www.infolibre.es\/noticias\/politica\/2013\/05\/16\/balance_dos_anos_3429_1012.html' target=_blank>El movimiento que repolitizó la calle en España<\/a><\/i><\/li><\/ul><\/p>"
+			},
+			"FR": {
+				"TITLE":"Chronologie du 15M",
+				"LONGTITLE":"Chronologie du 15M",
+				"MODALE":"<p align='justify'><ul><li><b>15 mai 2011 : <\/b>appel à manifester dans toute l’Espagne contre l’austérité et pour une démocratie réelle. A Madrid un petit groupe de manifestants décide de camper sur la Puerta del Sol, ils seront évacués par la police le sur-lendemain. <\/li><br\/><li><b>17 mai 2011 : <\/b>nouvelles manifestations dans tout le pays. La Puerta del Sol est occupée le soir. <\/li><br\/><li><b>27 mai 2011 : <\/b>le campement de la place Catalunya de Barcelone est évacué manu militari par la police anti-émeutes. <\/li><br\/><li><b>12 juin 2011 : <\/b>l’assemblée de la Puerta del Sol décide de démanteler le campement. <\/li><br\/><li><b>19 juin 2011 : <\/b>journée européenne de protestation contre l’austérité<\/li><br\/><li><b>23 juillet 2011 : <\/b>arrivée des marches populaires indignées à Madrid,  parties un mois avant d’une vingtaine de villes espagnoles. <\/li><br\/><li><b>17 septembre 2011 : <\/b>début du mouvement Occupy Wall Street aux Etats-Unis. <\/li><br\/><li><b>15 octobre 2011 : <\/b>première journée mondiale des indignés, près d’un millier de manifestations dans 80 pays. <\/li><br\/><li><b>15 mai 2012 : <\/b>premier anniversaire du mouvement, certains regrettent (et se gaussent) de son essoufflement, d’autres au contraire soulignent l’extraordinaire dynamique qu’il a apporté à la société civile espagnole.<\/li><br\/><li><b>25 septembre 2012 : <\/b>à l’heure de l’austérité généralisée, le slogan <i>« ils ne nous représentent pas »<\/i> est toujours d’actualité pour les indignés espagnols. Réunis au sein de la Coordination 25-S, la constellation de mouvements issus du 15M appelle à encercler le Congrès des Députés. <\/li><\/p><br\/><li>A lire sur Courrier International<br><i><a href='http:\/\/www.courrierinternational.com\/article\/2011\/09\/15\/le-jour-ou-les-jeunes-ont-reinvente-la-democratie' target='_blank'>Le jour où les jeunes ont réinventé la démocratie<\/a><\/i><\/li><br\/><li>A lire sur Courrier International<br><i><a href='http:\/\/www.courrierinternational.com\/article\/2012\/05\/15\/le-mouvement-du-15-mai-reveille-la-societe-civile' target='_blank'>Le mouvement du 15 mai réveille la société civile<\/a><\/i><\/li><br\/><li>A lire sur Médiapart (sur abonnement)<br><i><a href='http:\/\/www.mediapart.fr\/journal\/international\/140513\/le-mouvement-qui-remis-la-politique-dans-les-rues-espagnoles' target='_blank'>Le mouvement qui a remis la politique dans les rues espagnoles<\/a><\/i><\/li><\/ul><\/p>"
+			}
+		}	
+	}
+  },
+  "NEXT" : {
+	"TITLE": {
+		"EN": "At Pilar's place",
+		"ES": "En casa de Pilar",
+		"FR": "Chez Pilar"
+	},
+	"SUBTITLE": {
+		"EN": "Yayoflautas, the retirees at war",
+		"ES": "Yayoflautas, jubilados en pie de guerra",
+		"FR": "Yayoflautas, les retraités en lutte"
+	},
+	"JSON":"yayoflautras"
+  }
+}

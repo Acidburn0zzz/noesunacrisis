@@ -1,0 +1,75 @@
+{
+  "VIDEO": {
+	"PANNEAU":"5-PanneauSaccage",
+	"TITLE": {
+		"EN": "Complutense University",
+		"ES": "Universidad Complutense",
+		"FR": "Université Complutense"
+	},
+	"SUBTITLE": {
+		"EN": "Education is cut off",
+		"ES": "Recortes en educación",
+		"FR": "Ça coupe dans l'éducation"
+	},
+    "SRT": {
+		"EN": "EN_2_FAC.srt",
+		"ES": "ES_2_FAC.srt",
+		"FR": "FR_2_FAC.srt"
+	},
+    "FILE": {
+		"HD-MP4": "HD_fac.mp4",
+		"HD-WEBM": "HD_fac.webm",
+		"SD-MP4": "SD_fac.mp4",
+		"SD-WEBM": "SD_fac.webm"
+	},
+	"POPUPS": {
+		"192": {
+			"EN": {
+				"TITLE":"Public University in danger",
+				"LONGTITLE":"Public University in danger",
+				"MODALE":"<p align='justify'><ul><li><b>130 millions of € : <\/b>budget cut decided in july 2012 by the Community of Madrid for the six universities of Madrid, on a initial global budget of 1 billion euros, which means there is a decrease of 15%<\/li><br\/><li><b>50 millions of € :<\/b> funds missing for the scientific research of Complutense University of Madrid (public university also called UCM) because of the debts accumulated by the UCM. The scientists and the labs begin to lack of material.<\/li><br\/><li><b>40 % :<\/b> average raise of the registration fees in the public universities in Madrid, on september 2012.<\/li><br\/><li><b>1 500€ :<\/b> average cost of one year at the university in Spain<\/li><br\/><li><b>15% to 20% :<\/b> decrease of the number of students for the UCM master degrees because of the raise of the registration fee.<\/li><br\/><li><b>600 :<\/b> number of beneficiaries of a « special crisis scholarship » delivered by the Ministry of Education of the Community of Madrid. <\/li><br\/><li><b>7 000 :<\/b> in june 2013, number of students in Madrid, being threatened with exclusion of the University for delay of payment of the registration fees.<\/li><br\/><li><b>50 :<\/b> minimum limit of registered students. Under this limit an academic course is threatened to be suppressed according to the request of the Ministry of Education of the Community of Valencia. Among the disciplines who are about to dissapear in september 2013: History and Patrimony at the University of Castellon, Political Sciences and Sociology at the University of Valencia, Arabian and Islamic studies or even Geology at the University of Alicante, Agro-alimentary and rural engineering at the University of Elche.<\/li><\/ul><\/p>"
+			},
+			"ES": {
+				"TITLE":"Universidad pública en peligro",
+				"LONGTITLE":"Universidad pública en peligro",
+				"MODALE":"<p align='justify'><ul><li><b>130 millones de euros : <\/b>Recorte presupuestario decidido por la Comunidad de Madrid, para sus seis universidades, en julio de 2012, sobre un presupuesto total inicial previsto de mil millones, es decir, una disminución del 15%.<\/li><br\/><li><b>50 millones de euros :<\/b> Fondos de los que carece el departamento de investigación científica de la Universidad Complutense de Madrid, debido a las deudas acumuladas por la UCM. Científicos y laboratorios se están quedando sin material.<\/li><br\/><li><b>40 % :<\/b> Promedio del aumento de las tasas de matrícula en las universidades madrileñas, en septiembre de 2012.<\/li><br\/><li><b>1 500 euros :<\/b> Coste medio de un año universitario en España.<\/li><br\/><li><b>15% à 20% :<\/b> Disminución del número de estudiantes de máster en la UCM, debido al aumento de las tasas de matrícula.<\/li><br\/><li><b>600 :<\/b> Estudiantes universitarios amparados por la convocatoria extraordinaria de becas, efectuada por la Consejería de Educación con razón de la crisis económica. <\/li><br\/><li><b>7 000 :<\/b> Estudiantes universitarios madrileños en riesgo de exclusión, a causa de atrasos en el pago de las tasas de matricula, en junio de 2013.<\/li><br\/><li><b>50 :<\/b> Número mínimo de estudiantes inscritos. Por debajo de este umbral, cualquier formación universitaria corre el riesgo de ser suprimida, según las consignas del Ministerio de Educación de la Comunidad Valenciana. Entre las disciplinas amenazadas de extinción  este próximo curso se encuentran: Historia y Patrimonio, en la Universidad Jaume I, Ciencias Políticas y Sociología, Universidad de Valencia, Estudios Arabes e Islámicos y Geología, Universidad de Alicante, o Ingeniería agro-alimentaria y del medio rural, en la Universidad de Elche.<\/li><\/ul><\/p>"
+			},
+			"FR": {
+				"TITLE":"Université publique en danger",
+				"LONGTITLE":"Université publique en danger",
+				"MODALE":"<p align='justify'><ul><li><b>130 millions d’€ : <\/b>coupe budgétaire décidée en juillet 2012 par la Communauté de Madrid, pour les six universités madrilènes, sur un budget global initialement prévu à 1 milliard d’euros, soit une baisse de 15%.<\/li><br\/><li><b>50 millions d’€ :<\/b> fonds manquant à la recherche scientifique de l’Université Complutense de Madrid (UCM, publique), en raison des dettes accumulées par l’UCM. Les scientifiques et les laboratoires commencent à manquer de matériel.<\/li><br\/><li><b>40 % :<\/b> hausse moyenne des frais d’inscription dans les universités madrilènes, à la rentrée 2012.<\/li><br\/><li><b>1 500€ :<\/b> coût moyen d’une année d’université en Espagne. <\/li><br\/><li><b>15% à 20% :<\/b> baisse du nombre d’étudiants dans les masters de l’UCM, en raison de la hausse des frais d’inscription.<\/li><br\/><li><b>600 :<\/b> nombre de bénéficiaires d’une bourse « spéciale crise économique » délivrée par le Ministère de l’Education de la communauté madrilène.<\/li><br\/><li><b>7 000 :<\/b> en juin 2013, nombre d’étudiants madrilènes menacés d’exclusion de l’Université pour retards de paiement des frais d’inscription.<\/li><br\/><li><b>50 :<\/b> seuil du nombre d’élèves inscrits au-dessous duquel une formation universitaire est menacée de suppression, selon les consignes du Ministère de l’Education de la communauté valencienne. Parmi les disciplines amenées à disparaître en cette rentrée 2013 : Histoire & Patrimoine à l’Université de Castellón, Sciences politiques & Sociologie à l’Université de Valencia, Etudes arabes & islamiques ou encore Géologie à l’Université d’Alicante, Ingénierie agro-alimentaire et du monde rural à l’Université de Elche.<\/li><\/ul><\/p>"
+			}
+		},
+		"229": {
+			"EN": {
+				"TITLE":"A youth with no future",
+				"LONGTITLE":"A youth with no future",
+				"MODALE":"<iframe src='video2.html#valentin' style='width:558px;height:314px;border:none'><\/iframe>"
+			},
+			"ES": {
+				"TITLE":"Una juventud sin futuro",
+				"LONGTITLE":"Una juventud sin futuro",
+				"MODALE":"<iframe src='video2.html#valentin' style='width:558px;height:314px;border:none'><\/iframe>"
+			},
+			"FR": {
+				"TITLE":"Une jeunesse sans futur",
+				"LONGTITLE":"Une jeunesse sans futur",
+				"MODALE":"<iframe src='video2.html#valentin' style='width:558px;height:314px;border:none'><\/iframe>"
+			}
+		}
+	}
+  },
+  "NEXT" : {
+	"TITLE": {
+		"EN": "General strike",
+		"ES": "Huelga general",
+		"FR": "Grève générale"
+	},
+	"SUBTITLE": {
+		"EN": "Everybody in the street !",
+		"ES": "¡Todos a la calle!",
+		"FR": "Tous dans la rue !"
+	},
+	"JSON":"huelga"
+  }
+}

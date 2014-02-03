@@ -1,0 +1,488 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<revolt>
+	<config>
+		<video classname="symbols.BgMovieRevoltSymbol" />
+		<sound classname="symbols.SoundRevoltSymbol" />
+	</config>
+	<nav>
+		<item id="parlement">
+			<title>
+				<![CDATA[PARLAMENTO ESPAÑOL]]>
+			</title>
+			<subtitle>
+				<![CDATA[No nos representan !]]>
+			</subtitle>
+			<bgPicture>
+				<![CDATA[revolt_picture_1]]>
+			</bgPicture>
+			<video>
+				<!-- TODO: INFOS sur les videos, soustritr, etc... -->
+			</video>
+		</item>
+		<item id="puerta-del-sol">
+			<title>
+				<![CDATA[PUERTA DEL SOL]]>
+			</title>
+			<subtitle>
+				<![CDATA[El 15M]]>
+			</subtitle>
+			<bgPicture>
+				<![CDATA[revolt_picture_2]]>
+			</bgPicture>
+			<video>
+				<!-- TODO: INFOS sur les videos, soustritr, etc... -->
+			</video>
+		</item>
+		<item id="yayoflautas">
+			<title>
+				<![CDATA[EN CASA DE PILAR]]>
+			</title>
+			<subtitle>
+				<![CDATA[Yayoflautas, jubilados en pie de guerra]]>
+			</subtitle>
+			<bgPicture>
+				<![CDATA[revolt_picture_3]]>
+			</bgPicture>
+			<video>
+				<!-- TODO: INFOS sur les videos, soustritr, etc... -->
+			</video>
+		</item>
+		<item id="el-roto">
+			<title>
+				<![CDATA[TALLER DEL DISEÑADOR EL ROTO]]>
+			</title>
+			<subtitle>
+				<![CDATA[Dibujar la crisis]]>
+			</subtitle>
+			<bgPicture>
+				<![CDATA[revolt_picture_4]]>
+			</bgPicture>
+			<video>
+				<!-- TODO: INFOS sur les videos, soustritr, etc... -->
+			</video>
+		</item>
+	</nav>
+	<subtitle>
+		<![CDATA[Rebelión ciudadana]]>
+	</subtitle>
+	<movies>
+		<movie id="parlement" isFooter="true">
+			<video>
+				<sd>
+					<![CDATA[SD_parlement.mp4]]>
+				</sd>
+				<hd>
+					<![CDATA[HD_parlement.mp4]]>
+				</hd>
+			</video>
+			<subtitle>
+				<![CDATA[ES_3_PARLEMENT.srt]]>
+			</subtitle>
+			<synthes>
+				<item>
+					<timecode>
+						<![CDATA[00:01:43]]>
+					</timecode>
+					<desc>
+						<![CDATA[Ángelez Diez Rodriguez{0}Sociologa]]>
+					</desc>
+				</item>
+				<item>
+					<timecode>
+						<![CDATA[00:02:04]]>
+					</timecode>
+					<desc>
+						<![CDATA[Alberto Garzón{0}Diputado Izquierda Unida]]>
+					</desc>
+				</item>
+				<item>
+					<timecode>
+						<![CDATA[00:02:55]]>
+					</timecode>
+					<desc>
+						<![CDATA[Javier Gallego{0}Periodista radio]]>
+					</desc>
+				</item>
+				<item>
+					<timecode>
+						<![CDATA[00:03:21]]>
+					</timecode>
+					<desc>
+						<![CDATA[Carlos Taibo{0}Profesor de Ciencias politicas]]>
+					</desc>
+				</item>
+				<item>
+					<timecode>
+						<![CDATA[00:04:10]]>
+					</timecode>
+					<desc>
+						<![CDATA[Miguel Arana{0}Movimiento 15M]]>
+					</desc>
+				</item>
+				<item>
+					<timecode>
+						<![CDATA[00:09:22]]>
+					</timecode>
+					<desc>
+						<![CDATA[Enrique Dans{0}Profesor en Ciencias de la información y blogger]]>
+					</desc>
+				</item>
+			</synthes>
+			<complements>
+				<item id="cplt-barcenas">
+					<!-- texte / video -->
+					<type>
+						<![CDATA[texte]]>
+					</type>
+					<titleShort>
+						<![CDATA[El caso Bárcenas]]>
+					</titleShort>
+					<titleLong>
+						<![CDATA[El caso Bárcenas]]>
+					</titleLong>
+					<timecode>
+						<![CDATA[00:02:38]]>
+					</timecode>
+					<content>
+						<![CDATA[<p align='right'><font size='20'><b>Corrupción a todos los niveles : <br>El caso Bárcenas</p></font></b>
+						<p align='justify'>
+						Un escándalo más de la larga lista de casos de corrupción que envenenan la vida política española. Sólo que, esta vez, los implicados forman parte de la cúpula de gobierno...
+						<br>
+						El caso se destapó en enero de 2013, cuando <i>El Mundo</i> desveló un vasto sistema de corrupción en el seno del Partido Popular, organizado por su ex tesorero, Luis Bárcenas. Finalmente, todo un clásico (empresas constructoras que pagaban comisiones al PP, a cambio de obtener su tajada en los concursos públicos), excepto que esta vez se hizo a gran escala: muchos altos cargos del PP obtuvieron beneficios ¡durante dos décadas!
+						<br>
+						El caso tomó un giro a finales de enero de 2013, cuando <i>El País</i> afirmó que Mariano Rajoy fue uno de los beneficiarios del sistema de Bárcenas. El periódico presentó documentos en los que se muestra que el primer ministro habría recibido 25.000 € por año entre 1997 y 2008.
+						<br>
+						En el verano de 2013, Mariano Rajoy enfrenta serias dificultades, a causa de los mensajes intercambiados con Luis Bárcenas, que le obligaran a comparecer ante el Congreso.
+						</p>
+
+						]]>
+					</content>
+				</item>
+				<item id="cplt-electoral">
+					<!-- texte / video -->
+					<type>
+						<![CDATA[texte]]>
+					</type>
+					<titleShort>
+						<![CDATA[El sistema electoral español]]>
+					</titleShort>
+					<titleLong>
+						<![CDATA[El sistema electoral español]]>
+					</titleLong>
+					<timecode>
+						<![CDATA[00:06:11]]>
+					</timecode>
+					<content>
+						<![CDATA[<p align='right'><font size='20'><b>Injusto y desequilibrado : <br> el sistema electoral español</p></font></b>
+						<p align='justify'>
+						La reforma de la Ley electoral española forma parte de las reivindicaciones que cimentaron el movimiento 15M. Considerada injusta, favorece a los grandes partidos. Aunque en teoría la ley es proporcional, en la práctica se trata de un sistema electoral de mayorías, profundamente desigualitario.
+						<br>
+						Las Cortes Generales (el parlamento español) se componen de dos cámaras. La cámara baja, Congreso de los Diputados, y la Camara Alta, el Senado.
+						<br>
+						El Congreso de los Diputados lo forman 350 miembros elegidos cada cuatro años por sufragio universal directo. El modo de escrutinio es proporcional. Las 52 circunscripciones pueden atribuirse un número de escaños proporcional a su población, con un mínimo de 2. Este mínimo da una clara ventaja a las provincias con menor numero de habitantes.  Por tanto, no todos los votantes tienen el mismo peso electoral: el valor de su voto varía según la circunscripción a la que pertenecen.
+						<br>
+						Por otra parte, el modelo de cálculo de atribución de los escaños, según el sistema d'Hondt, es particularmente injusto. Este sistema permite que los grandes partidos acaparen la mayor parte de escaños, instaurando un bipartidismo de facto.
+						<br>
+						Tomemos, por ejemplo, los resultados de las elecciones legislativas de 2011, concentrándonos en los cinco partidos con mayor número de votos:
+						<br>
+						cuadro
+						<br>
+						El PP con un 44,62% de votos obtuvo el 53,14% de los escaños, mientras que  Izquierda Unida tan sólo logró un 3,14% de escaños por… el 6,92% de los votos.
+						<br>
+						A la inversa, el partido nacionalista catalán, Convergència i Unió, alcanzó una representación bastante aproximada respecto a su resultado real. Sus votantes se concentran en unas circunscripciones muy determinadas, de modo que el sistema de cálculo no le resulta desfavorable. Esto implica que los partidos nacionalistas son los únicos, visto el respectivo  número de diputados, que pueden formar coalición para lograr la mayoría. Por lo tanto, su influencia política es muy superior a su representatividad real.
+						<br>
+						Mas allá del sistema de cálculo de atribución de los escaños, el sistema electoral español se distingue por ser un sistema de listas cerradas. Resulta imposible presentarse candidato a la diputación de modo independiente. Los votantes tan sólo pueden escoger entre listas  bloqueadas por los partidos.
+						Esto plantea cuestiones de lealtad entre los candidatos hacia sus respectivos partidos:<i>« llegar a ser diputado no conlleva implicarse, ser popular o disfrutar del respaldo de un determinado grupo de ciudadanos »</i>, resume el profesor de Ciencias Políticas Robert Liñeira, <i>« basta con que aquellos que confeccionan las listas te posicionen en un buen lugar »</i>.
+						<br>
+						Por otra parte, estos diputados, escogidos a través de las listas, son a veces desconocidos para sus propios electores: en España, la proximidad entre el elegido y sus votantes es una mera ilusión.
+						</p>
+
+						]]>
+					</content>
+				</item>
+				<item id="cplt-elvira">
+					<!-- texte / video -->
+					<type>
+						<![CDATA[video]]>
+					</type>
+					<titleShort>
+						<![CDATA[El caso islandés]]>
+					</titleShort>
+					<titleLong>
+						<![CDATA[El caso islandés]]>
+					</titleLong>
+					<timecode>
+						<![CDATA[00:09:06]]>
+					</timecode>
+					<content>
+						<sd>
+							<![CDATA[SD_elvira.mp4]]>
+						</sd>
+						<hd>
+							<![CDATA[HD_elvira.mp4]]>
+						</hd>
+						<subtitle>
+							<![CDATA[]]>
+						</subtitle>
+					</content>
+				</item>
+			</complements>
+		</movie>
+		<movie id="yayoflautas" isFooter="true">
+			<video>
+				<sd>
+					<![CDATA[SD_yayoflautas.mp4]]>
+				</sd>
+				<hd>
+					<![CDATA[HD_yayoflautas.mp4]]>
+				</hd>
+			</video>
+			<subtitle>
+				<![CDATA[ES_3_YAYOFLAUTAS.srt]]>
+			</subtitle>
+			<synthes/>
+			<complements>
+				<item id="cplt-pilar">
+					<!-- texte / video -->
+					<type>
+						<![CDATA[video]]>
+					</type>
+					<titleShort>
+						<![CDATA[Retrato de Pilar]]>
+					</titleShort>
+					<titleLong>
+						<![CDATA[Retrato de Pilar]]>
+					</titleLong>
+					<timecode>
+						<![CDATA[00:06:18]]>
+					</timecode>
+					<content>
+						<sd>
+							<![CDATA[SD_pilar.mp4]]>
+						</sd>
+						<hd>
+							<![CDATA[HD_pilar.mp4]]>
+						</hd>
+						<subtitle>
+							<![CDATA[ES_PILAR.srt]]>
+						</subtitle>
+					</content>
+				</item>
+			</complements>
+		</movie>
+		<movie id="el-roto" isFooter="true">
+			<video>
+				<sd>
+					<![CDATA[]]>
+				</sd>
+				<hd>
+					<![CDATA[]]>
+				</hd>
+			</video>
+			<subtitle>
+				<![CDATA[]]>
+			</subtitle>
+			<synthes>
+				<item>
+					<timecode>
+						<![CDATA[00:00:30]]>
+					</timecode>
+					<desc>
+						<![CDATA[El Roto<br/>Pintor y disenador (El País)]]>
+					</desc>
+				</item>
+			</synthes>
+			<complements/>
+		</movie>
+		<movie id="puerta-del-sol" isFooter="true">
+			<video>
+				<sd>
+					<![CDATA[SD_puertadelsol_mouvement.mp4]]>
+				</sd>
+				<hd>
+					<![CDATA[HD_puertadelsol_mouvement.mp4]]>
+				</hd>
+			</video>
+			<subtitle>
+				<![CDATA[ES_3_PUERTADELSOL.srt]]>
+			</subtitle>
+			<synthes>
+				<item>
+					<timecode>
+						<![CDATA[00:01:33]]>
+					</timecode>
+					<desc>
+						<![CDATA[15 de mayo 2011{0}Puerta del Sol]]>
+					</desc>
+				</item>
+				<item>
+					<timecode>
+						<![CDATA[00:02:11]]>
+					</timecode>
+					<desc>
+						<![CDATA[Carlos Taibo{0}Profesor de Ciencias politicas]]>
+					</desc>
+				</item>
+				<item>
+					<timecode>
+						<![CDATA[00:03:16]]>
+					</timecode>
+					<desc>
+						<![CDATA[Ángelez Diez Rodriguez{0}Sociologa]]>
+					</desc>
+				</item>
+				<item>
+					<timecode>
+						<![CDATA[00:03:59]]>
+					</timecode>
+					<desc>
+						<![CDATA[Ignacio Sierra{0}Activista del 15M]]>
+					</desc>
+				</item>
+				<item>
+					<timecode>
+						<![CDATA[00:04:14]]>
+					</timecode>
+					<desc>
+						<![CDATA[Enrique Dans{0}Profesor en Ciencias de la información y blogger]]>
+					</desc>
+				</item>
+				<item>
+					<timecode>
+						<![CDATA[00:06:00]]>
+					</timecode>
+					<desc>
+						<![CDATA[Susana Sanz{0}Cyberactivista del 15M]]>
+					</desc>
+				</item>
+				<item>
+					<timecode>
+						<![CDATA[00:06:18]]>
+					</timecode>
+					<desc>
+						<![CDATA[Miguel Arana{0}Movimiento del 15M]]>
+					</desc>
+				</item>
+				<item>
+					<timecode>
+						<![CDATA[00:06:44]]>
+					</timecode>
+					<desc>
+						<![CDATA[15 mai 2011{0}Puerta del Sol]]>
+					</desc>
+				</item>
+				<item>
+					<timecode>
+						<![CDATA[00:09:46]]>
+					</timecode>
+					<desc>
+						<![CDATA[16 mai 2011{0}Primera asamblea en la Puerta del Sol]]>
+					</desc>
+				</item>
+				<item>
+					<timecode>
+						<![CDATA[00:15:22]]>
+					</timecode>
+					<desc>
+						<![CDATA[Alberto Garzón{0}Diputado Izquierda Unida]]>
+					</desc>
+				</item>
+				<item>
+					<timecode>
+						<![CDATA[00:18:10]]>
+					</timecode>
+					<desc>
+						<![CDATA[Enrique Dans{0}Profesor en Ciencias de la información y blogger]]>
+					</desc>
+				</item>
+				<item>
+					<timecode>
+						<![CDATA[00:19:08]]>
+					</timecode>
+					<desc>
+						<![CDATA[Carlos Taibo{0}Profesor de Ciencias politicas]]>
+					</desc>
+				</item>
+			</synthes>
+			<complements>
+				<item id="cplt-bologne">
+					<!-- texte / video -->
+					<type>
+						<![CDATA[texte]]>
+					</type>
+					<titleShort>
+						<![CDATA[El Proceso de Bolonia]]>
+					</titleShort>
+					<titleLong>
+						<![CDATA[El Proceso de Bolonia]]>
+					</titleLong>
+					<timecode>
+						<![CDATA[00:02:34]]>
+					</timecode>
+					<content>
+						<![CDATA[<p align='right'><font size='20'><b>El Proceso de Bolonia</p></font></b>
+						<p align='justify'>
+						El Proceso de Bolonia es un conjunto de reformas que tiene por objetivo crear un espacio europeo de educación superior, centrado en dos grandes ejes: potenciar la movilidad de los estudiantes e investigadores y el atractivo de las universidades europeas en el mundo. En Francia, las reformas mas visibles del Plan Bolonia fueron la adopción del sistema de créditos ETC y la reorganización de los currículos sobre un modelo tríptico Licenciatura – Máster – Doctorado (LMD).
+						<br>
+						Bajo la influencia de la Comisión Europea, el proceso de Bolonia ha tomado un giro en el que se incrementa la competitividad económica de la enseñanza superior, en un contexto que promueve la rivalidad de los centros universitarios.
+						<br>
+						De este modo, el proceso ha servido de pretexto a los gobiernos estatales para incrementar la autonomía de los centros de enseñanza superior, reformando, por ejemplo, los órganos de gobierno - para aumentar los poderes del presidente de la universidad-. La autonomía de presupuesto también se confirma como objetivo; aumentan las tarifas (precio de matrícula) y se desarrollan modelos privados de financiación.
+						<br>
+						Todo esto hace que el proceso de Bolonia sea percibido por gran parte de la comunidad académica, como el caballo de Troya del desmantelamiento de los servicios públicos de  educación superior e investigación.
+						</p>
+
+						]]>
+					</content>
+				</item>
+				<item id="cplt-chronologie">
+					<!-- texte / video -->
+					<type>
+						<![CDATA[texte]]>
+					</type>
+					<titleShort>
+						<![CDATA[Cronología del 15M]]>
+					</titleShort>
+					<titleLong>
+						<![CDATA[Cronología del 15M]]>
+					</titleLong>
+					<timecode>
+						<![CDATA[00:23:05]]>
+					</timecode>
+					<content>
+						<![CDATA[<p align='right'><font size='20'><b>15M, cronología de un movimiento</p></font></b>
+
+						<p align='justify'>
+						<br/><li><b>15 de mayo 2011 : </b>manifestación en toda España contra la austeridad y por una democracia real. En Madrid, un pequeño grupo de manifestantes decide acampar en la Puerta del Sol, serán evacuados por la policía a la mañana siguiente.</li>
+						<br/><li><b>17 de mayo 2011: : </b>de nuevo, manifestaciones por todo el país. La puerta del Sol es ocupada al atardecer.</li>
+						<br/><li><b>27 de mayo 2011 : </b>el campamento de la plaza Cataluña de Barcelona es evacuado manu militari por los antidisturbios.</li>
+						<br/><li><b>12 de junio 2011 : </b>la asamblea de la Puerta del Sol decide desmantelar su campamento.</li>
+						<br/><li><b>19 de junio 2011 : </b>jornada europea de protestas contra la austeridad.</li>
+						<br/><li><b>23 de julio 2011 : </b>llegada a Madrid de las marchas populares de los indignados, partidas un mes antes desde una veintena de ciudades españolas.</li>
+						<br/><li><b>17 de septiembre 2011 : </b>debut del movimiento Occupy Wall Street en Estados-Unidos.</li>
+						<br/><li><b>15 de octubre 2011 : </b>primera jornada mundial de los indignados, con cerca de un millar de manifestaciones en 80 países.</li>
+						<br/><li><b>15 de mayo 2012 : </b>primer aniversario del movimiento, algunos lamentan (y desprecian) su desinflamiento, otros, al contrario, subrayan el extraordinario dinamismo que ha aportado a la sociedad civil española.</li>
+						<br/><li><b>25 de septiembre 2012 : </b>en un momento de austeridad generalizada, el lema "no nos representan" sigue siendo válido para los indignados españoles. Reunidos en el seno de la Coordinadora 25-S, la constelación de movimientos surgidos a raíz del 15M hace un llamamiento para rodear el Congreso de Diputados.</li>
+						</p>
+
+						<br/><li>Más información en La Vanguardia
+						<br>
+						<i><a href="http://www.lavanguardia.com/cultura/20110615/54169595425/cronica-personal-de-un-movimiento.html" target=_blank>Crónica personal de un movimiento</a></i>
+						</li>
+
+						<br/><li>Más información en El Pais
+						<br>
+						<i><a href="http://politica.elpais.com/politica/2012/05/05/actualidad/1336234920_810740.html" target=_blank>La silenciosa expansión del 15-M</a></i>
+						</li>
+
+						<br/><li>Más información en InfoLibre (con subscripción)
+						<br>
+						<i><a href="http://www.infolibre.es/noticias/politica/2013/05/16/balance_dos_anos_3429_1012.html " target=_blank>El movimiento que repolitizó la calle en España</a></i>
+						</li>
+						]]>
+					</content>
+				</item>
+			</complements>
+		</movie>
+	</movies>
+
+</rampage>

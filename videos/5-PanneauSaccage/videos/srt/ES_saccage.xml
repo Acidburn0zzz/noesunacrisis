@@ -1,0 +1,429 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<rampage>
+	<config>
+		<video classname="symbols.BgMovieRampageSymbol" />
+		<sound classname="symbols.SoundRampageSymbol" />
+	</config>
+	<nav>
+		<item id="torrespana">
+			<title>
+				<![CDATA[TORRESPAÑA]]>
+			</title>
+			<subtitle>
+				<![CDATA[Periodismo en crisis]]>
+			</subtitle>
+			<bgPicture>
+				<![CDATA[rampage_picture_1]]>
+			</bgPicture>
+			<video>
+				<!-- TODO: INFOS sur les videos, soustritr, etc... -->
+			</video>
+		</item>
+		<item id="fac">
+			<title>
+				<![CDATA[UNIVERSIDAD COMPLUTENSE]]>
+			</title>
+			<subtitle>
+				<![CDATA[Recortes en educación]]>
+			</subtitle>
+			<bgPicture>
+				<![CDATA[rampage_picture_2]]>
+			</bgPicture>
+			<video>
+				<!-- TODO: INFOS sur les videos, soustritr, etc... -->
+			</video>
+		</item>
+		<item id="greve">
+			<title>
+				<![CDATA[HUELGA GENERAL]]>
+			</title>
+			<subtitle>
+				<![CDATA[ ¡Todos a la calle!]]>
+			</subtitle>
+			<bgPicture>
+				<![CDATA[rampage_picture_3]]>
+			</bgPicture>
+			<video>
+				<!-- TODO: INFOS sur les videos, soustritr, etc... -->
+			</video>
+		</item>
+		<item id="hopital">
+			<title>
+				<![CDATA[HOSPITAL GREGORIO MARAÑON]]>
+			</title>
+			<subtitle>
+				<![CDATA[Privatización de la salud... y de los beneficios públicos]]>
+			</subtitle>
+			<bgPicture>
+				<![CDATA[rampage_picture_4]]>
+			</bgPicture>
+			<video>
+				<!-- TODO: INFOS sur les videos, soustritr, etc... -->
+			</video>
+		</item>
+	</nav>
+	<subtitle>
+		<![CDATA[Rigueur à tous les étages]]>
+	</subtitle>
+	<movies>
+		<movie id="greve" isFooter="true">
+			<video>
+				<sd>
+					<![CDATA[SD_huelga.mp4]]>
+				</sd>
+				<hd>
+					<![CDATA[HD_huelga.mp4]]>
+				</hd>
+			</video>
+			<subtitle>
+				<![CDATA[ES_2_GREVE.srt]]>
+			</subtitle>
+			<synthes/>
+			<complements/>
+		</movie>
+		<movie id="torrespana" isFooter="true">
+			<video>
+				<sd>
+					<![CDATA[SD_torrespanna.mp4]]>
+				</sd>
+				<hd>
+					<![CDATA[HD_torrespanna.mp4]]>
+				</hd>
+			</video>
+			<subtitle>
+				<![CDATA[ES_2_TORRESPANA.srt]]>
+			</subtitle>
+			<synthes>
+				<item>
+					<timecode>
+						<![CDATA[00:00:50]]>
+					</timecode>
+					<desc>
+						<![CDATA[Ramon Muñoz{0}Periodista El País]]>
+					</desc>
+				</item>
+				<item>
+					<timecode>
+						<![CDATA[00:02:33]]>
+					</timecode>
+					<desc>
+						<![CDATA[Juan-Lu Sánchez{0}Subdirector El Diario]]>
+					</desc>
+				</item>
+				<item>
+					<timecode>
+						<![CDATA[00:03:54]]>
+					</timecode>
+					<desc>
+						<![CDATA[Javier Gallego{0}Periodista radio]]>
+					</desc>
+				</item>
+				<item>
+					<timecode>
+						<![CDATA[00:04:26]]>
+					</timecode>
+					<desc>
+						<![CDATA[Extractos de "Carne Cruda"{0}Radio 3 (02/12/2011)]]>
+					</desc>
+				</item>
+			</synthes>
+			<complements>
+				<item id="cplt-tiersmonde">
+					<!-- texte / video -->
+					<type>
+						<![CDATA[video]]>
+					</type>
+					<titleShort>
+						<![CDATA[España, destino Tercer-Mundo]]>
+					</titleShort>
+					<titleLong>
+						<![CDATA[España, destino Tercer-Mundo]]>
+					</titleLong>
+					<timecode>
+						<![CDATA[00:00:30]]>
+					</timecode>
+					<content>
+						<sd>
+							<![CDATA[SD_ramon.mp4]]>
+						</sd>
+						<hd>
+							<![CDATA[HD_ramon.mp4]]>
+						</hd>
+						<subtitle>
+							<![CDATA[ES_RAMON.srt]]>
+						</subtitle>
+					</content>
+				</item>
+				<item id="cplt-panora">
+					<!-- texte / video -->
+					<type>
+						<![CDATA[texte]]>
+					</type>
+					<titleShort>
+						<![CDATA[Un panorama mediático desequilibrado]]>
+					</titleShort>
+					<titleLong>
+						<![CDATA[Un panorama mediático desequilibrado]]>
+					</titleLong>
+					<timecode>
+						<![CDATA[00:02:52]]>
+					</timecode>
+					<content>
+						<![CDATA[<p align='right'><font size='20'><b>Un panorama mediático desequilibrado</p></font></b>
+						<p align='justify'>
+						Izquierda : 
+						<br/><li>Eldiario.es</li> 
+						<br/><li>Infolibre.es</li> 
+						<br>
+						Centro-izquierda : 
+						<br/><li>Grupo PRISA (El Pais, As, Cinco Dias, Canal + Espagne, 18% Mediaset, Cadena Ser, 0 Principales, 15% Le Monde)</li> 
+						<br/><li>La Sexta (Atresmedia)</li> 
+						<br/><li>Público.es</li> 
+						<br>
+						Centro-derecha : 
+						<br/><li>Grupo Vocento (ABC + quotidiens régionaux, Net TV)</li> 
+						<br/><li>Grupo Godó (La Vanguardia, El Mundo Deportivo, TNT catalane)</li> 
+						<br>
+						Derecha : 
+						<br/><li>Unidad Editorial (El Mundo, Marca, Expansión, Popular TV, Radio Marca)</li> 
+						<br/><li>Atresmedia (Antena 3, Onda Cero, Europa FM)</li> 
+						<br/><li>Mediaset España (Telecinco, Cuatro, La Siete), del grupo italiano Mediaset de Silvio Berlusconi</li> 
+						<br/><li>RTVE (publico)</li> 
+						<br>
+						Más allá de la derecha : 
+						<br/><li>Grupo Planeta (La Razón, 45% Atresmedia, Editis en France)</li> 
+						<br/><li>Conferencia Episcopal Española (Cadena COPE, Cadena 100, 13TV)</li> 
+						<br/><li>Grupo Intereconomia (La Gaceta, Intereconomia TV)</li> 
+						</p>
+						]]>
+					</content>
+				</item>
+				<item id="cplt-purge">
+					<!-- texte / video -->
+					<type>
+						<![CDATA[texte]]>
+					</type>
+					<titleShort>
+						<![CDATA[Purga política en RTVE]]>
+					</titleShort>
+					<titleLong>
+						<![CDATA[Purga política en RTVE]]>
+					</titleLong>
+					<timecode>
+						<![CDATA[00:03:47]]>
+					</timecode>
+					<content>
+						<![CDATA[<p align='right'><font size='20'><b>Purga política en RTVE</p></font></b>
+						<p align='justify'>
+						La impermeabilidad de los medios de comunicación públicos españoles a las alternancias políticas, ha sido siempre defectuosa. Al parecer, la purga fue particularmente notable cuando Mariano Rajoy llegó a la cúpula del gobierno, en diciembre de 2011.   
+						<br>
+						A pesar de que Jose Luis Rodriguez Zapatero empezara un proceso de despolitización de la Radio Televisión Española (RTVE) cuando decidió que la presidencia de los medios audiovisuales públicos debía contar con una mayoría de dos tercios de la Camara de Diputados, Mariano Rajoy hizo marcha atrás, volviendo a una nominación directa por parte del gobierno y, en junio de 2012, nombró a Leopoldo González Echenique presidente de RTVE. 
+						<br>
+						Fue entonces cuando Julio Somano tomó la dirección del servicio de información. Antes redactor jefe del telediario de Telemadrid, Somano también ha escrito para algunos de los periódicos más conservadores (El Mundo).  Menos conocido que su currículo es el tema de su tesis en comunicación política: <i>“Una estrategia de comunicación para la victoria del Partido Popular en las próximas elecciones legislativas”</i>.  
+						<br>
+						El verano de 2012, Julio Somano empezó a hacer limpieza en algunos programas de la televisión pública. Ana Pastor García representa lo que se percibió entonces como una purga política. Presentadora de éxito de las mañanas de TVE, la periodista es conocida por el rigor y la tenacidad de sus entrevistas políticas. Ella ya se encontraba en el punto de mira del PP antes de las elecciones, ya que el portavoz del partido de Rajoy, justo antes del verano de 2011, dejó entender que la periodista sería apartada de la antena si el PP retomaba el poder. 
+						<br>
+						En agosto de 2012 su cese se hizo efectivo. Al tiempo fueron destituidos Alicia Montano, de  <i>Informe semanal</i>, y Xabier Fortes, del <i>Canal 24 horas</i>. También a ellos se les reprochaba haber cuestionado en demasía las políticas de austeridad.
+						<br>
+						Del mismo modo, en septiembre, fueron apartados de la radio pública Javier Gallego y su impertinente programa <i>Carne cruda</i>, así como el economista Paco Alvarez por su crónica <i>La Bolsa y la vida.</i>. 
+						</p>
+
+						<br/><li>Más información en El País
+						<br>
+						<i><a href="http://politica.elpais.com/politica/2012/05/20/actualidad/1337545022_640739.html" target="_blank">La RTVE del PP</a></i>
+						</li>	
+
+						
+						]]>
+					</content>
+				</item>
+				<item id="cplt-sabotage">
+					<!-- texte / video -->
+					<type>
+						<![CDATA[texte]]>
+					</type>
+					<titleShort>
+						<![CDATA[El sabotaje de Telemadrid]]>
+					</titleShort>
+					<titleLong>
+						<![CDATA[Telemadrid, el sabotaje de una televisión pública]]>
+					</titleLong>
+					<timecode>
+						<![CDATA[00:06:15]]>
+					</timecode>
+					<content>
+						<![CDATA[<p align='right'><font size='20'><b>Telemadrid, el sabotaje de una televisión pública</p></font></b>
+						<p align='justify'>
+						Ver en entero el corto de animación realizado por los empleados de Telemadrid : <i><a href="http://www.salvemostelemadrid.es/telemadrid-como-destruir-un-servicio-publico/ " target="_blank">Telemadrid, cómo destruir un servicio público</a></i>
+						</p>
+						]]>
+					</content>
+				</item>
+
+			</complements>
+		</movie>
+		<movie id="hopital" isFooter="true">
+			<video>
+				<sd>
+					<![CDATA[SD_hopital.mp4]]>
+				</sd>
+				<hd>
+					<![CDATA[HD_hopital.mp4]]>
+				</hd>
+			</video>
+			<subtitle>
+				<![CDATA[ES_2_HOPITAL.srt]]>
+			</subtitle>
+			<synthes>
+				<item>
+					<timecode>
+						<![CDATA[00:02:21]]>
+					</timecode>
+					<desc>
+						<![CDATA[Gloria Sanz{0}Enfermera]]>
+					</desc>
+				</item>
+				<item>
+					<timecode>
+						<![CDATA[00:03:30]]>
+					</timecode>
+					<desc>
+						<![CDATA[Andrea Romero{0}Médico]]>
+					</desc>
+				</item>
+			</synthes>
+			<complements>
+				<item id="cplt-santebuisness">
+					<!-- texte / video -->
+					<type>
+						<![CDATA[texte]]>
+					</type>
+					<titleShort>
+						<![CDATA[Tu salud es su negocio]]>
+					</titleShort>
+					<titleLong>
+						<![CDATA[Tu salud es su negocio]]>
+					</titleLong>
+					<timecode>
+						<![CDATA[00:00:47]]>
+					</timecode>
+					<content>
+						<![CDATA[<p align='right'><font size='20'><b>Tu salud es su negocio</p></font></b>
+						<p align='justify'>
+						La Comunidad de Madrid inició un proceso de privatización de la gestión de veintisiete centros de salud y seis grandes hospitales de su región.
+						<br>
+						El 7 de junio de 2013, para sorpresa general, sólo dos compañías privadas respondieron a la oferta del gobierno regional, interesándose tan solo por tres de los hospitales. Fueron los fondos de inversión británicos CVC Capital Partners, vía su filial IDC Salud (ex-Capio), y su competidor local, el español HM Hospitales, aunque ambos tiraron la toalla: los posibles  beneficios de la gestión de estos hospitales se revelaban menores de lo previsto.
+						<br>
+						Evidentemente, el objetivo visible de los fondos CVC Capital Partners es detectar sectores de “alta rentabilidad”. Lo que no impide que IDC Salud haya sido acusada de hacer circular sus beneficios a través de sociedades pantalla hacia las Islas Caimán, con el único fin de escapar a los impuestos.
+						<br>
+						Sanitas y Ribera Salud (quienes ya gestionan dos hospitales privados en Valencia), también han presentado ofertas por los hospitales - Infanta Leonor, Sureste y Hospital de Henares .
+						</p>
+
+						<br/><li>Más información en El Diario
+						<br>
+						<i><a href="http://www.eldiario.es/sociedad/sanidad-madrid-privatizacion-oferta_economica_0_147685460.html" target="_blank">Ninguna sociedad compite con otra por hacerse con lotes de los centros privatizados </a></i>
+						</li>
+
+						<br/><li>Más información en InfoLibre (suscripción requerida)
+						<br>
+						<i><a href="http://www.infolibre.es/noticias/politica/2013/03/05/los_duenos_del_gigante_sanidad_privatizada_ocultan_las_caiman_781_1012.html " target="_blank">Los dueños del gigante de la sanidad privatizada se ocultan en las Caimán</a></i>
+						</li>
+						]]>
+					</content>
+				</item>
+			</complements>
+		</movie>
+		<movie id="fac" isFooter="true">
+			<video>
+				<sd>
+					<![CDATA[SD_fac.mp4]]>
+				</sd>
+				<hd>
+					<![CDATA[HD_fac.mp4]]>
+				</hd>
+			</video>
+			<subtitle>
+				<![CDATA[ES_2_FAC.srt]]>
+			</subtitle>
+			<synthes>
+				<item>
+					<timecode>
+						<![CDATA[00:00:59]]>
+					</timecode>
+					<desc>
+						<![CDATA[Ángelez Diez Rodriguez{0}Sociologa]]>
+					</desc>
+				</item>
+				<item>
+					<timecode>
+						<![CDATA[00:04:27]]>
+					</timecode>
+					<desc>
+						<![CDATA[Cruz Diez{0}Profesora]]>
+					</desc>
+				</item>
+			</synthes>
+			<complements>
+				<item id="cplt-universite">
+					<!-- texte / video -->
+					<type>
+						<![CDATA[texte]]>
+					</type>
+					<titleShort>
+						<![CDATA[Universidad pública en peligro]]>
+					</titleShort>
+					<titleLong>
+						<![CDATA[Universidad pública en peligro]]>
+					</titleLong>
+					<timecode>
+						<![CDATA[00:03:12]]>
+					</timecode>
+					<content>
+						<![CDATA[<p align='right'><font size='20'><b>Universidad pública en peligro</p></font></b>
+						<p align='justify'>
+						<br/><li><b>130 millones de euros : </b>Recorte presupuestario decidido por la Comunidad de Madrid, para sus seis universidades, en julio de 2012, sobre un presupuesto total inicial previsto de mil millones, es decir, una disminución del 15%.</li>
+						<br/><li><b>50 millones de euros :</b> Fondos de los que carece el departamento de investigación científica de la Universidad Complutense de Madrid, debido a las deudas acumuladas por la UCM. Científicos y laboratorios se están quedando sin material.</li>
+						<br/><li><b>40 % :</b> Promedio del aumento de las tasas de matrícula en las universidades madrileñas, en septiembre de 2012.</li>
+						<br/><li><b>1 500 euros :</b> Coste medio de un año universitario en España.</li>
+						<br/><li><b>15% à 20% :</b> Disminución del número de estudiantes de máster en la UCM, debido al aumento de las tasas de matrícula.</li>
+						<br/><li><b>600 :</b> Estudiantes universitarios amparados por la convocatoria extraordinaria de becas, efectuada por la Consejería de Educación con razón de la crisis económica. </li>
+						<br/><li><b>7 000 :</b> Estudiantes universitarios madrileños en riesgo de exclusión, a causa de atrasos en el pago de las tasas de matricula, en junio de 2013.</li>
+						<br/><li><b>50 :</b> Número mínimo de estudiantes inscritos. Por debajo de este umbral, cualquier formación universitaria corre el riesgo de ser suprimida, según las consignas del Ministerio de Educación de la Comunidad Valenciana. Entre las disciplinas amenazadas de extinción  este próximo curso se encuentran: Historia y Patrimonio, en la Universidad Jaume I, Ciencias Políticas y Sociología, Universidad de Valencia, Estudios Arabes e Islámicos y Geología, Universidad de Alicante, o Ingeniería agro-alimentaria y del medio rural, en la Universidad de Elche.</li>
+						</p>
+
+						]]>
+
+					</content>
+				</item>
+				<item id="cplt-jeunesse">
+					<!-- texte / video -->
+					<type>
+						<![CDATA[video]]>
+					</type>
+					<titleShort>
+						<![CDATA[Una juventud sin futuro]]>
+					</titleShort>
+					<titleLong>
+						<![CDATA[Una juventud sin futuro]]>
+					</titleLong>
+					<timecode>
+						<![CDATA[00:03:49]]>
+					</timecode>
+					<content>
+						<sd>
+							<![CDATA[SD_valentin.mp4]]>
+						</sd>
+						<hd>
+							<![CDATA[HD_valentin.mp4]]>
+						</hd>
+						<subtitle>
+							<![CDATA[ES_VALENTIN]]>
+						</subtitle>
+					</content>
+				</item>
+
+			</complements>
+		</movie>
+	</movies>
+
+</rampage>

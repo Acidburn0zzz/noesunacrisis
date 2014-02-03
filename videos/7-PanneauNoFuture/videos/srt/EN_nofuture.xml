@@ -1,0 +1,242 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<nofuture>
+	<config>
+		<video classname="symbols.BgMovieNofutureSymbol" />
+		<sound classname="symbols.SoundNoFutureSymbol" />
+	</config>
+	<nav>
+		<item id="patio">
+			<title>
+				<![CDATA[PATIO MARAVILLAS SQUAT]]>
+			</title>
+			<subtitle>
+				<![CDATA[The youth with no future]]>
+			</subtitle>
+			<bgPicture>
+				<![CDATA[nofuture_picture_1]]>
+			</bgPicture>
+			<video>
+				<!-- TODO: INFOS sur les videos, soustritr, etc... -->
+			</video>
+		</item>
+		<item id="ecole-de-langues">
+			<title>
+				<![CDATA[FOREIGN LANGUAGE SCHOOL]]>
+			</title>
+			<subtitle>
+				<![CDATA[Young people, run !]]>
+			</subtitle>
+			<bgPicture>
+				<![CDATA[nofuture_picture_2]]>
+			</bgPicture>
+			<video>
+				<!-- TODO: INFOS sur les videos, soustritr, etc... -->
+			</video>
+		</item>
+		<item id="bassi">
+			<title>
+				<![CDATA[ALFIL THEATRE]]>
+			</title>
+			<subtitle>
+				<![CDATA[Humor and hope]]>
+			</subtitle>
+			<bgPicture>
+				<![CDATA[nofuture_picture_3]]>
+			</bgPicture>
+			<video>
+				<!-- TODO: INFOS sur les videos, soustritr, etc... -->
+			</video>
+		</item>
+		<item id="foot">
+			<title>
+				<![CDATA[REAL MADRID'S STADIUM]]>
+			</title>
+			<subtitle>
+				<![CDATA[La Liga, a second class championship]]>
+			</subtitle>
+			<bgPicture>
+				<![CDATA[nofuture_picture_4]]>
+			</bgPicture>
+			<video>
+				<!-- TODO: INFOS sur les videos, soustritr, etc... -->
+			</video>
+		</item>
+	</nav>
+	<subtitle>
+		<![CDATA[The future of Spain sacrificed]]>
+	</subtitle>
+	<movies>
+		<movie id="ecole-de-langues" isFooter="true">
+			<video>
+				<sd>
+					<![CDATA[SD_ecole-langues.mp4]]>
+				</sd>
+				<hd>
+					<![CDATA[HD_ecole-langues.mp4]]>
+				</hd>
+			</video>
+			<subtitle>
+				<![CDATA[EN_4_ECOLEDELANGUES.srt]]>
+			</subtitle>
+			<synthes/>
+			<complements/>
+		</movie>
+		<movie id="foot" isFooter="true">
+			<video>
+				<sd>
+					<![CDATA[SD_foot.mp4]]>
+				</sd>
+				<hd>
+					<![CDATA[HD_foot.mp4]]>
+				</hd>
+			</video>
+			<subtitle>
+				<![CDATA[EN_4_FOOT.srt]]>
+			</subtitle>
+			<synthes>
+				<item>
+					<timecode>
+						<![CDATA[00:01:24]]>
+					</timecode>
+					<desc>
+						<![CDATA[Javier Gómez{0}Sport journalist]]>
+					</desc>
+				</item>
+			</synthes>
+			<complements>
+				<item id="cplt-dette">
+					<!-- texte / video -->
+					<type>
+						<![CDATA[texte]]>
+					</type>
+					<titleShort>
+						<![CDATA[Football strangled by the debt]]>
+					</titleShort>
+					<titleLong>
+						<![CDATA[Football strangled by the debt]]>
+					</titleLong>
+					<timecode>
+						<![CDATA[00:01:44]]>
+					</timecode>
+					<content>
+						<![CDATA[<p align='right'><font size='20'><b>Football strangled by the debt</p></font></b>
+
+						<p align='justify'>
+						<br/><li><b>6 billion of € : </b>total debt of the spanish football clubs, of which 3,5 billions are only for the League, the most in debt championship in the world.</li>
+						<br/><li><b>752 et 600 million of € : </b>debt of the football clubs to the Public spanish treasure and the Social Security. </li>
+						<br/><li><b>450 million of € : </b>debt of Real Madrid, for 24,4 millions  euros of benefits in 2012</li>
+						<br/><li><b>335 million of € : </b>debt of  Barça, for 40 million euros of benefits in 2012</li>
+						<br/><li><b>9 : </b>number of titles won by Real or Barça during the 10 last championships</li>
+						<br/><li><b>22 : </b>number of Spanish clubs in suspension of payments in 2012, over 23 in Europe</li>
+						<br/><li><b>35% : </b>share of incomes from the TV rights that the spanish clubs have to use for the repayment of the tax arrears, starting with the 2014-2015 season.</li>
+						<br/><li><b>94 millions of € : </b>Amount of Cristiano Ronaldo's transfer from Manchester United to Real, with a salary of 19 million euros all bonus included. In September 2012, Ronaldo declared him self a little sad after one of his club's victory against Grenade: it seems that the insufficiency of his incomes are causing this distress.</li>
+						<br/><li><b>62 % : </b>decrease of the amounts invested for the 2012 market</li>
+						<br/><li><b>4 millions of € :</b> suspected tax fraud of Lionel Messi, who was then pursuit by the Spanish Public Treasury</li>
+						</p>
+
+						]]>
+					</content>
+				</item>
+			</complements>
+		</movie>
+		<movie id="patio" isFooter="true">
+			<video>
+				<sd>
+					<![CDATA[SD_patio]]>
+				</sd>
+				<hd>
+					<![CDATA[HD_patio]]>
+				</hd>
+			</video>
+			<subtitle>
+				<![CDATA[EN_4_PATIO.srt]]>
+			</subtitle>
+			<synthes>
+				<item>
+					<timecode>
+						<![CDATA[00:00:38]]>
+					</timecode>
+					<desc>
+						<![CDATA[Valentin{0}Juventud Sin Futuro activist]]>
+					</desc>
+				</item>
+			</synthes>
+			<complements>
+				<item id="cplt-jeunesse-victime">
+					<!-- texte / video -->
+					<type>
+						<![CDATA[texte]]>
+					</type>
+					<titleShort>
+						<![CDATA[Spanish youth, first vicim of crisis]]>
+					</titleShort>
+					<titleLong>
+						<![CDATA[Spanish youth, first vicim of crisis]]>
+					</titleLong>
+					<timecode>
+						<![CDATA[00:04:27]]>
+					</timecode>
+					<content>
+						<![CDATA[<p align='right'><font size='20'><b>Spanish youth, first vicim of crisis</p></font></b>
+
+						<p align='justify'>
+						<br/><li><b>55% : </b>unemployment rate of the less than 2 years unemployed in Spain.</li>
+						<br/><li><b>320 000 : </b>number of young Spaniards who have emigrated since 2008, according to the NIS , the National Institute of Statistics in Spain. Juventud sin Futuro considers this number underestimated. </li>
+						<br/><li><b>6,7% : </b>in 2012, increase of the spanish population living abroad.</li>
+						</p>
+
+						<br/><li>See the website of Juventud Sin Futuro, « No nos vamos, nos echan » (« We're not leaving, they're chasing us away ».)
+						<br>
+						<i><a href="http://www.nonosvamosnosechan.net/" target="_blank">http://www.nonosvamosnosechan.net/</a></i>
+						</li>
+						]]>
+					</content>
+				</item>
+			</complements>
+		</movie>
+		<movie id="bassi" isFooter="true">
+			<video>
+				<sd>
+					<![CDATA[SD_lao-bassi.mp4]]>
+				</sd>
+				<hd>
+					<![CDATA[HD_lao-bassi.mp4]]>
+				</hd>
+			</video>
+			<subtitle>
+				<![CDATA[EN_4_LEOBASSI.srt]]>
+			</subtitle>
+			<synthes>
+				<item>
+					<timecode>
+						<![CDATA[00:03:17]]>
+					</timecode>
+					<desc>
+						<![CDATA[Leo Bassi{0}Actor]]>
+					</desc>
+				</item>
+			</synthes>
+			<complements>
+				<item id="cplt_bassi">
+					<type>
+						<![CDATA[texte]]>
+					</type>
+					<titleShort>
+						<![CDATA[The "Patholic" Church of Leo Bassi]]>
+					</titleShort>
+					<titleLong>
+						<![CDATA[The "Patholic" Church of Leo Bassi]]>
+					</titleLong>
+					<timecode>
+						<![CDATA[00:05:25]]>
+					</timecode>
+					<content>
+						<![CDATA[<a href="http://vimeo.com/54306373" target="_blank">http://vimeo.com/54306373</a>]]>
+					</content>
+				</item>
+
+			</complements>
+		</movie>
+	</movies>
+
+</nofuture>

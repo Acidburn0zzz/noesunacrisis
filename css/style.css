@@ -1,0 +1,40 @@
+
+/*partie portrait
+*/
+
+
+#p1 > img,
+#p2 > img,
+#p3 > img,
+#p4 > img,
+#p5 > img,
+#p6 > img,
+#p7 > img,
+#p8 > img {
+height: 100% !important;
+}
+
+.cartouche{
+display:none;
+}
+
+.boutonplay{
+margin-top: -125px;
+margin-left: 20px;
+}
+.play{
+margin-top: -70px;
+margin-left: 125px;
+color:rgb(200,73,41);
+  font-weight: bolder;
+}
+.play:first-child{
+position:inherit;
+color:rgb(200,73,41);
+  font-weight: bold;
+}
+.portrait:hover > .cartouche{
+display:block;
+margin-top: -200px;
+
+}

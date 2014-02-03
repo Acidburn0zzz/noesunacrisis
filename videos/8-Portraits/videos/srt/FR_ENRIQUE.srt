@@ -1,0 +1,219 @@
+﻿1
+00:00:00,000 --> 00:00:04,302
+Je m'appelle Enrique Dans,
+j'enseigne  en école de commerce, j'ai  47 ans.
+
+2
+00:00:07,938 --> 00:00:13,277
+En Espagne l'activisme autour des technologies 
+numériques existe depuis plusieurs années.
+
+3
+00:00:13,278 --> 00:00:20,184
+On avait déjà pu observer des réactions très fortes 
+sur Internet face à des projets de loi.
+
+4
+00:00:20,185 --> 00:00:25,289
+contre la Loi sur les services
+de la société de l'information,
+
+5
+00:00:25,290 --> 00:00:30,850
+contre la redevance,
+pour les forfaits illimités, par exemple.
+
+6
+00:00:30,885 --> 00:00:38,245
+Ces mobilisations se sont développées 
+et intensifiées ces dernières années.
+
+7
+00:00:38,246 --> 00:00:48,372
+Beaucoup de gens expriment désormais leurs désaccords sur Internet,
+publient des choses, sont ensuite repris par les médias.
+
+8
+00:00:48,373 --> 00:00:53,135
+Mais même pour les plus
+importantes mobilisations,
+
+9
+00:00:53,136 --> 00:00:59,604
+les tentatives de faire passer ces protestations du réseau
+à la rue se sont soldées par des échecs.
+
+10
+00:00:59,605 --> 00:01:08,308
+A mon avis la Loi Sinde a été une sorte de détonateur,
+elle arrive après ces années d'activisme,
+
+11
+00:01:08,309 --> 00:01:16,855
+et a révélé comment les hommes politiques
+ne défendaient pas les intérêts des citoyens. 
+
+12
+00:01:16,856 --> 00:01:23,334
+dont ils sont théoriquement les représentants,
+mais qu'ils agissaient pour le compte de lobbies économiques,
+
+13
+00:01:23,335 --> 00:01:27,512
+en l'occurrence les défenseurs du droit d'auteur,
+le lobby des "artistes".
+
+14
+00:01:27,513 --> 00:01:31,802
+Cette loi Sinde apparaissait tout d'un coup 
+comme liberticide, dangereuse,
+
+15
+00:01:31,803 --> 00:01:38,350
+elle permettait même de fermer n'importe quel
+site web. Donc il y a eu une réaction très forte.
+
+16
+00:01:38,351 --> 00:01:44,018
+A partir de là est apparu un mouvement,
+auquel j'ai contribué au début,
+
+17
+00:01:44,019 --> 00:01:48,980
+qui est le mouvement "No les votes".
+Ne votez pas pour ces partis qui soutiennent la Loi Sinde.
+
+18
+00:01:51,846 --> 00:01:57,422
+Nous n'étions que six ou sept personnes derrière "No les votes",
+et nous n'étions pas des batteurs de pavés !
+
+19
+00:01:57,423 --> 00:02:01,333
+Nous étions issus de la culture web :
+il y avait deux professeurs,
+
+20
+00:02:01,334 --> 00:02:05,036
+trois avocats, un patron
+de start-up.
+
+21
+00:02:05,071 --> 00:02:11,961
+Des gens dont tu n'attends pas qu'ils organisent
+une manifestation, parce que nous ne savions pas faire ça…
+
+22
+00:02:11,962 --> 00:02:14,891
+Par contre, on est très actif sur le réseau.
+
+23
+00:02:14,892 --> 00:02:20,342
+Et là qu'est-ce qui se passe ? Et bien nous sommes
+tous allés à cette première manifestation,
+
+24
+00:02:20,343 --> 00:02:28,023
+mais pour la suite, le 15M et les campements, 
+nous sommes restés spectateurs.
+
+25
+00:02:28,024 --> 00:02:32,928
+Ça m'intéressait de voir comment la technologie
+avait influencé tout ça, mais ça s'arrêtait là.
+
+26
+00:02:32,929 --> 00:02:39,596
+Ce qui m'a d'abord surpris, c'est le nombre de manifestants.
+Ensuite, la capacité d'organisation du mouvement.
+
+27
+00:02:39,597 --> 00:02:45,081
+Je me suis retrouvé dans une manifestation bien organisée,
+où il y avait toutes sortes de gens,
+
+28
+00:02:45,082 --> 00:02:51,308
+il y avait des personnes
+qui s'occupaient de l'organisation.
+
+29
+00:02:51,309 --> 00:03:00,320
+Et puis cette foule bien sûr ! Je suis allé à Cibeles,
+où les gens arrivaient directement de la Puerta del Sol.
+
+30
+00:03:00,321 --> 00:03:07,026
+Ce n'était pas vraiment un cortège, un défilé, 
+c'était plutôt un rassemblement qui occupait tout l'espace public.
+
+31
+00:03:07,027 --> 00:03:10,371
+Je n'avais jamais vu
+de protestation aussi massive.
+
+32
+00:03:10,372 --> 00:03:17,553
+Et puis, sur le moment j'ai été très agréablement surpris
+de me retrouver au milieu d'une grande diversité de personnes.
+
+33
+00:03:17,554 --> 00:03:22,222
+Moi, j'enseigne dans une école de commerce,
+je suis... libéral,
+
+34
+00:03:22,223 --> 00:03:29,713
+sans être non plus ultra-conservateur,
+mais bon, je penche vers le libéralisme.
+
+35
+00:03:29,714 --> 00:03:34,697
+Et je me suis retrouvé à côté de personnes
+issues de mouvements anarchistes, de communistes.
+
+36
+00:03:34,698 --> 00:03:40,137
+Il y avait des gens  de toutes sortes, de tous les âges,
+il y avait des étudiants de mon école de commerce,
+
+37
+00:03:40,138 --> 00:03:44,996
+des gens de droite, de gauche, un peu de tout.
+Ça m'a vraiment interpellé.
+
+38
+00:03:50,140 --> 00:03:54,198
+Je pense qu'Internet change effectivement
+beaucoup la démocratie,
+
+39
+00:03:54,199 --> 00:03:57,435
+et on doit en tenir compte
+pour penser l'avenir de la démocratie.
+
+40
+00:03:57,436 --> 00:04:03,265
+Je ne dis pas pour autant que nous sommes
+en mesure de passer d'une démocratie représentative
+
+41
+00:04:03,266 --> 00:04:08,106
+à une démocratie directe, à une démocratie participative.
+Je ne pense pas qu'on en soit déjà là.
+
+42
+00:04:08,107 --> 00:04:16,099
+Mais je pense qu'Internet est un outil qui permet 
+plus de participation citoyenne et d'expression populaire.
+
+43
+00:04:16,100 --> 00:04:21,732
+Enfin l'autre dimension essentielle, c'est la transparence.
+Internet permet davantage de transparence.
+
+44
+00:04:21,733 --> 00:04:29,271
+Or en tant que citoyen, ce que je souhaite, c'est que 
+mes représentants agissent et gouvernent en toute transparence.
+

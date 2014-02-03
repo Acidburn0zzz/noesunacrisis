@@ -1,0 +1,40 @@
+{
+  "VIDEO": {
+	"PANNEAU":"6-PanneauRevolte",
+	"TITLE": {
+		"EN": "Workshop ol illustrator El Roto",
+		"ES": "Taller del diseñador El Roto",
+		"FR": "Atelier du dessinateur El Roto"
+	},
+	"SUBTITLE": {
+		"EN": "Drawing the crisis",
+		"ES": "Dibujar la crisis",
+		"FR": "Dessiner la crise"
+	},
+    "SRT": {
+		"EN": "EN_3_ELROTO.srt",
+		"ES": "ES_3_ELROTO.srt",
+		"FR": "FR_3_ELROTO.srt"
+	},
+    "FILE": {
+		"HD-MP4": "HD_elroto.mp4",
+		"HD-WEBM": "HD_elroto.webm",
+		"SD-MP4": "SD_elroto.mp4",
+		"SD-WEBM": "SD_elroto.webm"
+	},
+	"POPUPS": {}
+  },
+  "NEXT" : {
+	"TITLE": {
+		"EN": "Patio Maravillias squat",
+		"ES": "El Patio Maravillas, okupado",
+		"FR": "Squat Patio Maravillas"
+	},
+	"SUBTITLE": {
+		"EN": "The youth with no future",
+		"ES": "Juventud sin futuro",
+		"FR": "La jeunesse sans futur"
+	},
+	"JSON":"patio"
+  }
+}

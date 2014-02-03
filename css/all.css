@@ -1,0 +1,120 @@
+/* vim:set sw=4 ts=4 sts=4 ft=css expandtab smartindent: */
+body {
+    font-family: 'Voces', cursive;
+    font-weight: bold;
+    /*background-image: url("../img/1-Accueil/home.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;*/
+    max-height: 100%;
+    margin: 0;
+    background-color: #D6D4D4;
+}
+img {
+    max-width: 100%;
+    z-index: 0;
+}
+
+#lang_langs {
+    position: absolute;
+    font-size: 11pt;
+    top: 1%;
+    right: 1%;
+    font-weight: bolder;
+}
+
+#lang_langs span.active, #lang_langs span:hover {
+    color: white;
+}
+
+.navbar {
+    max-width: 1600px !important;
+}
+
+.panelTitle {
+/*border: 2px solid black;*/
+width: 60%;
+max-width: 850px;
+height: 14%;
+left: 20%;
+top: 5%;
+z-index: 99;
+position: absolute;
+text-align: center;
+color: white;
+text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
+
+.panelTitle h1 {
+    font-size: 300%;
+    font-weight: bolder;
+}
+
+.panelTitle p {
+    font-variant: normal;
+    font-style: italic;
+    font-size: 90%;
+}
+
+.modal-body {
+	font-weight: normal !important;
+	max-height: 32em !important;
+	overflow: auto;
+	text-align: justify;
+}
+
+
+
+#p1 > img,
+#p2 > img,
+#p3 > img,
+#p4 > img,
+#p5 > img,
+#p6 > img,
+#p7 > img,
+#p8 > img {
+height: 100% !important;
+}
+
+.cartouche{
+display:none;
+}
+
+.boutonplay{
+margin-top: -125px;
+margin-left: 20px;
+}
+.play{
+margin-top: -70px;
+margin-left: 125px;
+color:rgb(200,73,41);
+  font-weight: bolder;
+}
+.play:first-child{
+position:inherit;
+color:rgb(200,73,41);
+  font-weight: bold;
+}
+.portrait:hover > .cartouche{
+display:block;
+margin-top: -200px;
+
+}
+
+.noo-accordion .image_title, .noo-accordion ul li:hover .image_title {
+	top: 0px !important;
+	height: 100%;
+}
+
+.desc-accordian {
+	color: black !important;
+}
+
+.desc-accordian span, .mobile-description span {
+	font-weight:normal !important;
+	font-size: 90% !important;
+	font-style: italic;
+}
+
+.mobile-description {
+	font-size: 90%;
+}

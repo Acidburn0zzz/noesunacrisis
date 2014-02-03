@@ -1,0 +1,491 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<revolt>
+	<config>
+		<video classname="symbols.BgMovieRevoltSymbol" />
+		<sound classname="symbols.SoundRevoltSymbol" />
+	</config>
+	<nav>
+		<item id="parlement">
+			<title>
+				<![CDATA[PARLEMENT ESPAGNOL]]>
+			</title>
+			<subtitle>
+				<![CDATA[Ils ne nous représentent pas !]]>
+			</subtitle>
+			<bgPicture>
+				<![CDATA[revolt_picture_1]]>
+			</bgPicture>
+			<video>
+				<!-- TODO: INFOS sur les videos, soustritr, etc... -->
+			</video>
+		</item>
+		<item id="puerta-del-sol">
+			<title>
+				<![CDATA[PUERTA DEL SOL]]>
+			</title>
+			<subtitle>
+				<![CDATA[Le mouvement du 15M]]>
+			</subtitle>
+			<bgPicture>
+				<![CDATA[revolt_picture_2]]>
+			</bgPicture>
+			<video>
+				<!-- TODO: INFOS sur les videos, soustritr, etc... -->
+			</video>
+		</item>
+		<item id="yayoflautas">
+			<title>
+				<![CDATA[CHEZ PILAR]]>
+			</title>
+			<subtitle>
+				<![CDATA[Yayoflautas, les retraités en lutte]]>
+			</subtitle>
+			<bgPicture>
+				<![CDATA[revolt_picture_3]]>
+			</bgPicture>
+			<video>
+				<!-- TODO: INFOS sur les videos, soustritr, etc... -->
+			</video>
+		</item>
+		<item id="el-roto">
+			<title>
+				<![CDATA[ATELIER DU DESSINATEUR EL ROTO]]>
+			</title>
+			<subtitle>
+				<![CDATA[Dessiner la crise]]>
+			</subtitle>
+			<bgPicture>
+				<![CDATA[revolt_picture_4]]>
+			</bgPicture>
+			<video>
+				<!-- TODO: INFOS sur les videos, soustritr, etc... -->
+			</video>
+		</item>
+	</nav>
+	<subtitle>
+		<![CDATA[Le peuple espagnol en résistance]]>
+	</subtitle>
+	<movies>
+		<movie id="parlement" isFooter="true">
+			<video>
+				<sd>
+					<![CDATA[SD_parlement.mp4]]>
+				</sd>
+				<hd>
+					<![CDATA[HD_parlement.mp4]]>
+				</hd>
+			</video>
+			<subtitle>
+				<![CDATA[FR_3_PARLEMENT.srt]]>
+			</subtitle>
+			<synthes>
+				<item>
+					<timecode>
+						<![CDATA[00:01:43]]>
+					</timecode>
+					<desc>
+						<![CDATA[Ángelez Diez Rodriguez{0}Sociologue]]>
+					</desc>
+				</item>
+				<item>
+					<timecode>
+						<![CDATA[00:02:04]]>
+					</timecode>
+					<desc>
+						<![CDATA[Alberto Garzón{0}Député Izquierda Unida]]>
+					</desc>
+				</item>
+				<item>
+					<timecode>
+						<![CDATA[00:02:55]]>
+					</timecode>
+					<desc>
+						<![CDATA[Javier Gallego{0}Journaliste radio]]>
+					</desc>
+				</item>
+				<item>
+					<timecode>
+						<![CDATA[00:03:21]]>
+					</timecode>
+					<desc>
+						<![CDATA[Carlos Taibo{0}Professeur de sciences politiques]]>
+					</desc>
+				</item>
+				<item>
+					<timecode>
+						<![CDATA[00:04:10]]>
+					</timecode>
+					<desc>
+						<![CDATA[Miguel Arana{0}Mouvement du 15M]]>
+					</desc>
+				</item>
+				<item>
+					<timecode>
+						<![CDATA[00:09:22]]>
+					</timecode>
+					<desc>
+						<![CDATA[Enrique Dans{0}Professeur en Sciences de l’information et blogueur]]>
+					</desc>
+				</item>
+			</synthes>
+			<complements>
+				<item id="cplt-barcenas">
+					<!-- texte / video -->
+					<type>
+						<![CDATA[texte]]>
+					</type>
+					<titleShort>
+						<![CDATA[L’affaire Bárcenas]]>
+					</titleShort>
+					<titleLong>
+						<![CDATA[L’affaire Bárcenas]]>
+					</titleLong>
+					<timecode>
+						<![CDATA[00:02:38]]>
+					</timecode>
+					<content>
+						<![CDATA[<p align='right'><font size='20'><b>Corruption à tous les étages : <br>L'affaire Bárcenas</p></font></b>
+						<p align='justify'>
+						Un scandale de plus dans la longue liste des affaires de corruption qui gangrènent la vie politique espagnole. Sauf que cette fois-ci, c’est le sommet de l’Etat qui semble concerné…
+						<br>
+						L’affaire démarre en janvier 2013, quand <i>El Mundo</i> dévoile un vaste système de corruption au sein du Parti Populaire, organisé alors par son ancien trésorier, Luis Bárcenas. Du très classique au final (des entreprises du BTP versent des commissions au PP, contre l’obtention garantie de marchés publics), sauf que cette fois-ci l’entreprise s’est faîte à grande échelle : de très nombreux cadres du PP en ont bénéficié, pendant vingt ans !
+						<br>
+						L’affaire prend une autre tournure fin janvier 2013, quand <i>El País</i> affirme que Mariano Rajoy faisait partie des bénéficiaires du système Bárcenas. Le journal produit des documents où il apparaît que le Premier Ministre aurait touché 25.000€ par an, entre 1997 et 2008.
+						<br>
+						A l’été 2013, Mariano Rajoy est mis en difficulté par des SMS échangés avec Luis Bárcenas. Il est alors tenu de s’expliquer devant le Congreso.
+						</p>
+
+						<br/><li>A lire sur Courrier International
+						<br>
+						<i><a href="http://www.courrierinternational.com/article/2013/02/05/corruption-le-premier-ministre-rajoy-mis-en-difficulte-0" target="_blank">Corruption : le Premier Ministre Rajoy mis en difficulté</a></i>
+						</li>
+						]]>
+					</content>
+				</item>
+				<item id="cplt-electoral">
+					<!-- texte / video -->
+					<type>
+						<![CDATA[texte]]>
+					</type>
+					<titleShort>
+						<![CDATA[Le système électoral espagnol]]>
+					</titleShort>
+					<titleLong>
+						<![CDATA[Le système électoral espagnol]]>
+					</titleLong>
+					<timecode>
+						<![CDATA[00:06:11]]>
+					</timecode>
+					<content>
+						<![CDATA[<p align='right'><font size='20'><b>Injuste et désiquilibré : <br> le système électoral espagnol</p></font></b>
+						<p align='justify'>
+						Parmi les revendications fondatrices du mouvement 15-M figure la réforme de la Loi électorale espagnole, considérée comme injuste car favorisant les grands partis. Proportionnel en théorie, le système électoral espagnol est majoritaire dans les faits, et profondément inégalitaire.
+						<br>
+						Le parlement espagnol (Cortes Generales) est bicaméral. Il est composé d'une chambre basse, le Congrès des députés, et d'une chambre haute, le Sénat.
+						<br>
+						Le Congrès des députés compte 350 membres élus tous les quatre ans au suffrage universel direct. Le mode de scrutin est proportionnel. Les 52 circonscriptions se voient attribuer un nombre de sièges proportionnel à leur population, avec un minimum de deux. Ce minimum donne un avantage aux provinces les moins peuplées. Par conséquent les électeurs n'ont pas tous le même poids électoral, la valeur de leur voix n'étant pas la même dans une circonscription que dans une autre.
+						<br>
+						Par ailleurs, le mode de calcul d’attribution des sièges, selon la loi d’Hondt, est particulièrement injuste. Ce mécanisme permet en effet aux grands partis de s’accaparer un plus grand nombre de sièges, instaurant un bipartisme de fait.
+						<br>
+						Prenons par exemple les résultats des élections législatives de 2011, en se concentrant sur les cinq premiers partis, par nombre de voix :
+						<br>
+						INSERER UN TABLEAU ??
+						<br>
+						Le PP avec 44,62% des voix obtient 53,14% des sièges, tandis que le parti communiste Izquierda Unida n’obtient que 3,14% des sièges pour… 6,92% des voix.
+						<br>
+						A l’inverse, le parti nationaliste catalan Convergència i Unió dispose d’une représentation assez proche de son score réel, car ses électeurs sont concentrés sur quelques circonscriptions, le mode de calcul ne lui est donc pas défavorable. Ceci implique que les partis nationalistes sont les seuls, vus leurs nombres de députés respectifs, à pouvoir aider à constituer une majorité politique. Leur influence politique est donc supérieure à leur représentativité réelle.
+						<br>
+						Au-delà du mode de calcul d’attribution des sièges, le système électoral espagnol se distingue par un système de listes fermées et bloquées. Il est impossible de se présenter à la députation en indépendant, l’électeur n’ayant le choix que dans des listes verrouillées par les partis. Cela pose donc la question de l’inféodation des députés à leurs partis respectifs : <i>« Devenir député ne suppose donc pas de s'investir, d'être populaire ou de bénéficier du soutien de tel ou tel groupe de citoyens »</i>, indique le professeur en sciences politiques Robert Liñeira, <i>« mais seulement d'avoir été placé à une bonne place sur la liste par ceux qui l'ont confectionnée »</i>.
+						<br>
+						Par ailleurs ces députés élus sur liste sont parfois méconnus de leurs propres électeurs : autant dire qu’en Espagne, la proximité entre l’élu et ses administrés est un vœu pieu.
+						</p>
+
+						]]>
+					</content>
+				</item>
+				<item id="cplt-elvira">
+					<!-- texte / video -->
+					<type>
+						<![CDATA[video]]>
+					</type>
+					<titleShort>
+						<![CDATA[L'exemple islandais]]>
+					</titleShort>
+					<titleLong>
+						<![CDATA[L'exemple islandais]]>
+					</titleLong>
+					<timecode>
+						<![CDATA[00:09:06]]>
+					</timecode>
+					<content>
+						<sd>
+							<![CDATA[SD_elvira.mp4]]>
+						</sd>
+						<hd>
+							<![CDATA[HD_elvira.mp4]]>
+						</hd>
+						<subtitle>
+							<![CDATA[FR_ELVIRA.srt]]>
+						</subtitle>
+					</content>
+				</item>
+			</complements>
+		</movie>
+		<movie id="yayoflautas" isFooter="true">
+			<video>
+				<sd>
+					<![CDATA[SD_yayoflautas.mp4]]>
+				</sd>
+				<hd>
+					<![CDATA[HD_yayoflautas.mp4]]>
+				</hd>
+			</video>
+			<subtitle>
+				<![CDATA[FR_3_YAYOFLAUTAS.srt]]>
+			</subtitle>
+			<synthes/>
+			<complements>
+				<item id="cplt-pilar">
+					<!-- texte / video -->
+					<type>
+						<![CDATA[video]]>
+					</type>
+					<titleShort>
+						<![CDATA[Portrait de Pilar]]>
+					</titleShort>
+					<titleLong>
+						<![CDATA[Portrait de Pilar]]>
+					</titleLong>
+					<timecode>
+						<![CDATA[00:06:18]]>
+					</timecode>
+					<content>
+						<sd>
+							<![CDATA[SD_pilar.mp4]]>
+						</sd>
+						<hd>
+							<![CDATA[HD_pilar.mp4]]>
+						</hd>
+						<subtitle>
+							<![CDATA[FR_PILAR.srt]]>
+						</subtitle>
+					</content>
+				</item>
+			</complements>
+		</movie>
+		<movie id="el-roto" isFooter="true">
+			<video>
+				<sd>
+					<![CDATA[]]>
+				</sd>
+				<hd>
+					<![CDATA[]]>
+				</hd>
+			</video>
+			<subtitle>
+				<![CDATA[]]>
+			</subtitle>
+			<synthes>
+				<item>
+					<timecode>
+						<![CDATA[00:00:30]]>
+					</timecode>
+					<desc>
+						<![CDATA[El Roto<br/>Peintre et dessinateur (El País)]]>
+					</desc>
+				</item>
+			</synthes>
+			<complements/>
+		</movie>
+		<movie id="puerta-del-sol" isFooter="true">
+			<video>
+				<sd>
+					<![CDATA[SD_puertadelsol_mouvement.mp4]]>
+				</sd>
+				<hd>
+					<![CDATA[HD_puertadelsol_mouvement.mp4]]>
+				</hd>
+			</video>
+			<subtitle>
+				<![CDATA[FR_3_PUERTADELSOL.srt]]>
+			</subtitle>
+			<synthes>
+				<item>
+					<timecode>
+						<![CDATA[00:01:33]]>
+					</timecode>
+					<desc>
+						<![CDATA[15 mai 2011{0}Puerta del Sol]]>
+					</desc>
+				</item>
+				<item>
+					<timecode>
+						<![CDATA[00:02:11]]>
+					</timecode>
+					<desc>
+						<![CDATA[Carlos Taibo{0}Professeur de sciences politiques]]>
+					</desc>
+				</item>
+				<item>
+					<timecode>
+						<![CDATA[00:03:16]]>
+					</timecode>
+					<desc>
+						<![CDATA[Ángelez Diez Rodriguez{0}Sociologue]]>
+					</desc>
+				</item>
+				<item>
+					<timecode>
+						<![CDATA[00:03:59]]>
+					</timecode>
+					<desc>
+						<![CDATA[Ignacio Sierra{0}Activiste du 15M]]>
+					</desc>
+				</item>
+				<item>
+					<timecode>
+						<![CDATA[00:04:14]]>
+					</timecode>
+					<desc>
+						<![CDATA[Enrique Dans{0}Professeur en Sciences de l’information et blogueur]]>
+					</desc>
+				</item>
+				<item>
+					<timecode>
+						<![CDATA[00:06:00]]>
+					</timecode>
+					<desc>
+						<![CDATA[Susana Sanz{0}Cyberactiviste et militante du 15M]]>
+					</desc>
+				</item>
+				<item>
+					<timecode>
+						<![CDATA[00:06:18]]>
+					</timecode>
+					<desc>
+						<![CDATA[Miguel Arana{0}Mouvement du 15M]]>
+					</desc>
+				</item>
+				<item>
+					<timecode>
+						<![CDATA[00:06:44]]>
+					</timecode>
+					<desc>
+						<![CDATA[15 mai 2011{0}Puerta del Sol]]>
+					</desc>
+				</item>
+				<item>
+					<timecode>
+						<![CDATA[00:09:46]]>
+					</timecode>
+					<desc>
+						<![CDATA[16 mai 2011{0}Première assemblée à Puerta del Sol]]>
+					</desc>
+				</item>
+				<item>
+					<timecode>
+						<![CDATA[00:15:22]]>
+					</timecode>
+					<desc>
+						<![CDATA[Alberto Garzón{0}Député Izquierda Unida]]>
+					</desc>
+				</item>
+				<item>
+					<timecode>
+						<![CDATA[00:18:10]]>
+					</timecode>
+					<desc>
+						<![CDATA[Enrique Dans{0}Professeur en Sciences de l’information et blogueur]]>
+					</desc>
+				</item>
+				<item>
+					<timecode>
+						<![CDATA[00:19:08]]>
+					</timecode>
+					<desc>
+						<![CDATA[Carlos Taibo{0}Professeur de sciences politiques]]>
+					</desc>
+				</item>
+			</synthes>
+			<complements>
+				<item id="cplt-bologne">
+					<!-- texte / video -->
+					<type>
+						<![CDATA[texte]]>
+					</type>
+					<titleShort>
+						<![CDATA[Le processus de Bologne]]>
+					</titleShort>
+					<titleLong>
+						<![CDATA[Le processus de Bologne]]>
+					</titleLong>
+					<timecode>
+						<![CDATA[00:02:34]]>
+					</timecode>
+					<content>
+						<![CDATA[<p align='right'><font size='20'><b>Le processus de Bologne</p></font></b>
+						<p align='justify'>
+						Le processus de Bologne et un ensemble de réformes visant à créer un Espace européen de l’enseignement supérieur autour de deux grands axes : la mobilité des étudiants et des chercheurs en Europe, et l’attractivité des universités européennes dans le monde. En France les réformes « Bologne » les plus visibles furent l’adoption des crédits ECTS et la réorganisation des cursus sur le triptyque Licence-Master-Doctorat (LMD).
+						<br>
+						Sous l’influence de la Commission européenne, le processus de Bologne a pris une tournure encourageant la compétitivité économique de l’enseignement supérieur, dans un contexte de mise en concurrence accrue des établissements d’enseignement supérieur.
+						<br>
+						Le processus a pu ainsi servir de prétexte à des gouvernements nationaux pour accroître l’autonomie des établissements, par exemple en réformant leur mode de gouvernance pour renforcer les pouvoirs des chefs d’établissement. L’autonomie budgétaire est également un des buts affichés : augmentation des recettes propres (frais d’inscription), développement des financements privés.
+						<br>
+						Tout ceci fait que le processus de Bologne est perçu par une grande partie de la communauté universitaire comme le cheval de Troie du démantèlement du service public de l’enseignement et de la recherche.
+						</p>
+
+						]]>
+					</content>
+				</item>
+				<item id="cplt-chronologie">
+					<!-- texte / video -->
+					<type>
+						<![CDATA[texte]]>
+					</type>
+					<titleShort>
+						<![CDATA[Chronologie du 15M]]>
+					</titleShort>
+					<titleLong>
+						<![CDATA[Chronologie du 15M]]>
+					</titleLong>
+					<timecode>
+						<![CDATA[00:23:05]]>
+					</timecode>
+					<content>
+						<![CDATA[<p align='right'><font size='20'><b>Chronologie du 15M et du mouvement international</p></font></b>
+
+						<p align='justify'>
+						<br/><li><b>15 mai 2011 : </b>appel à manifester dans toute l’Espagne contre l’austérité et pour une démocratie réelle. A Madrid un petit groupe de manifestants décide de camper sur la Puerta del Sol, ils seront évacués par la police le sur-lendemain. </li>
+						<br/><li><b>17 mai 2011 : </b>nouvelles manifestations dans tout le pays. La Puerta del Sol est occupée le soir. </li>
+						<br/><li><b>27 mai 2011 : </b>le campement de la place Catalunya de Barcelone est évacué manu militari par la police anti-émeutes. </li>
+						<br/><li><b>12 juin 2011 : </b>l’assemblée de la Puerta del Sol décide de démanteler le campement. </li>
+						<br/><li><b>19 juin 2011 : </b>journée européenne de protestation contre l’austérité</li>
+						<br/><li><b>23 juillet 2011 : </b>arrivée des marches populaires indignées à Madrid,  parties un mois avant d’une vingtaine de villes espagnoles. </li>
+						<br/><li><b>17 septembre 2011 : </b>début du mouvement Occupy Wall Street aux Etats-Unis. </li>
+						<br/><li><b>15 octobre 2011 : </b>première journée mondiale des indignés, près d’un millier de manifestations dans 80 pays. </li>
+						<br/><li><b>15 mai 2012 : </b>premier anniversaire du mouvement, certains regrettent (et se gaussent) de son essoufflement, d’autres au contraire soulignent l’extraordinaire dynamique qu’il a apporté à la société civile espagnole.</li>
+						<br/><li><b>25 septembre 2012 : </b>à l’heure de l’austérité généralisée, le slogan <i>« ils ne nous représentent pas »</i> est toujours d’actualité pour les indignés espagnols. Réunis au sein de la Coordination 25-S, la constellation de mouvements issus du 15M appelle à encercler le Congrès des Députés. </li>
+						</p>
+
+						<br/><li>A lire sur Courrier International
+						<br>
+						<i><a href="http://www.courrierinternational.com/article/2011/09/15/le-jour-ou-les-jeunes-ont-reinvente-la-democratie" target="_blank">Le jour où les jeunes ont réinventé la démocratie</a></i>
+						</li>
+
+						<br/><li>A lire sur Courrier International
+						<br>
+						<i><a href="http://www.courrierinternational.com/article/2012/05/15/le-mouvement-du-15-mai-reveille-la-societe-civile" target="_blank">Le mouvement du 15 mai réveille la société civile</a></i>
+						</li>
+
+						<br/><li>A lire sur Médiapart (sur abonnement)
+						<br>
+						<i><a href="http://www.mediapart.fr/journal/international/140513/le-mouvement-qui-remis-la-politique-dans-les-rues-espagnoles" target="_blank">Le mouvement qui a remis la politique dans les rues espagnoles</a></i>
+						</li>
+						]]>
+					</content>
+				</item>
+			</complements>
+		</movie>
+	</movies>
+
+</revolt>

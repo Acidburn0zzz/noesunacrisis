@@ -1,0 +1,13 @@
+<img src="saccage.jpg" width="1600" height="900" border="0" usemap="#map" />
+
+<map name="map">
+<!-- #$-:Image map file created by GIMP Image Map plug-in -->
+<!-- #$-:GIMP Image Map plug-in by Maurits Rijk -->
+<!-- #$-:Please do not edit lines starting with "#$" -->
+<!-- #$VERSION:2.3 -->
+<!-- #$AUTHOR:pyg -->
+<area shape="poly" coords="347,474,345,470,283,464,218,493,218,565,167,597,197,715,266,796,578,778,664,706,763,615,790,538,796,460,604,418,405,486" alt="" href="video.html#fac" />
+<area shape="rect" coords="329,153,441,788" alt="elpais" href="video.html#torrespanna" />video
+<area shape="poly" coords="797,493,863,475,1025,486,1054,507,1029,516,1044,635,1053,766,757,782,659,784,657,708,765,616,792,537" alt="" href="video.html#huelga" />
+<area shape="poly" coords="1053,507,1070,474,1245,448,1317,466,1364,497,1358,555,1458,610,1417,725,1200,753,1060,742,1031,561,1038,503" alt="" href="video.html#hopital" />
+</map>

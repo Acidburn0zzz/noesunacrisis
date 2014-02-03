@@ -1,0 +1,39 @@
+{
+  "VIDEO": {
+	"PANNEAU":"8-Portraits",
+	"TITLE": {
+		"EN": "Ramón",
+		"ES": "Ramón",
+		"FR": "Ramón"
+	},
+	"SUBTITLE": {
+		"EN": "",
+		"ES": "",
+		"FR": "Journaliste El País"
+	},
+    "SRT": {
+		"EN": "EN_RAMON.srt",
+		"ES": "ES_RAMON.srt",
+		"FR": "FR_RAMON.srt"
+	},
+    "FILE": {
+		"HD-MP4": "Ramon/HD_ramon.mp4",
+		"HD-WEBM": "Ramon/HD_ramon.webm",
+		"SD-MP4": "Ramon/SD_ramon.mp4",
+		"SD-WEBM": "Ramon/SD_ramon.webm"
+	}
+  },
+  "NEXT" : {
+	"TITLE": {
+		"EN": "",
+		"ES": "",
+		"FR": ""
+	},
+	"SUBTITLE": {
+		"EN": "",
+		"ES": "",
+		"FR": ""
+	},
+	"JSON":""
+  }
+}

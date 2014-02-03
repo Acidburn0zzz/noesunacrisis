@@ -1,0 +1,58 @@
+{
+  "VIDEO": {
+	"PANNEAU":"7-PanneauNoFuture",
+	"TITLE": {
+		"EN": "Real Madrid's Stadium",
+		"ES": "Estadio del Real Madrid",
+		"FR": "Stade du Real Madrid"
+	},
+	"SUBTITLE": {
+		"EN": "La Liga, a second class championship",
+		"ES": "La Liga, campeonato de segunda división",
+		"FR": "La Liga, championnat de seconde zone"
+	},
+    "SRT": {
+		"EN": "EN_4_FOOT.srt",
+		"ES": "ES_4_FOOT.srt",
+		"FR": "FR_4_FOOT.srt"
+	},
+    "FILE": {
+		"HD-MP4": "HD_foot.mp4",
+		"HD-WEBM": "HD_foot.webm",
+		"SD-MP4": "SD_foot.mp4",
+		"SD-WEBM": "SD_foot.webm"
+	},
+	"POPUPS": {
+		"104": {
+			"EN": {
+				"TITLE":"Football strangled by the debt",
+				"LONGTITLE":"Football strangled by the debt",
+				"MODALE":"<p align='justify'><ul><li><b>6 billion of € : <\/b>total debt of the spanish football clubs, of which 3,5 billions are only for the League, the most in debt championship in the world.<\/li><br\/><li><b>752 et 600 million of € : <\/b>debt of the football clubs to the Public spanish treasure and the Social Security. <\/li><br\/><li><b>450 million of € : <\/b>debt of Real Madrid, for 24,4 millions  euros of benefits in 2012<\/li><br\/><li><b>335 million of € : <\/b>debt of  Barça, for 40 million euros of benefits in 2012<\/li><br\/><li><b>9 : <\/b>number of titles won by Real or Barça during the 10 last championships<\/li><br\/><li><b>22 : <\/b>number of Spanish clubs in suspension of payments in 2012, over 23 in Europe<\/li><br\/><li><b>35% : <\/b>share of incomes from the TV rights that the spanish clubs have to use for the repayment of the tax arrears, starting with the 2014-2015 season.<\/li><br\/><li><b>94 millions of € : <\/b>Amount of Cristiano Ronaldo's transfer from Manchester United to Real, with a salary of 19 million euros all bonus included. In September 2012, Ronaldo declared him self a little sad after one of his club's victory against Grenade: it seems that the insufficiency of his incomes are causing this distress.<\/li><br\/><li><b>62 % : <\/b>decrease of the amounts invested for the 2012 market<\/li><br\/><li><b>4 millions of € :<\/b> suspected tax fraud of Lionel Messi, who was then pursuit by the Spanish Public Treasury<\/li><\/ul><\/p>"
+			},
+			"ES": {
+				"TITLE":"El fútbol, estrangulado por las deudas",
+				"LONGTITLE":"El fútbol, estrangulado por las deudas",
+				"MODALE":"<p align='justify'><ul><li><b>6 mil millones de euros : <\/b>Deuda acumulada por los clubes de fútbol españoles, de los cuales, 3 500 millones corresponden a la Liga, el campeonato más endeudado del mundo.<\/li><br\/><li><b>752 y 600 millones de euros : <\/b>deuda contraída por los clubs de fútbol con el Tesoro Público y la Seguridad Social, respectivamente.<\/li><br\/><li><b>450 millones de euros : <\/b>Deuda del Real Madrid, que obtuvo 24,4 millones de euros de beneficios en 2012.<\/li><br\/><li><b>335 millones de euros : <\/b>Deuda del Barça, para 40 millones de euros de beneficios en 2012.<\/li><br\/><li><b>9 : <\/b>número de títulos ganados por el Real Madrid o el Barça en los 10 últimos campeonatos.<\/li><br\/><li><b>22 : <\/b>número de clubes españoles insolventes en 2012, de un total de 23 en Europa.<\/li><br\/><li><b>35% : <\/b>Porcentaje de los ingresos en derechos de televisión de los clubes españoles deberán incluir en el pago de impuestos atrasados, a partir de la temporada 2014-2015.<\/li><br\/><li><b>94 millones de euros : <\/b>coste del traspaso de Cristiano Ronaldo del Manchester United al Real Madrid, con un salario de 19 millones de euros, incluyendo bonificaciones. En septiembre de 2012 Ronaldo se declaró 'un poco triste', después de una brillante victoria frente al  Granada, según parece, su insuficiente remuneración era la causa de su melancolía.<\/li><br\/><li><b>62 % : <\/b>descenso de las inversiones del mercato en 2012.<\/li><br\/><li><b>4  millones de euros :<\/b>presunta evasión fiscal de Lionel Messi, enjuiciado por el Tesoro Público en junio de 2013.<\/li><\/ul><\/p>"
+			},
+			"FR": {
+				"TITLE":"Le foot étranglé par la dette",
+				"LONGTITLE":"Le foot étranglé par la dette",
+				"MODALE":"<p align='justify'><ul><li><b>6 milliards d'€ : <\/b>endettement cumulé des clubs de foot espagnols, dont 3,5 milliards rien que pour la la Liga, championnat le plus endetté au monde.<\/li><br\/><li><b>752 et 600 millions d'€ : <\/b>dette des clubs de foot auprès du Trésor Public espagnol et de la Sécurité Sociale. <\/li><br\/><li><b>450 millions d’€ : <\/b>dette du Real Madrid, pour 24,4 millions d’euros de bénéfices en 2012.<\/li><br\/><li><b>335 millions d’€ : <\/b>dette du Barça, pour 40 millions d’euros de bénéfices en 2012.<\/li><br\/><li><b>9 : <\/b>nombre de titres gagnés par le Real ou le Barça sur les 10 derniers championnats. <\/li><br\/><li><b>22 : <\/b>nombre de clubs espagnols en cessation de paiement en 2012, sur 23 en Europe.<\/li><br\/><li><b>35% : <\/b>part des revenus tirés des droits TV que les clubs espagnols seront tenus d’affecter au remboursement des arriérés d’impôts, à partir de la saison 2014-2015.<\/li><br\/><li><b>94 millions d’€ : <\/b>montant du transfert de Cristiano Ronaldo de Manchester United au Real, avec un salaire de 19 millions d’euros primes incluses. En septembre 2012 Ronaldo se déclarait <i>« un peu triste »<\/i> après une victoire éclatante de son club face à Grenade : il semble que l’insuffisance de ses rémunérations soit à l’origine de son vague à l’âme. <\/li><br\/><li><b>62 % : <\/b>baisse des montants investis pour le mercato 2012.<\/li><br\/><li><b>4 millions d'€ :<\/b>fraude fiscale supposée de Lionel Messi, qui a donné lieu à des poursuites du Trésor Public espagnol en juin 2013.<\/li><\/ul><\/p><ul><li>A lire sur Courrier International<br><i><a href='http:\/\/www.courrierinternational.com\/article\/2012\/04\/05\/le-ballon-rond-resquilleur-de-la-crise' target='_blank'>Le ballon rond, le resquilleur de la crise<\/a><\/i><\/li><\/ul>"
+			}
+		}
+	}
+  },
+  "NEXT" : {
+	"TITLE": {
+		"EN": "See Carlos",
+		"ES": "Ver Carlos",
+		"FR": "Voir Carlos"
+	},
+	"SUBTITLE": {
+		"EN": "",
+		"ES": "",
+		"FR": ""
+	},
+	"JSON":"carlos"
+  }
+}

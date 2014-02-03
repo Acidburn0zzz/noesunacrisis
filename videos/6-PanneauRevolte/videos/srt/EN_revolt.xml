@@ -1,0 +1,472 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<revolt>
+	<config>
+		<video classname="symbols.BgMovieRevoltSymbol" />
+		<sound classname="symbols.SoundRevoltSymbol" />
+	</config>
+	<nav>
+		<item id="parlement">
+			<title>
+				<![CDATA[SPANISH PARLIAMENT]]>
+			</title>
+			<subtitle>
+				<![CDATA[They don't represent us !]]>
+			</subtitle>
+			<bgPicture>
+				<![CDATA[revolt_picture_1]]>
+			</bgPicture>
+			<video>
+				<!-- TODO: INFOS sur les videos, soustritr, etc... -->
+			</video>
+		</item>
+		<item id="puerta-del-sol">
+			<title>
+				<![CDATA[PUERTA DEL SOL]]>
+			</title>
+			<subtitle>
+				<![CDATA[The 15M Movement]]>
+			</subtitle>
+			<bgPicture>
+				<![CDATA[revolt_picture_2]]>
+			</bgPicture>
+			<video>
+				<!-- TODO: INFOS sur les videos, soustritr, etc... -->
+			</video>
+		</item>
+		<item id="yayoflautas">
+			<title>
+				<![CDATA[AT PILAR'S PLACE]]>
+			</title>
+			<subtitle>
+				<![CDATA[Yayoflautas, the retirees at war]]>
+			</subtitle>
+			<bgPicture>
+				<![CDATA[revolt_picture_3]]>
+			</bgPicture>
+			<video>
+				<!-- TODO: INFOS sur les videos, soustritr, etc... -->
+			</video>
+		</item>
+		<item id="el-roto">
+			<title>
+				<![CDATA[WORKSHOP OF ILLUSTRATOR EL ROTO]]>
+			</title>
+			<subtitle>
+				<![CDATA[ Drawing the crisis]]>
+			</subtitle>
+			<bgPicture>
+				<![CDATA[revolt_picture_4]]>
+			</bgPicture>
+			<video>
+				<!-- TODO: INFOS sur les videos, soustritr, etc... -->
+			</video>
+		</item>
+	</nav>
+	<subtitle>
+		<![CDATA[The resistance of the Spanish people]]>
+	</subtitle>
+	<movies>
+		<movie id="parlement" isFooter="true">
+			<video>
+				<sd>
+					<![CDATA[SD_parlement.mp4]]>
+				</sd>
+				<hd>
+					<![CDATA[HD_parlement.mp4]]>
+				</hd>
+			</video>
+			<subtitle>
+				<![CDATA[EN_3_PARLEMENT.srt]]>
+			</subtitle>
+			<synthes>
+				<item>
+					<timecode>
+						<![CDATA[00:01:43]]>
+					</timecode>
+					<desc>
+						<![CDATA[Ángelez Diez Rodriguez{0}Sociologist]]>
+					</desc>
+				</item>
+				<item>
+					<timecode>
+						<![CDATA[00:02:04]]>
+					</timecode>
+					<desc>
+						<![CDATA[Alberto Garzón{0}Congressman for the Unitef Left party]]>
+					</desc>
+				</item>
+				<item>
+					<timecode>
+						<![CDATA[00:02:55]]>
+					</timecode>
+					<desc>
+						<![CDATA[Javier Gallego{0}Radio journalist]]>
+					</desc>
+				</item>
+				<item>
+					<timecode>
+						<![CDATA[00:03:21]]>
+					</timecode>
+					<desc>
+						<![CDATA[Carlos Taibo{0}Teacher of Political Science]]>
+					</desc>
+				</item>
+				<item>
+					<timecode>
+						<![CDATA[00:04:10]]>
+					</timecode>
+					<desc>
+						<![CDATA[Miguel Arana{0}15M Movement]]>
+					</desc>
+				</item>
+				<item>
+					<timecode>
+						<![CDATA[00:09:22]]>
+					</timecode>
+					<desc>
+						<![CDATA[Enrique Dans{0}Teacher of Information Science and blogger]]>
+					</desc>
+				</item>
+			</synthes>
+			<complements>
+				<item id="cplt-barcenas">
+					<!-- texte / video -->
+					<type>
+						<![CDATA[texte]]>
+					</type>
+					<titleShort>
+						<![CDATA[The Barcenas case]]>
+					</titleShort>
+					<titleLong>
+						<![CDATA[The Barcenas case]]>
+					</titleLong>
+					<timecode>
+						<![CDATA[00:02:38]]>
+					</timecode>
+					<content>
+						<![CDATA[<p align='right'><font size='20'><b>Corruption everywhere :  <br>The Barcenas case</p></font></b>
+						<p align='justify'>
+						One more scandal on the long list of corruption cases poisoning the Spanish political life. Only this time, it's the head of the government that seems to be involved...
+						<br>
+						The scandal begins in january 2013, when <i>El Mundo</i> reveals a large corruption system inside the Popular Party, organized at that time by its former treasurer, Luis Barcenas. A classical case (Public works and construction enterprises pay commissions to the PP, in exchange for the guarantee of the public markets), only this time it was on a large scale: several heads of the PP took benefits for 20 years !
+						<br>
+						The case takes a different turn at the end of january 2013, when <i>El Pais</i> affirms that Mariano Rajoy was one of the beneficiaries of the Barcenas system. The journal publishes documents indicating that the Prime Minister had received 25.000€/ year, between 1997 and 2008.
+						<br>
+						In the 2013 summer, Mariano Rajoy was obliged to speak to the Congressmen after it was revealed that he exchanged sms with  Luis Bárcenas.
+						</p>
+
+						]]>
+					</content>
+				</item>
+				<item id="cplt-electoral">
+					<!-- texte / video -->
+					<type>
+						<![CDATA[texte]]>
+					</type>
+					<titleShort>
+						<![CDATA[The Spanish electoral system]]>
+					</titleShort>
+					<titleLong>
+						<![CDATA[The Spanish electoral system]]>
+					</titleLong>
+					<timecode>
+						<![CDATA[00:06:11]]>
+					</timecode>
+					<content>
+						<![CDATA[<p align='right'><font size='20'><b>Unfair and imbalanced : <br> the Spanish electoral system</p></font></b>
+						<p align='justify'>
+						One of the founding claims of the 15M movement, is the reform of the electoral law, considered to be unfair because it favors the big parties. Proportional in theory, the spanish electoral system is in fact majority rule and deeply unequal.
+						<br>
+						The Spanish Parliament is bicameral. It is composed of a low chamber, the Congress of deputy members and a high Chamber, the Senate.
+						<br>
+						The Congress has 350 members, elected every four years by direct universal suffrage. The voting mode is proportional. Each one of the 52 districts are assigned a number of seats, proportional to their population, with a minimum of two. This minimum gives  an  advantage to the less populated provinces. Therefor, the electors don't all have the same electoral weight, the value of their vote is not the same in all districts.
+						<br>
+						Besides, the calculation way in the assignment of seats, according to the Hondt law, is very unfair. This mechanism allows actually the big parties to monopolize a bigger number of seats, which establishes in fact a two-party system.
+						<br>
+						Let's take for example the results of the 2011 legislative elections, and focus on the first five parties, by number of votes :
+						<br>
+						cuadro
+						<br>
+						The PP with 44,62% of the votes gets 53,14% of the seats, while the communist party, United Left only gets 3,14% of the seats for 6,92% of the votes.
+						<br>
+						In return, the nationalist catalan party  Convergència i Unió disposes of a quite close to reality representation, because its electors are concentrated in only a few districts an so the calculation way doesn't disadvantage them. This implies that nationalists parties are the only ones that, according to the number of members, can help create a political majority. Their political influence is therefor superior to their real influence.
+						<br>
+						Besides the calculation way for the assignment of seats, the spanish electoral system in distinguished by a system of closed and blocked lists. It is impossible to run for a seat of Member in the Congress as an independent. The elector can only choose from the lists locked by the parties. This brings in discussion the “dependance” of the Members to their parties :<i>« becoming a Member doesn't mean investing your self, being popular, or having the support of a group of citizens »</i>, indicates the Professor in Political Science, Robert Liñeira, <i>« but only being put in a good place on the list by those who made the list. »</i>.
+						<br>
+						Moreover, these elected Members on a list, are sometimes unknown by their own electors. Might as well say that the proximity between the elected one and his citizens, is an empty promise.
+						</p>
+
+						]]>
+					</content>
+				</item>
+				<item id="cplt-elvira">
+					<!-- texte / video -->
+					<type>
+						<![CDATA[video]]>
+					</type>
+					<titleShort>
+						<![CDATA[The Icelandic example]]>
+					</titleShort>
+					<titleLong>
+						<![CDATA[The Icelandic example]]>
+					</titleLong>
+					<timecode>
+						<![CDATA[00:09:06]]>
+					</timecode>
+					<content>
+						<sd>
+							<![CDATA[SD_elvira.mp4]]>
+						</sd>
+						<hd>
+							<![CDATA[HD_elvira.mp4]]>
+						</hd>
+						<subtitle>
+							<![CDATA[EN_ELVIRA.srt]]>
+						</subtitle>
+					</content>
+				</item>
+			</complements>
+		</movie>
+		<movie id="yayoflautas" isFooter="true">
+			<video>
+				<sd>
+					<![CDATA[SD_yayoflautas.mp4]]>
+				</sd>
+				<hd>
+					<![CDATA[HD_yayoflautas.mp4]]>
+				</hd>
+			</video>
+			<subtitle>
+				<![CDATA[EN_3_YAYOFLAUTAS.srt]]>
+			</subtitle>
+			<synthes/>
+			<complements>
+				<item id="cplt-pilar">
+					<!-- texte / video -->
+					<type>
+						<![CDATA[video]]>
+					</type>
+					<titleShort>
+						<![CDATA[Pilar's portrait]]>
+					</titleShort>
+					<titleLong>
+						<![CDATA[Pilar's portrait]]>
+					</titleLong>
+					<timecode>
+						<![CDATA[00:06:18]]>
+					</timecode>
+					<content>
+						<sd>
+							<![CDATA[SD_pilar.mp4]]>
+						</sd>
+						<hd>
+							<![CDATA[HD_pilar.mp4]]>
+						</hd>
+						<subtitle>
+							<![CDATA[EN_PILAR.srt]]>
+						</subtitle>
+					</content>
+				</item>
+			</complements>
+		</movie>
+		<movie id="el-roto" isFooter="true">
+			<video>
+				<sd>
+					<![CDATA[]]>
+				</sd>
+				<hd>
+					<![CDATA[]]>
+				</hd>
+			</video>
+			<subtitle>
+				<![CDATA[]]>
+			</subtitle>
+			<synthes>
+				<item>
+					<timecode>
+						<![CDATA[00:00:30]]>
+					</timecode>
+					<desc>
+						<![CDATA[El Roto<br/>Painter and cartoonist (El País)]]>
+					</desc>
+				</item>
+			</synthes>
+			<complements/>
+		</movie>
+		<movie id="puerta-del-sol" isFooter="true">
+			<video>
+				<sd>
+					<![CDATA[SD_puertadelsol_mouvement.mp4]]>
+				</sd>
+				<hd>
+					<![CDATA[HD_puertadelsol_mouvement.mp4]]>
+				</hd>
+			</video>
+			<subtitle>
+				<![CDATA[EN_3_PUERTADELSOL.srt]]>
+			</subtitle>
+			<synthes>
+				<item>
+					<timecode>
+						<![CDATA[00:01:33]]>
+					</timecode>
+					<desc>
+						<![CDATA[May 15th 2011{0}Puerta del Sol]]>
+					</desc>
+				</item>
+				<item>
+					<timecode>
+						<![CDATA[00:02:11]]>
+					</timecode>
+					<desc>
+						<![CDATA[Carlos Taibo{0}Political Science teacher]]>
+					</desc>
+				</item>
+				<item>
+					<timecode>
+						<![CDATA[00:03:16]]>
+					</timecode>
+					<desc>
+						<![CDATA[Ángelez Diez Rodriguez{0}Sociologist]]>
+					</desc>
+				</item>
+				<item>
+					<timecode>
+						<![CDATA[00:03:59]]>
+					</timecode>
+					<desc>
+						<![CDATA[Ignacio Sierra{0}15M activist]]>
+					</desc>
+				</item>
+				<item>
+					<timecode>
+						<![CDATA[00:04:14]]>
+					</timecode>
+					<desc>
+						<![CDATA[Enrique Dans{0}Information Science teacher and blogger]]>
+					</desc>
+				</item>
+				<item>
+					<timecode>
+						<![CDATA[00:06:00]]>
+					</timecode>
+					<desc>
+						<![CDATA[Susana Sanz{0}Cyberactivist and 15M activist]]>
+					</desc>
+				</item>
+				<item>
+					<timecode>
+						<![CDATA[00:06:18]]>
+					</timecode>
+					<desc>
+						<![CDATA[Miguel Arana{0}15M Movement]]>
+					</desc>
+				</item>
+				<item>
+					<timecode>
+						<![CDATA[00:06:44]]>
+					</timecode>
+					<desc>
+						<![CDATA[May 15th 2011{0}Puerta del Sol]]>
+					</desc>
+				</item>
+				<item>
+					<timecode>
+						<![CDATA[00:09:46]]>
+					</timecode>
+					<desc>
+						<![CDATA[May 16th 2011{0}First assembly on Puerta del Sol]]>
+					</desc>
+				</item>
+				<item>
+					<timecode>
+						<![CDATA[00:15:22]]>
+					</timecode>
+					<desc>
+						<![CDATA[Alberto Garzón{0}Congressman for the United Left party]]>
+					</desc>
+				</item>
+				<item>
+					<timecode>
+						<![CDATA[00:18:10]]>
+					</timecode>
+					<desc>
+						<![CDATA[Enrique Dans{0}Information Science teacher and blogger]]>
+					</desc>
+				</item>
+				<item>
+					<timecode>
+						<![CDATA[00:19:08]]>
+					</timecode>
+					<desc>
+						<![CDATA[Carlos Taibo{0}Political Science teacher]]>
+					</desc>
+				</item>
+			</synthes>
+			<complements>
+				<item id="cplt-bologne">
+					<!-- texte / video -->
+					<type>
+						<![CDATA[texte]]>
+					</type>
+					<titleShort>
+						<![CDATA[The Bologna process]]>
+					</titleShort>
+					<titleLong>
+						<![CDATA[The Bologna process]]>
+					</titleLong>
+					<timecode>
+						<![CDATA[00:02:34]]>
+					</timecode>
+					<content>
+						<![CDATA[<p align='right'><font size='20'><b>The Bologna process</p></font></b>
+						<p align='justify'>
+						The Bologna process is a set of reforms with the objective of creating a European higher education space involving two major lines: the mobility for students and researchers and the attractiveness of the european universities in the world. In France the most visible Bologna reforms are the adoption of the ECTS credits and the reorganization of the curriculums on the trio model LMD « License (bachelor)-Master-Doctorate.
+						<br>
+						Under the influence of the European Commission, the Bologna process started encouraging the economic competitiveness of the higher education, through the increased competition between the higher learning institutions.
+						<br>
+						This way the process became an excuse for the national governments to increase the  autonomy of these institutions, as for example by reforming their way of governance in order to reinforce the powers of their leaders. The budgetary autonomy is also one of the main objectives: increasing the personal revenues of the institution (registration fees), developing the private funding.
+						<br>
+						All of this makes the Bologna process be perceived by a large part of the academic community as the Trojan Horse of the dismantling of public services, education and research.
+						</p>
+
+						]]>
+					</content>
+				</item>
+				<item id="cplt-chronologie">
+					<!-- texte / video -->
+					<type>
+						<![CDATA[texte]]>
+					</type>
+					<titleShort>
+						<![CDATA[15M, chronology of a movement]]>
+					</titleShort>
+					<titleLong>
+						<![CDATA[15M, chronology of a movement]]>
+					</titleLong>
+					<timecode>
+						<![CDATA[00:23:05]]>
+					</timecode>
+					<content>
+						<![CDATA[<p align='right'><font size='20'><b>15M, chronology of a movement</p></font></b>
+
+						<p align='justify'>
+						<br/><li><b>15 of May 2011 : </b> call to protest throughout Spain against austerity and for a real democracy. In madrid, a small group of protesters decide to camp at Puerta del Sol, they will be evacuated next morning by the police.</li>
+						<br/><li><b>17 of May 2011: : </b>new protests around the country. Puerta del Sol is occupied in the evening.</li>
+						<br/><li><b>27 of May 2011 : </b>the camp at Catalunya Square of Barcelona is evacuated « manu militari » by the anti-riots police.</li>
+						<br/><li><b>12 of June 2011 : </b>the assembly at Puerta del Sol decides to dismantle the camp.</li>
+						<br/><li><b>19 of June 2011 : </b>European day of protest against austerity</li>
+						<br/><li><b>23 of July 2011 : </b>arrive in Madrid the indignant popular marches that left a month before from 20 spanish cities.</li>
+						<br/><li><b>17 of September 2011 : </b>beginning of the Occupy Wall Street movement in the United States.</li>
+						<br/><li><b>15 of October 2011 : </b>first world day of the indignants, allmost a thousand protests in 80 countries.</li>
+						<br/><li><b>15 of May 2012 : </b>first anniversary of the movement, some regret (and mock) its loss of impetus, others on the contrary point the extraordinary dynamic it has brought into the spanish civil society. </li>
+						<br/><li><b>25 of September 2012 : </b>At the time when austerity is widespread, the slogan « They don't represent us » remains current for the spanish “indignados”. Reunited under the « Coordination 25-S » manifest, the constellation of movements born from the 15M, make a call to encircle the Deputy Congress. </li>
+						</p>
+						]]>
+					</content>
+				</item>
+			</complements>
+		</movie>
+	</movies>
+
+</rampage>

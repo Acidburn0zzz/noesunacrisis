@@ -1,0 +1,13 @@
+<img src="mirage.jpg" width="1600" height="900" border="0" usemap="#map" />
+
+<map name="map">
+<!-- #$-:Image map file created by GIMP Image Map plug-in -->
+<!-- #$-:GIMP Image Map plug-in by Maurits Rijk -->
+<!-- #$-:Please do not edit lines starting with "#$" -->
+<!-- #$VERSION:2.3 -->
+<!-- #$AUTHOR:pyg -->
+<area shape="poly" coords="314,297,249,243,158,285,183,652,156,655,150,715,255,722,317,783,379,750,415,734,418,609,434,601,441,318,356,291" alt="Bankia" target="bankia" onmouseover="mouseover" onmouseout="mouseout" onfocus="onfocus" onblur="onblur" href="bankia" />
+<area shape="poly" coords="438,599,515,578,583,607,579,645,635,647,651,625,689,647,679,696,534,793,480,770,431,765,415,741,422,605,425,606" alt="pah" target="pah" href="pah" />
+<area shape="poly" coords="479,585,471,457,437,456,445,414,628,340,609,449,779,435,782,362,929,379,1081,492,1061,524,1067,692,912,760,702,700,692,635" alt="valdeluz" target="valdeluz" href="valdeluz" />
+<area shape="poly" coords="1069,687,1112,794,1273,759,1396,758,1470,608,1446,414,1145,410,1063,516" alt="caja_madrid" target="caja_madrid" href="caja_madrid" />
+</map>

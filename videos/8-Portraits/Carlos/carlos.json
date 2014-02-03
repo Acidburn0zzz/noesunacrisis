@@ -1,0 +1,21 @@
+{
+  "VIDEO": {
+	"PANNEAU":"8-Portraits",
+    "SRT": {
+		"EN": "EN_CARLOS.srt",
+		"ES": "ES_CARLOS.srt",
+		"FR": "FR_CARLOS.srt"
+	},
+    "FILE": {
+		"HD-MP4": "Carlos/HD_carlos.mp4",
+		"HD-WEBM": "Carlos/HD_carlos.webm",
+		"SD-MP4": "Carlos/SD_carlos.mp4",
+		"SD-WEBM": "Carlos/SD_carlos.webm"
+	},
+	"CONFIG":[
+		{ "height": 480 },{"controls":"controls"},{"loop":"false"},{"preload":"auto"},{"poster":""}
+		,{"autoplay":"false"},{"width":"180"},{"height":"120"}
+	]
+
+  }
+}

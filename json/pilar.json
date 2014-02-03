@@ -1,0 +1,39 @@
+{
+  "VIDEO": {
+	"PANNEAU":"8-Portraits",
+	"TITLE": {
+		"EN": "Pilar",
+		"ES": "Pilar",
+		"FR": "Pilar"
+	},
+	"SUBTITLE": {
+		"EN": "",
+		"ES": "",
+		"FR": "Retraitée"
+	},
+    "SRT": {
+		"EN": "EN_PILAR.srt",
+		"ES": "ES_PILAR.srt",
+		"FR": "FR_PILAR.srt"
+	},
+    "FILE": {
+		"HD-MP4": "Pilar/HD_pilar.mp4",
+		"HD-WEBM": "Pilar/HD_pilar.webm",
+		"SD-MP4": "Pilar/SD_pilar.mp4",
+		"SD-WEBM": "Pilar/SD_pilar.webm"
+	}
+  },
+  "NEXT" : {
+	"TITLE": {
+		"EN": "",
+		"ES": "",
+		"FR": ""
+	},
+	"SUBTITLE": {
+		"EN": "",
+		"ES": "",
+		"FR": ""
+	},
+	"JSON":""
+  }
+}

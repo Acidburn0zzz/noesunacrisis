@@ -1,0 +1,58 @@
+{
+  "VIDEO": {
+	"PANNEAU":"6-PanneauRevolte",
+	"TITLE": {
+		"EN": "Puerta del Sol",
+		"ES": "Puerta del Sol",
+		"FR": "Puerta del Sol"
+	},
+	"SUBTITLE": {
+		"EN": "The 15M Movement",
+		"ES": "El 15M",
+		"FR": "Le mouvement du 15M"
+	},
+    "SRT": {
+		"EN": "EN_3_YAYOFLAUTAS.srt",
+		"ES": "ES_3_YAYOFLAUTAS.srt",
+		"FR": "FR_3_YAYOFLAUTAS.srt"
+	},
+    "FILE": {
+		"HD-MP4": "HD_yayoflautas.mp4",
+		"HD-WEBM": "HD_yayoflautas.webm",
+		"SD-MP4": "SD_yayoflautas.mp4",
+		"SD-WEBM": "SD_yayoflautas.webm"
+	},
+	"POPUPS": {
+		"178": {
+			"EN": {
+				"TITLE":"Pilar's portrait",
+				"LONGTITLE":"Pilar's portrait",
+				"MODALE":"<iframe src='video2.html#pilar' style='width:558px;height:314px;border:none'><\/iframe>"
+			},
+			"ES": {
+				"TITLE":"Retrato de Pilar",
+				"LONGTITLE":"Retrato de Pilar",
+				"MODALE":"<iframe src='video2.html#pilar' style='width:558px;height:314px;border:none'><\/iframe>"
+			},
+			"FR": {
+				"TITLE":"Portrait de Pilar",
+				"LONGTITLE":"Portrait de Pilar",
+				"MODALE":"<iframe src='video2.html#pilar' style='width:558px;height:314px;border:none'><\/iframe>"
+			}
+		}
+	}
+  },
+  "NEXT" : {
+	"TITLE": {
+		"EN": "Workshop ol illustrator El Roto",
+		"ES": "Taller del diseñador El Roto",
+		"FR": "Atelier du dessinateur El Roto"
+	},
+	"SUBTITLE": {
+		"EN": "Drawing the crisis",
+		"ES": "Dibujar la crisis",
+		"FR": "Dessiner la crise"
+	},
+	"JSON":"elroto"
+  }
+}

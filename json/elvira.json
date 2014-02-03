@@ -1,0 +1,39 @@
+{
+  "VIDEO": {
+	"PANNEAU":"8-Portraits",
+	"TITLE": {
+		"EN": "Elvira",
+		"ES": "Elvira",
+		"FR": "Elvira"
+	},
+	"SUBTITLE": {
+		"EN": "",
+		"ES": "",
+		"FR": "Professeur de Droit européen"
+	},
+    "SRT": {
+		"EN": "EN_ELVIRA.srt",
+		"ES": "ES_ELVIRA.srt",
+		"FR": "FR_ELVIRA.srt"
+	},
+    "FILE": {
+		"HD-MP4": "Elvira/HD_elvira.mp4",
+		"HD-WEBM": "Elvira/HD_elvira.webm",
+		"SD-MP4": "Elvira/SD_elvira.mp4",
+		"SD-WEBM": "Elvira/SD_elvira.webm"
+	}
+  },
+  "NEXT" : {
+	"TITLE": {
+		"EN": "",
+		"ES": "",
+		"FR": ""
+	},
+	"SUBTITLE": {
+		"EN": "",
+		"ES": "",
+		"FR": ""
+	},
+	"JSON":""
+  }
+}

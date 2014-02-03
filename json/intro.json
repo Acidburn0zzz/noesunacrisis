@@ -1,0 +1,39 @@
+{
+  "VIDEO": {
+	"PANNEAU":"2-VideoIntro",
+	"TITLE": {
+		"EN": "",
+		"ES": "",
+		"FR": ""
+	},
+	"SUBTITLE": {
+		"EN": "",
+		"ES": "",
+		"FR": ""
+	},
+    "SRT": {
+		"EN": "EN_0_INTRO.srt",
+		"ES": "ES_0_INTRO.srt",
+		"FR": "FR_0_INTRO.srt"
+	},
+    "FILE": {
+		"HD-MP4": "HD_intro.mp4",
+		"HD-WEBM": "HD_intro.webm",
+		"SD-MP4": "SD_intro.mp4",
+		"SD-WEBM": "SD_intro.webm"
+	}
+  },
+  "NEXT" : {
+	"TITLE": {
+		"EN": "",
+		"ES": "",
+		"FR": ""
+	},
+	"SUBTITLE": {
+		"EN": "",
+		"ES": "",
+		"FR": ""
+	},
+	"JSON":""
+  }
+}

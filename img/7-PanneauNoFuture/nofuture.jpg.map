@@ -1,0 +1,13 @@
+<img src="nofuture.jpg" width="1600" height="900" border="0" usemap="#map" />
+
+<map name="map">
+<!-- #$-:Image map file created by GIMP Image Map plug-in -->
+<!-- #$-:GIMP Image Map plug-in by Maurits Rijk -->
+<!-- #$-:Please do not edit lines starting with "#$" -->
+<!-- #$VERSION:2.3 -->
+<!-- #$AUTHOR:pyg -->
+<area shape="poly" coords="173,365,414,302,498,448,466,572,476,642,552,678,530,741,417,816,257,792,149,702" alt="squat" href="video.html#patio" />
+<area shape="poly" coords="481,540,503,469,551,461,571,427,664,428,760,445,727,627,734,685,699,722,570,723,527,650,475,616" alt="ecole2" href="video.html#ecole-langues" />
+<area shape="poly" coords="761,484,943,456,1007,496,998,669,1077,709,994,802,688,783,719,702,751,689,735,638" alt="teatro" href="video.html#EgliseLeoBassi" />
+<area shape="poly" coords="1012,510,1176,430,1404,505,1466,597,1400,747,1227,791,1102,736,1053,689,1004,660,1007,661,1008,602" alt="stade" href="video.html#foot" />
+</map>

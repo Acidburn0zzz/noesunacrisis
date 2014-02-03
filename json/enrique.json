@@ -1,0 +1,39 @@
+{
+  "VIDEO": {
+	"PANNEAU":"8-Portraits",
+	"TITLE": {
+		"EN": "Enrique",
+		"ES": "Enrique",
+		"FR": "Enrique"
+	},
+	"SUBTITLE": {
+		"EN": "",
+		"ES": "",
+		"FR": "Professeur en Sciences de l'information"
+	},
+    "SRT": {
+		"EN": "EN_ENRIQUE.srt",
+		"ES": "ES_ENRIQUE.srt",
+		"FR": "FR_ENRIQUE.srt"
+	},
+    "FILE": {
+		"HD-MP4": "Enrique/HD_enrique.mp4",
+		"HD-WEBM": "Enrique/HD_enrique.webm",
+		"SD-MP4": "Enrique/SD_enrique.mp4",
+		"SD-WEBM": "Enrique/SD_enrique.webm"
+	}
+  },
+  "NEXT" : {
+	"TITLE": {
+		"EN": "",
+		"ES": "",
+		"FR": ""
+	},
+	"SUBTITLE": {
+		"EN": "",
+		"ES": "",
+		"FR": ""
+	},
+	"JSON":""
+  }
+}

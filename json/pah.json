@@ -1,0 +1,58 @@
+{
+  "VIDEO": {
+	"PANNEAU":"4-PanneauMirage",
+	"TITLE": {
+		"EN": "PAH Office",
+		"ES": "Perseverancia de la PAH",
+		"FR": "Permanence de la PAH"
+	},
+	"SUBTITLE": {
+		"EN": "The plague of property evictions",
+		"ES": "El cataclismo de los desahucios",
+		"FR": "Le fléau des expulsions"
+	},
+    "SRT": {
+		"EN": "EN_1_PAH.srt",
+		"ES": "ES_1_PAH.srt",
+		"FR": "FR_1_PAH.srt"
+	},
+    "FILE": {
+		"HD-MP4": "HD_pah.mp4",
+		"HD-WEBM": "HD_pah.webm",
+		"SD-MP4": "SD_pah.mp4",
+		"SD-WEBM": "SD_pah.webm"
+	},
+	"POPUPS": {
+		"359": {
+			"EN": {
+				"TITLE":"The proposal of a law of popular initiative",
+				"LONGTITLE":"Stop to the property evictions ! The proposal of a law of popular initiative",
+				"MODALE":"<p align='justify'>At the initiative of the PAH (Platform for the victims of mortgage), almost 1,5 million signatures were gathered in order to require from the Parliament a discussion about a popular legislative initiative. This popular legislative initiative was composed of three sections: a moratorium on the evictions, the retroactive cancellation of the arrears after the seize of the property by the bank, the establishment of a social housing park.  <br>The 18th of April 2013, the Popular Party voted, by its self, a new law, judged totally insufficient by the left-wing opposition, who rejected it en bloc. The mobilized citizens kept up with the opposition, they were protesting in front of the Congress. <br>The improvements proposed by this new law were in fact modest: the more fragile families only see their eviction proceeding suspended for two year; the delay penalties, who can be quite colossal in Spain, are limited; the justice can cancel an eviction proceeding if it has doubts about some eventual unfair terms in the loan contract ( this provision has become mandatory according to the 14th march 2013 law given by the European Court of Justice).  <br>The transfer in lieu of payment (<i>dación en pago<\/i>), the emblematic provision of the popular legislative initiative, was excluded by the P.P. Members. It would have allowed the families evicted from their housings to continue to repay their debts to the banks. As today, when a bank seizes a property, its value is depreciated comparing to the purchase price, established during a full real estate euphoria. It forces so the debtor to repay the difference between the real value of the property and the amount, often, exorbitant of the contract price. Already evicted from their homes, these families find them selves compelled, with no perspective. <br>The creation of a social housing park with the properties seized by the banks was also forgotten. These properties will so continue to be at the head of a giant unoccupied housing park.<br>In spring 2013, the PAH decides to put some pressure on the Members of PP in the Parliament, who they refuse to vote the law. The PAH initiates then the <i>« escraches »<\/i>, with reference to how the Argentinians proceeded when they were tracking down the former bosses of the dictatorship: they were simply protesting in front of the person's home. <br>This way of action made the PP react: the general secretary of the right-wing parti, Maria Dolores of Cospedal, qualified it of <;>« pure Nazism »<\/i>, nothing less. <br>The « 2013 European Citizen Price » awarded last june to the PAH by the European Parliament, didn't please the PP and some conservative editorial writers, who saw in that the <i>« moral and ethical death »<\/i> of Europe. The PP had naturally requested to be awarded with this price. In vain. <\/p>"
+			},
+			"ES": {
+				"TITLE":"El proyecto de ley de la PAH",
+				"LONGTITLE":"Stop desahucios ! El proyecto de ley de la PAH",
+				"MODALE":"<p align='justify'>Por iniciativa de la PAH, se recogieron cerca de 1,5 millones de firmas para exigir al Parlamento abrir el debate a una iniciativa legislativa popular. Esta constaba de tres partes: una moratoria para los desalojos, la anulación con carácter retroactivo de los atrasos hipotecarios - una vez que el banco ejecutara las hipotecas -, y la puesta en marcha de un parque de alquileres sociales. <br>El 18 de abril de 2013, el Partido Popular votó, solo, una nueva ley, considerada totalmente insuficiente por la oposición de izquierdas, que la rechazó en bloque. Mientras se tomaban estas decisiones, una movilización ciudadana se manifestaba a las puertas del Congreso.<br>Los avances de la nueva ley son, de hecho, bastante modestos: las familias más frágiles podrán aplazar el proceso de expulsión durante dos años; las penalizaciones por retrasos, que pueden ser astronómicas en España, serán limitadas; los jueces podrán suspender un  procedimiento de desalojo si se detectan cláusulas abusivas en el contrato de crédito hipotecario (disposición ordenada por el Tribunal de Justicia Europeo el 14 de marzo de 2013). <br>La dación en pago, medida emblema de la iniciativa legislativa popular, fue rechazada por los diputados del PP. Esta habría permitido a las familias desahuciadas entregar su vivienda a cambio de quedar libre de toda deuda. A día de hoy, el valor de las viviendas hipotecadas,  fijado en plena euforia inmobiliaria, se ha depreciado frente al precio de compra. Esto impone al deudor rembolsar la diferencia entre el valor real de la casa y el, a menudo exorbitante, préstamo. Así pues, una vez expulsadas de sus hogares, las familias se encuentran acorraladas y sin ninguna perspectiva. <br>Igualmente rechazada fue la propuesta de crear un parque de alquileres sociales, constituido con los bienes incautados por las entidades financieras, las cuales seguirán a la cabeza de un enorme parque de viviendas vacías. <br>Durante la primavera de 2013, la PAH decide presionar a los miembros del PP que se niegan a votar a favor de  la ley. Se difundieron entonces los escraches, en referencia al modo de acción de los argentinos, que acechaban a los ex jefes de la dictadura. Se trataba simplemente de ir a protestar frente a la residencia de las personas implicadas. <br>Estas acciones hicieron saltar a la derecha. La secretaria general del partido popular, María Dolores de Cospedal, llegó a calificarlas de \"puro nazismo\", nada menos. <br>Dada la situación, el Premio Ciudadano Europeo 2013, otorgado a la PAH por el Parlamento Europeo el pasado junio, no fue del gusto de conservadores y columnistas del PP, quienes vieron en él <i>« la muerte de la ética y la moral de Europa »<\/i> de l’Europe. El PP llegó incluso a solicitar la retirada de la concesión. En vano. <\/p><ul><li>Más información en ABC<br><i><a href=\"http:\/\/www.abc.es\/estilo-gente\/20130419\/rc-desahucios-201304191507.html\" target=\"_blank\">Ada de los desahucios<\/a><\/i><\/li><br\/><li>Más información en El Diario<br><i><a href=\"http:\/\/www.eldiario.es\/andalucia\/Historia-desahucio-Pensaba-podia-pasarme_0_114788638.html\" target=\"_blank\">Historia de un desahucio: \"Pensaba que esto no podía pasarme a mí\" <\/a><\/i><\/li><\/ul>"
+			},
+			"FR": {
+				"TITLE":"La proposition de loi de la PAH",
+				"LONGTITLE":"Stop aux expulsions ! La proposition de loi d’initiative populaire",
+				"MODALE":"<p align='justify'>A l’initiative de la PAH, près de 1,5 millions de signatures ont été recueillies pour exiger du Parlement la discussion d’une initiative législative populaire. Celle-ci comportait trois volets : un moratoire sur les expulsions, l’annulation rétroactive des arriérés après la saisie du logement par la banque, la mise en place d’un parc de logements sociaux.<br \/><br \/>Le 18 avril 2013, le Parti Populaire votait, seul, une nouvelle loi, jugée totalement insuffisante par l’opposition de gauche, qui l’a rejeté en bloc. Les citoyens mobilisés n’étaient pas en reste, eux qui manifestaient devant le Congrès.<br \/><br \/>Les avancées de la nouvelle loi sont de fait modestes : les familles les plus fragiles voient seulement leur processus d’expulsion suspendu pendant deux ans ; les pénalités de retard, qui peuvent être pharaoniques en Espagne, sont limitées ; la justice peut suspendre une procédure d’expulsion si elle a des doutes sur d’éventuelles clauses abusives dans le contrat de crédit (cette disposition ayant été rendue obligatoire par l’arrêt du 14 mars 2013 de la Cour de Justice Européenne).<br \/><br \/>La <i>dación en pago<\/i>, qui était la disposition emblématique de l’initiative législative populaire, a été écartée par les députés PP. Elle aurait permis aux familles expulsées de leur logement de ne plus avoir à continuer à rembourser leurs dettes auprès des banques. Car aujourd’hui, quand une banque saisit un logement, sa valeur est dépréciée par rapport au prix d’achat, fixé en pleine euphorie immobilière. Elle demande donc à son débiteur de rembourser la différence entre la valeur réelle du logement et le montant, souvent exorbitant, du prêt contracté. Déjà expulsées de leur logement, des familles se retrouvent ainsi acculées, sans aucune perspective.<br \/><br \/>Oubliée également la création d’un parc de logements sociaux avec les biens saisis par les banques. Celles-ci continueront donc d’être à la tête d’un gigantesque parc immobilier inoccupé.<br \/><br \/>Au printemps 2013, la PAH décide de mettre la pression sur les députés PP qui refusent de voter la loi. Elle lance alors les <i>escraches<\/i>, en référence au mode d’action des Argentins qui traquaient les anciens caciques de la dictature : il s’agit simplement d’aller protester devant le domicile de la personne visée.<br \/><br \/>Ce mode d’action a fait bondir le PP : la secrétaire générale du parti de droite, María Dolores de Cospedal, l’a qualifié de <i>« pur nazisme »<\/i>, rien que ça.<br \/><br \/>Autant dire que le Prix du Citoyen européen 2013 décerné en juin dernier à la PAH par le Parlement Européen n’a pas été du goût du PP et des éditorialistes conservateurs, qui y ont vu <i>« la mort morale et ethique »<\/i> de l’Europe. Le PP a naturellement réclamé le retrait de ce prix. En vain.<\/p><ul><li>A lire sur Courrier International: <i><strong><a href=\"http:\/\/www.courrierinternational.com\/article\/2011\/09\/15\/le-jour-ou-les-jeunes-ont-reinvente-la-democratie\" target=\"_blank\">Ada Colau, elle fait du logis son combat<\/a><\/strong><\/i><\/li><br\/><li>A lire sur Courrier International: <i><u><a href=\"http:\/\/www.courrierinternational.com\/article\/2013\/04\/05\/histoire-d-une-expulsion-je-pensais-que-ca-ne-pouvait-pas-m-arriver\" target=\"_blank\">Histoire d’une expulsion : « je pensais que ça ne pouvait pas m’arriver »<\/a><\/u><\/i><\/li><\/ul>"
+			}
+		}
+	}
+  },
+  "NEXT" : {
+	"TITLE": {
+		"EN": "Ciudad Valdeluz",
+		"ES": "Ciudad Valdeluz",
+		"FR": "Ciudad Valdeluz"
+	},
+	"SUBTITLE": {
+		"EN": "City looking for residents",
+		"ES": "Ciudad busca habitantes",
+		"FR": "Ville recherche habitants"
+	},
+	"JSON":"valdeluz"
+  }
+}

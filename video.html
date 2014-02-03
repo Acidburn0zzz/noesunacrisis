@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset=utf-8 />
+	<title>Interface video pour No Es Una Crisis / test</title>
+	<script src="inc/js/libs/jquery-2.0.3.min.js"></script>
+	<link href="inc/css/libs/video-js.css" rel="stylesheet"/>
+	<link href="inc/css/libs/videojs.markers.css" rel="stylesheet"/>
+    <script src="inc/js/libs/bootstrap.min.js"></script>
+	<link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.0.3/css/bootstrap.min.css">
+    <link rel="stylesheet" href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css">
+	<script type="text/javascript" src="js/no-es-una-crisis.js"></script>
+       
+    <link href="inc/css/video.css" rel="stylesheet"/>
+	<script src="inc/js/video.js"></script>
+</head>
+<body style="display:none">
+	
+			<!-- Modale préface-->
+        <div class="modal fade" id="modal-preface" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+            <div class="modal-dialog">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+                        <h4 class="modal-title" id="myModalLabel">Préface</h4>
+                    </div>
+                    <div class="modal-body" id="preface-body">
+                        ...
+                    </div>
+                    <div class="modal-footer">
+                        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+                    </div>
+                </div><!-- /.modal-content -->
+            </div><!-- /.modal-dialog -->
+        </div><!-- /.modal -->
+        <!-- Modale crédits-->
+        <div class="modal fade" id="modal-credits" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+            <div class="modal-dialog">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+                        <h4 class="modal-title" id="myModalLabel">Crédits</h4>
+                    </div>
+                    <div class="modal-body" id="credits-body">
+                        ...
+                    </div>
+                    <div class="modal-footer">
+                        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+                    </div>
+                </div><!-- /.modal-content -->
+            </div><!-- /.modal-dialog -->
+        </div><!-- /.modal -->
+	
+	<div id="logo"><img src="img/0-Communs/LogosEtPictos/logo_noesunacrisis_blanc.png" alt="No Es Una Crisis" /></div>
+	<div id="back-city"><a href="">Back to the city</a></div>
+	<video  id="neuc-video"
+                class="video-js vjs-default-skin"
+                controls="controls"
+                preload="auto"
+                width="480" height="270"
+                data-setup="{}">
+		<source src="videos/2-VideoIntro/videos/HD_intro.mp4" type="video/mp4" class="mp4"/>
+		<source src="videos/2-VideoIntro/videos/HD_intro.webm" type="video/webm" class="webm"/>		
+        <track src="videos/2-VideoIntro/videos/srt/EN_0_INTRO.srt" label="English" kind="subtitles" class="en"></track>
+        <track src="videos/2-VideoIntro/videos/srt/ES_0_INTRO.srt" srclang="es" label="Español" kind="subtitles" class="es"></track>
+        <track src="videos/2-VideoIntro/videos/srt/FR_0_INTRO.srt" srclang="fr" label="Fran&ccedil;ais" kind="subtitles" class="fr"></track>
+	</video>
+	<div class="vjs-definition">HD</div>
+	<nav class="video-nav">
+		<ul>
+			<li><a href="#" id="pan-menu-preface" data-toggle="modal" data-target="#modal-preface">PRÉFACE</a></li>
+            <li><a href="http://blog.noesunacrisis.com">BLOG</a></li>
+            <li><a href="#" id="pan-menu-credits" data-toggle="modal" data-target="#modal-credits">CRÉDITS</a></li>
+		</ul>
+	<div class="share"><a href="http://www.facebook.com/sharer/sharer.php?u=http://www.noesunacrisis.com&display=popup" class="facebook"><img src="img/0-Communs/LogosEtPictos/icone_facebook.png" alt="Facebook"/></a><a href="https://twitter.com/intent/tweet?source=webclient&text=NO+ES+UNA+CRISIS+%3A+Plong%C3%A9e+dans+Madrid%2C+capitale+europ%C3%A9enne+en+crise+et+en+r%C3%A9volte+http%3A%2F%2Ftinyurl.com%2Fl42ozwj+%23webdoc+%23noesunacrisis" class="twitter"><img src="img/0-Communs/LogosEtPictos/icone_twitter.png" alt="Twitter"/></a></div>
+	<a href="#" onclick="requestFullScreen();"><i id="pan-full-screen" class="glyphicon glyphicon-resize-full"></i></a>
+	</nav>
+    <div id="video-modals"></div>
+	<div class="modal fade" id="end-modal">
+		<div class="modal-dialog">
+			<div class="modal-content">
+				<div class="modal-header">
+					<div id="back-city2"><a href=""><h4 class="modal-title"><i class="glyphicon glyphicon-arrow-left"></i><span>Back to the city</span></h4></a></div>
+				</div>
+				<div class="modal-body">						
+					<div id="replay"><a href="#" onclick="document.location.reload();"><i class="glyphicon glyphicon-repeat"></i></a></div>
+					<div id="next-video"><a href=""><h4>Go</h4><i class="glyphicon glyphicon-play"></i><p></p></a></div>
+					<div id="additionnals"><h4>See - or see again - additionnals</h4></div>
+					<div id="dl-video"><a href=""><h4><i class="glyphicon glyphicon-save"></i><span>Download the sequence</span></h4><img src="http://i.creativecommons.org/l/by-sa/3.0/88x31.png" alt="CC-BY-SA" style="margin:10 auto;"/></a></div>
+					
+				</div>
+			</div>
+		</div>
+	</div>   
+</body>
+</html>

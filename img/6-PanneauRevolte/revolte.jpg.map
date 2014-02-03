@@ -1,0 +1,13 @@
+<img src="revolte.jpg" width="1600" height="900" border="0" usemap="#map" />
+
+<map name="map">
+<!-- #$-:Image map file created by GIMP Image Map plug-in -->
+<!-- #$-:GIMP Image Map plug-in by Maurits Rijk -->
+<!-- #$-:Please do not edit lines starting with "#$" -->
+<!-- #$VERSION:2.3 -->
+<!-- #$AUTHOR:pyg -->
+<area shape="poly" coords="120,592,238,528,351,407,605,411,563,559,528,664,560,756,477,811,143,748" alt="parlamento" href="video.html#parlement" />
+<area shape="poly" coords="579,526,688,521,708,417,787,432,777,490,1123,497,1155,550,1181,571,1203,662,1190,719,1108,799,591,778,526,662" alt="puerta_del_sol" href="video.html#puertadelsol_mouvement" />
+<area shape="poly" coords="1197,575,1151,542,1143,437,1221,396,1375,424,1382,496,1410,556,1412,626" alt="pilar" href="video.html#pilar" />
+<area shape="poly" coords="1210,584,1206,678,1204,739,1283,794,1410,801,1481,784,1464,705,1412,679,1412,626" alt="el_roto" href="video.html#elroto" />
+</map>

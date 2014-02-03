@@ -1,0 +1,422 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<rampage>
+	<config>
+		<video classname="symbols.BgMovieRampageSymbol" />
+		<sound classname="symbols.SoundRampageSymbol" />
+	</config>
+	<nav>
+		<item id="torrespana">
+			<title>
+				<![CDATA[TORRESPAÑA]]>
+			</title>
+			<subtitle>
+				<![CDATA[Le journalisme en crise]]>
+			</subtitle>
+			<bgPicture>
+				<![CDATA[rampage_picture_1]]>
+			</bgPicture>
+			<video>
+				<!-- TODO: INFOS sur les videos, soustritr, etc... -->
+			</video>
+		</item>
+		<item id="fac">
+			<title>
+				<![CDATA[UNIVERSITE COMPLUTENSE]]>
+			</title>
+			<subtitle>
+				<![CDATA[Ça coupe dans l'éducation]]>
+			</subtitle>
+			<bgPicture>
+				<![CDATA[rampage_picture_2]]>
+			</bgPicture>
+			<video>
+				<!-- TODO: INFOS sur les videos, soustritr, etc... -->
+			</video>
+		</item>
+		<item id="greve">
+			<title>
+				<![CDATA[GREVE GENERALE]]>
+			</title>
+			<subtitle>
+				<![CDATA[Tous dans la rue !]]>
+			</subtitle>
+			<bgPicture>
+				<![CDATA[rampage_picture_3]]>
+			</bgPicture>
+			<video>
+				<!-- TODO: INFOS sur les videos, soustritr, etc... -->
+			</video>
+		</item>
+		<item id="hopital">
+			<title>
+				<![CDATA[HOPITAL GREGORIO MARAÑON]]>
+			</title>
+			<subtitle>
+				<![CDATA[Privatisons la santé... et les bénéfices publics]]>
+			</subtitle>
+			<bgPicture>
+				<![CDATA[rampage_picture_4]]>
+			</bgPicture>
+			<video>
+				<!-- TODO: INFOS sur les videos, soustritr, etc... -->
+			</video>
+		</item>
+	</nav>
+	<subtitle>
+		<![CDATA[Rigueur à tous les étages]]>
+	</subtitle>
+	<movies>
+		<movie id="greve" isFooter="true">
+			<video>
+				<sd>
+					<![CDATA[SD_huelga.mp4]]>
+				</sd>
+				<hd>
+					<![CDATA[HD_huelga.mp4]]>
+				</hd>
+			</video>
+			<subtitle>
+				<![CDATA[FR_2_GREVE.srt]]>
+			</subtitle>
+			<synthes/>
+			<complements/>
+		</movie>
+		<movie id="torrespana" isFooter="true">
+			<video>
+				<sd>
+					<![CDATA[SD_torrespanna.mp4]]>
+				</sd>
+				<hd>
+					<![CDATA[HD_torrespanna.mp4]]>
+				</hd>
+			</video>
+			<subtitle>
+				<![CDATA[FR_2_TORRESPANA.srt]]>
+			</subtitle>
+			<synthes>
+				<item>
+					<timecode>
+						<![CDATA[00:00:50]]>
+					</timecode>
+					<desc>
+						<![CDATA[Ramon Muñoz{0}Journaliste El País]]>
+					</desc>
+				</item>
+				<item>
+					<timecode>
+						<![CDATA[00:02:33]]>
+					</timecode>
+					<desc>
+						<![CDATA[Juan-Lu Sánchez{0}Rédacteur en chef adjoint El Diario]]>
+					</desc>
+				</item>
+				<item>
+					<timecode>
+						<![CDATA[00:03:54]]>
+					</timecode>
+					<desc>
+						<![CDATA[Javier Gallego{0}Journaliste radio]]>
+					</desc>
+				</item>
+				<item>
+					<timecode>
+						<![CDATA[00:04:26]]>
+					</timecode>
+					<desc>
+						<![CDATA[Extraits de "Carne Cruda"{0}Radio 3 (02/12/2011)]]>
+					</desc>
+				</item>
+			</synthes>
+			<complements>
+				<item id="cplt-tiersmonde">
+					<!-- texte / video -->
+					<type>
+						<![CDATA[video]]>
+					</type>
+					<titleShort>
+						<![CDATA[Espagne, destination Tiers-Monde]]>
+					</titleShort>
+					<titleLong>
+						<![CDATA[Espagne, destination Tiers-Monde]]>
+					</titleLong>
+					<timecode>
+						<![CDATA[00:00:30]]>
+					</timecode>
+					<content>
+						<sd>
+							<![CDATA[SD_ramon.mp4]]>
+						</sd>
+						<hd>
+							<![CDATA[HD_ramon.mp4]]>
+						</hd>
+						<subtitle>
+							<![CDATA[FR_RAMON.srt]]>
+						</subtitle>
+					</content>
+				</item>
+				<item id="cplt-panora">
+					<!-- texte / video -->
+					<type>
+						<![CDATA[texte]]>
+					</type>
+					<titleShort>
+						<![CDATA[Un panorama médiatique déséquilibré]]>
+					</titleShort>
+					<titleLong>
+						<![CDATA[Un panorama médiatique déséquilibré]]>
+					</titleLong>
+					<timecode>
+						<![CDATA[00:02:52]]>
+					</timecode>
+					<content>
+						<![CDATA[<p align='right'><font size='20'><b>Un panorama médiatique déséquilibré</p></font></b>
+						<p align='justify'>
+						A gauche :
+						<br/><li>Eldiario.es</li>
+						<br/><li>Infolibre.es</li>
+						<br>
+						Au centre-gauche :
+						<br/><li>Groupe PRISA (El Pais, As, Cinco Dias, Canal + Espagne, 18% Mediaset, Cadena Ser, 0 Principales, 15% Le Monde)</li>
+						<br/><li>La Sexta (Atresmedia)</li>
+						<br/><li>Público.es</li>
+						<br>
+						Au centre-droit :
+						<br/><li>Groupe Vocento (ABC + quotidiens régionaux, Net TV)</li>
+						<br/><li>Grupo Godó (La Vanguardia, El Mundo Deportivo, TNT catalane)</li>
+						<br>
+						A droite :
+						<br/><li>Unidad Editorial (El Mundo, Marca, Expansión, Popular TV, Radio Marca)</li>
+						<br/><li>Atresmedia (Antena 3, Onda Cero, Europa FM)</li>
+						<br/><li>Mediaset España (Telecinco, Cuatro, La Siete), du groupe italien Mediaset de Silvio Berlusconi</li>
+						<br/><li>RTVE (publique)</li>
+						<br>
+						A droite de la droite :
+						<br/><li>Grupo Planeta (La Razón, 45% Atresmedia, Editis en France)</li>
+						<br/><li>Conferencia Episcopal Española (Cadena COPE, Cadena 100, 13TV)</li>
+						<br/><li>Grupo Intereconomia (La Gaceta, Intereconomia TV)</li>
+						</p>
+
+						]]>
+					</content>
+				</item>
+				<item id="cplt-purge">
+					<!-- texte / video -->
+					<type>
+						<![CDATA[texte]]>
+					</type>
+					<titleShort>
+						<![CDATA[Purge politique à la RTVE]]>
+					</titleShort>
+					<titleLong>
+						<![CDATA[Purge politique à la RTVE]]>
+					</titleLong>
+					<timecode>
+						<![CDATA[00:03:47]]>
+					</timecode>
+					<content>
+						<![CDATA[<p align='right'><font size='20'><b>Purge politique à la RTVE</p></font></b>
+						<p align='justify'>
+						L’imperméabilité des médias publics espagnols aux alternances politiques a toujours fait défaut. Il semble que la purge fut particulièrement notable suite à l’arrivée de Mariano Rajoy à la tête du gouvernement, en décembre 2011.
+						<br>
+						José Luis Zapatero avait pourtant entamé un processus de dépolitisation de la Radio Televisión Española (RTVE), en faisant nommer le patron de l’audiovisuel public espagnol par une majorité des deux tiers des députés. Mariano Rajoy fait machine arrière, pour revenir à une nomination directe par le gouvernement : en juin 2012, il place Leopoldo González Echenique à la présidence de RTVE.
+						<br>
+						C’est alors Julio Somoano qui prend la tête du service Informations. Auparavant rédacteur en chef du journal de Telemadrid, Julio Somoano a aussi écrit pour des journaux conservateurs (El Mundo notamment). Moins connu que son CV, son sujet  de thèse en communication politique : <i>« Une stratégie de communication pour la victoire du Parti Populaire aux prochaines élections législatives »</i>.
+						<br>
+						Dès l’été 2012, Julio Somoano fait le ménage dans les programmes de la télévision publique. La figure de ce qui apparaît alors comme une purge politique est Ana Pastor Garcia. Présentatrice à succès des matins de TVE, elle est réputée pour la rigueur et la ténacité de ses interviews politiques. Elle était déjà dans le collimateur du PP avant les élections de 2011, le porte-parole du parti de Mariano Rajoy ayant dès l’été 2011 laissé entendre qu’elle serait écartée de l’antenne si le PP revenait au pouvoir.
+						<br>
+						C’est donc chose faîte en août 2012. Sont également licenciés Alicia Montano d’<i>Informe semanal</i> et Xabier Fortes de <i>Canal 24 horas</i>. A eux aussi le pouvoir reproche d’avoir trop questionné sa politique d’austérité.
+						<br>
+						En septembre étaient également évincés de la radio publique Javier Gallego et son impertinent <i>Carne cruda</i>, ainsi que l’économiste Paco Alvarez pour sa chronique <i>La Bourse et la vie</i>.
+						</p>
+
+						<br/><li>A lire sur Courrier International
+						<br>
+						<i><a href="http://www.courrierinternational.com/article/2012/06/06/l-audiovisuel-public-mis-sous-tutelle" target="_blank">L’audiovisuel public mis sous tutelle</a></i>
+						</li>
+						]]>
+					</content>
+				</item>
+				<item id="cplt-sabotage">
+					<!-- texte / video -->
+					<type>
+						<![CDATA[texte]]>
+					</type>
+					<titleShort>
+						<![CDATA[Le sabotage de Telemadrid]]>
+					</titleShort>
+					<titleLong>
+						<![CDATA[Telemadrid, ou le sabotage d’une TV publique]]>
+					</titleLong>
+					<timecode>
+						<![CDATA[00:06:15]]>
+					</timecode>
+					<content>
+						<![CDATA[<p align='right'><font size='20'><b>Telemadrid, ou le sabotage d’une TV publique</p></font></b>
+						<p align='justify'>
+						Voir dans son intégralité le tract vidéo des salariés de Telemadrid (en espagnol) : <i><a href="http://www.salvemostelemadrid.es/telemadrid-como-destruir-un-servicio-publico/ "target="_blank">Comment détruire un service public </a></i>
+						</p>
+						]]>
+					</content>
+				</item>
+
+			</complements>
+		</movie>
+		<movie id="hopital" isFooter="true">
+			<video>
+				<sd>
+					<![CDATA[SD_hopital.mp4]]>
+				</sd>
+				<hd>
+					<![CDATA[HD_hopital.mp4]]>
+				</hd>
+			</video>
+			<subtitle>
+				<![CDATA[FR_2_HOPITAL.srt]]>
+			</subtitle>
+			<synthes>
+				<item>
+					<timecode>
+						<![CDATA[00:02:21]]>
+					</timecode>
+					<desc>
+						<![CDATA[Gloria Sanz{0}Infirmière]]>
+					</desc>
+				</item>
+				<item>
+					<timecode>
+						<![CDATA[00:03:30]]>
+					</timecode>
+					<desc>
+						<![CDATA[Andrea Romero{0}Médecin]]>
+					</desc>
+				</item>
+			</synthes>
+			<complements>
+				<item id="cplt-santebuisness">
+					<!-- texte / video -->
+					<type>
+						<![CDATA[texte]]>
+					</type>
+					<titleShort>
+						<![CDATA[Votre santé est leur business]]>
+					</titleShort>
+					<titleLong>
+						<![CDATA[Votre santé est leur business]]>
+					</titleLong>
+					<timecode>
+						<![CDATA[00:00:47]]>
+					</timecode>
+					<content>
+						<![CDATA[<p align='right'><font size='20'><b>Votre santé est leur business</p></font></b>
+						<p align='justify'>
+						La Communauté de Madrid a entamé un processus de privatisation de la gestion de vingt-sept centres de santé et de six des plus grands hôpitaux de la région.
+						<br>
+						Le 7 juin 2013, à la surprise générale, seuls deux compagnies privées répondaient à l’appel d’offre du Gouvernement régional, et pour seulement trois hôpitaux. Le fonds d’investissement britannique CVC Capital Partners, via sa filiale IDC Salud (ex-Capio), et son concurrent local, l’espagnol HM Hospitales, ont jeté l’éponge : les bénéfices à tirer de la gestion de ces hôpitaux s’avèreraient moins grands qu’escomptés.
+						<br>
+						Il est vrai que le but affiché du fonds CVC Capital Partners est de cibler des secteurs <i>« à rentabilité élevée »</i>. IDC Salud est également accusée de faire transiter ses bénéfices via des sociétés écran vers les Îles Caïman afin d’échapper à l’impôt.
+						<br>
+						Sanitas et Ribera Salud (qui gère déjà des hôpitaux privés à Valencia), ont eux présenté des offres pour les hôpitaux Infanta Leonor, Sureste et Hospital de Henares.
+						</p>
+
+						<br/><li>A lire sur Médiapart (sur abonnement)
+						<br>
+						<i><a href="http://www.mediapart.fr/journal/international/250313/madrid-une-maree-blanche-contre-les-privatisations-dhopitaux" target="_blank">A Madrid, une «marée blanche» contre les privatisations d'hôpitaux</a></i>
+						</li>
+
+						]]>
+					</content>
+				</item>
+			</complements>
+		</movie>
+		<movie id="fac" isFooter="true">
+			<video>
+				<sd>
+					<![CDATA[SD_fac.mp4]]>
+				</sd>
+				<hd>
+					<![CDATA[HD_fac.mp4]]>
+				</hd>
+			</video>
+			<subtitle>
+				<![CDATA[FR_2_FAC.srt]]>
+			</subtitle>
+			<synthes>
+				<item>
+					<timecode>
+						<![CDATA[00:00:59]]>
+					</timecode>
+					<desc>
+						<![CDATA[Ángelez Diez Rodriguez{0}Sociologue]]>
+					</desc>
+				</item>
+				<item>
+					<timecode>
+						<![CDATA[00:04:27]]>
+					</timecode>
+					<desc>
+						<![CDATA[Cruz Diez{0}Enseignante]]>
+					</desc>
+				</item>
+			</synthes>
+			<complements>
+				<item id="cplt-universite">
+					<!-- texte / video -->
+					<type>
+						<![CDATA[texte]]>
+					</type>
+					<titleShort>
+						<![CDATA[Université publique en danger]]>
+					</titleShort>
+					<titleLong>
+						<![CDATA[Université publique en danger]]>
+					</titleLong>
+					<timecode>
+						<![CDATA[00:03:12]]>
+					</timecode>
+					<content>
+						<![CDATA[<p align='right'><font size='20'><b>Université publique en danger</p></font></b>
+						<p align='justify'>
+						<br/><li><b>130 millions d’€ : </b>coupe budgétaire décidée en juillet 2012 par la Communauté de Madrid, pour les six universités madrilènes, sur un budget global initialement prévu à 1 milliard d’euros, soit une baisse de 15%.</li>
+						<br/><li><b>50 millions d’€ :</b> fonds manquant à la recherche scientifique de l’Université Complutense de Madrid (UCM, publique), en raison des dettes accumulées par l’UCM. Les scientifiques et les laboratoires commencent à manquer de matériel.</li>
+						<br/><li><b>40 % :</b> hausse moyenne des frais d’inscription dans les universités madrilènes, à la rentrée 2012.</li>
+						<br/><li><b>1 500€ :</b> coût moyen d’une année d’université en Espagne. </li>
+						<br/><li><b>15% à 20% :</b> baisse du nombre d’étudiants dans les masters de l’UCM, en raison de la hausse des frais d’inscription.</li>
+						<br/><li><b>600 :</b> nombre de bénéficiaires d’une bourse « spéciale crise économique » délivrée par le Ministère de l’Education de la communauté madrilène.</li>
+						<br/><li><b>7 000 :</b> en juin 2013, nombre d’étudiants madrilènes menacés d’exclusion de l’Université pour retards de paiement des frais d’inscription.</li>
+						<br/><li><b>50 :</b> seuil du nombre d’élèves inscrits au-dessous duquel une formation universitaire est menacée de suppression, selon les consignes du Ministère de l’Education de la communauté valencienne. Parmi les disciplines amenées à disparaître en cette rentrée 2013 : Histoire & Patrimoine à l’Université de Castellón, Sciences politiques & Sociologie à l’Université de Valencia, Etudes arabes & islamiques ou encore Géologie à l’Université d’Alicante, Ingénierie agro-alimentaire et du monde rural à l’Université de Elche.</li>
+						</p>
+						]]>
+					</content>
+				</item>
+				<item id="cplt-jeunesse">
+					<!-- texte / video -->
+					<type>
+						<![CDATA[video]]>
+					</type>
+					<titleShort>
+						<![CDATA[Une jeunesse sans futur]]>
+					</titleShort>
+					<titleLong>
+						<![CDATA[Une jeunesse sans futur]]>
+					</titleLong>
+					<timecode>
+						<![CDATA[00:03:49]]>
+					</timecode>
+					<content>
+						<sd>
+							<![CDATA[SD_valentin.mp4]]>
+						</sd>
+						<hd>
+							<![CDATA[HD_valentin.mp4]]>
+						</hd>
+						<subtitle>
+							<![CDATA[]]>
+						</subtitle>
+					</content>
+				</item>
+
+			</complements>
+		</movie>
+	</movies>
+
+</rampage>

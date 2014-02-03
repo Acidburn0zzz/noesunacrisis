@@ -1,0 +1,58 @@
+{
+  "VIDEO": {
+	"PANNEAU":"4-PanneauMirage",
+	"TITLE": {
+		"EN": "Caja Madrid Camp",
+		"ES": "Campamento de Caja Madrid",
+		"FR": "Campement de Caja Madrid"
+	},
+	"SUBTITLE": {
+		"EN": "In war against the banks",
+		"ES": "En guerra contra los bancos",
+		"FR": "En guerre contre les banques"
+	},
+    "SRT": {
+		"EN": "EN_1_CAJAMADRID.srt",
+		"ES": "ES_1_CAJAMADRID.srt",
+		"FR": "FR_1_CAJAMADRID.srt"
+	},
+    "FILE": {
+		"HD-MP4": "HD_cajamadrid.mp4",
+		"HD-WEBM": "HD_cajamadrid.webm",
+		"SD-MP4": "SD_cajamadrid.mp4",
+		"SD-WEBM": "SD_cajamadrid.webm"
+	},
+	"POPUPS": {
+		"157": {
+			"EN": {
+				"TITLE":"European Justice condemns the property evictions.",
+				"LONGTITLE":"European Justice condemns the property evictions.",
+				"MODALE":"<p align='justify'>Mohamed Aziz is one of the thousands Spaniards who, after having lost their jobs, have  found themselves in the impossibility of paying their real estate loan . In 2011, his bank initiates an eviction proceeding in order to take possession of Mohamed's house, who must continue to repay his debt.<br>But he doesn't resign. Attended by his lawyer, he tries to negotiate with the bank. Foursquare refusal. The lawyer assigns then the bank before the Court of Commerce of Barcelona for unfair terms in Mohamed's contract. <br>There, the judge José Maria Fernandez Seijo forwards the case to the European Court of Justice, on the grounds that the spanish law doesn't allow the debtor to object to a release of mortgage proceeding (as seizure of property), even if it seems that the consumer's contract contains unfair terms. In other words: in Spain, when an action of mortgage enforcement is brought by the bank, nothing can stop it. <br>In its  <a href='http:\/\/curia.europa.eu\/juris\/documents.jsf?num=C-415\/11' target='_blank'>judgement of the 14th of march 2013<\/a>, the European Court of Justice considered the spanish law to be against the european legislation as it <i>« does not allow the court before which declaratory proceedings have been brought, […]  to grant interim relief, including, in particular, the staying of those enforcement proceedings »<\/i>. <br><i>« Since this day, any judge who detects an unfair term will be able, as a precautionary measure, to deny the eviction of the consumer »<\/i>, commented judge José Maria Fernandez Seijo.<br>The Rajoy government committed to correct the law and upgrade it to compliance with the european legislation. An official decision from the European Court of Justice was though necessary in order to constrain the government.<\/p>"
+			},
+			"ES": {
+				"TITLE":"La justicia europea denuncia los desahucios",
+				"LONGTITLE":"La justicia europea denuncia los desahucios",
+				"MODALE":"<p align='justify'>Mohamed Aziz es uno de los miles de españoles que, tras haber perdido su trabajo, se encuentra frente a la imposibilidad de pagar su hipoteca. En 2011, el banco puso en marcha el proceso de desalojo para recuperar la vivienda de Mohamed, quien debe seguir pagando su deuda.<br>Pero él no se ha resignado. Acompañado por su abogado, trató de negociar con el banco. Rechazo categórico. Su abogado decidió entonces llevar el caso al Tribunal de Comercio de Barcelona, alegando clausulas abusivas en el contrato de Mohamed.<br>Desde allí, el juez  José María Fernández Seijo trasladó el caso a la Corte de Justicia de la Unión Europea, argumentando que la legislación española no permite que el deudor se oponga a un procedimiento para el levantamiento de la hipoteca (como la confiscación de bienes), a pesar de que su contrato contenga cláusulas abusivas. En otras palabras: en España, donde se inició el proceso de ejecución hipotecaria, nada puede detener a la banca.<br>En su <a href='http:\/\/curia.europa.eu\/juris\/documents.jsf?num=C-415\/11'target='_blank'>sentencia de 14 de marzo de 2013<\/a>, el Tribunal de Justicia de la Unión Europea, consideraba la ley española contraria al Derecho comunitario, ya que esta <i>« no permite que  el juez encargado del caso [...] pueda tomar medidas provisionales, incluyendo la suspensión del procedimiento de desahucio »<\/i>. <br><i>« A partir de hoy, todo juez que se encuentre frente a una cláusula abusiva puede, como medida de precaución, no expulsar a los usuarios »<\/i>, commente le juge José Maria Fernandez Seijo.<br>El gobierno de Rajoy se ha comprometido a corregir la ley para ponerla en consonancia con la legislación europea. Ha sido necesaria a intervención de la Justicia Europea para obligarlo a adoptar estas medidas.<\/p>"
+			},
+			"FR": {
+				"TITLE":"La justice européenne dénonce les desahucios",
+				"LONGTITLE":"La justice européenne dénonce les desahucios",
+				"MODALE":"<p align='justify'>Mohamed Aziz est un de ces milliers d’Espagnols qui, après avoir perdu leur emploi, se sont trouvés dans l’impossibilité de payer les traites de leur crédit immobilier. En 2011, sa banque lance une procédure d’expulsion pour récupérer le logement de Mohamed, qui doit continuer de rembourser sa dette.<br>Mais celui-ci ne se résigne pas. Accompagné de son avocat, il tente de négocier avec la banque. Refus catégorique. L’avocat assigne alors la banque devant le Tribunal de commerce de Barcelone pour clause abusive dans le contrat de Mohamed.<br>Là le juge José María Fernández Seijo transmet l’affaire à la Cour de Justice Européenne, au motif que la loi espagnole ne permet pas au débiteur de s’opposer à une procédure de levée de l’hypothèque (comme la saisie du bien immobilier), même s’il apparaît que le contrat contient des clauses abusives. Pour le dire autrement : en Espagne, lorsqu’une procédure de saisie est lancée par la banque, plus rien ne peut l’arrêter.<br>Dans son <a href='http:\/\/curia.europa.eu\/juris\/documents.jsf?num=C-415\/11' target='_blank'>arrêt du 14 mars 2013<\/a>, la Cour de Justice Européenne a considéré la loi espagnole comme contraire au droit européen, puisqu’elle <i>« ne permet pas au juge saisi de la procédure […] d’adopter des mesures provisoires, notamment la suspension de la procédure d’exécution »<\/i>.<br><i>« À partir d’aujourd’hui, tout juge qui détecte une clause abusive pourra, par mesure de précaution, ne pas expulser le consommateur »<\/i>, commente le juge José Maria Fernandez Seijo.<br>Le gouvernement Rajoy s’est engagé à corriger la loi afin de la mettre en conformité avec le droit européen. Il aura fallu attendre une décision de la justice européenne pour l’y contraindre.<\/p>"
+			}
+		}
+	}
+  },
+  "NEXT" : {
+	"TITLE": {
+		"EN": "Torrespaña",
+		"ES": "Torrespaña",
+		"FR": "Torrespaña"
+	},
+	"SUBTITLE": {
+		"EN": "Journalism in crisis",
+		"ES": "Periodismo en crisis",
+		"FR": "Le journalisme en crise"
+	},
+	"JSON":"torrespanna"
+  }
+}

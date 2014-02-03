@@ -1,0 +1,244 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<nofuture>
+	<config>
+		<video classname="symbols.BgMovieNofutureSymbol" />
+		<sound classname="symbols.SoundNoFutureSymbol" />
+	</config>
+	<nav>
+		<item id="patio">
+			<title>
+				<![CDATA[SQUAT PATIO MARAVILLAS]]>
+			</title>
+			<subtitle>
+				<![CDATA[La jeunesse sans futur]]>
+			</subtitle>
+			<bgPicture>
+				<![CDATA[nofuture_picture_1]]>
+			</bgPicture>
+			<video>
+				<!-- TODO: INFOS sur les videos, soustritr, etc... -->
+			</video>
+		</item>
+		<item id="ecole-de-langues">
+			<title>
+				<![CDATA[ECOLE DE LANGUES ETRANGERES]]>
+			</title>
+			<subtitle>
+				<![CDATA[Jeunes, fuyez !]]>
+			</subtitle>
+			<bgPicture>
+				<![CDATA[nofuture_picture_2]]>
+			</bgPicture>
+			<video>
+				<!-- TODO: INFOS sur les videos, soustritr, etc... -->
+			</video>
+		</item>
+		<item id="bassi">
+			<title>
+				<![CDATA[TEATRO ALFIL]]>
+			</title>
+			<subtitle>
+				<![CDATA[Humour et espoir]]>
+			</subtitle>
+			<bgPicture>
+				<![CDATA[nofuture_picture_3]]>
+			</bgPicture>
+			<video>
+				<!-- TODO: INFOS sur les videos, soustritr, etc... -->
+			</video>
+		</item>
+		<item id="foot">
+			<title>
+				<![CDATA[STADE DU REAL MADRID]]>
+			</title>
+			<subtitle>
+				<![CDATA[La Liga, championnat de seconde zone]]>
+			</subtitle>
+			<bgPicture>
+				<![CDATA[nofuture_picture_4]]>
+			</bgPicture>
+			<video>
+				<!-- TODO: INFOS sur les videos, soustritr, etc... -->
+			</video>
+		</item>
+	</nav>
+	<subtitle>
+		<![CDATA[L'avenir de l'Espagne sacrifié]]>
+	</subtitle>
+	<movies>
+		<movie id="ecole-de-langues" isFooter="true">
+			<video>
+				<sd>
+					<![CDATA[SD_ecole-langues.mp4]]>
+				</sd>
+				<hd>
+					<![CDATA[HD_ecole-langues.mp4]]>
+				</hd>
+			</video>
+			<subtitle>
+				<![CDATA[FR_4_ECOLEDELANGUES.srt]]>
+			</subtitle>
+			<synthes/>
+			<complements/>
+		</movie>
+		<movie id="foot" isFooter="true">
+			<video>
+				<sd>
+					<![CDATA[SD_foot.mp4]]>
+				</sd>
+				<hd>
+					<![CDATA[HD_foot.mp4]]>
+				</hd>
+			</video>
+			<subtitle>
+				<![CDATA[FR_4_FOOT.srt]]>
+			</subtitle>
+			<synthes>
+				<item>
+					<timecode>
+						<![CDATA[00:01:24]]>
+					</timecode>
+					<desc>
+						<![CDATA[Javier Gómez{0}Journaliste sportif]]>
+					</desc>
+				</item>
+			</synthes>
+			<complements>
+				<item id="cplt-dette">
+					<!-- texte / video -->
+					<type>
+						<![CDATA[texte]]>
+					</type>
+					<titleShort>
+						<![CDATA[Le foot étranglé par la dette]]>
+					</titleShort>
+					<titleLong>
+						<![CDATA[Le foot étranglé par la dette]]>
+					</titleLong>
+					<timecode>
+						<![CDATA[00:01:44]]>
+					</timecode>
+					<content>
+						<![CDATA[<p align='right'><font size='20'><b>Le foot étranglé par la dette</p></font></b>
+
+						<p align='justify'>
+						<br/><li><b>6 milliards d'€ : </b>endettement cumulé des clubs de foot espagnols, dont 3,5 milliards rien que pour la la Liga, championnat le plus endetté au monde.</li>
+						<br/><li><b>752 et 600 millions d'€ : </b>dette des clubs de foot auprès du Trésor Public espagnol et de la Sécurité Sociale. </li>
+						<br/><li><b>450 millions d’€ : </b>dette du Real Madrid, pour 24,4 millions d’euros de bénéfices en 2012.</li>
+						<br/><li><b>335 millions d’€ : </b>dette du Barça, pour 40 millions d’euros de bénéfices en 2012.</li>
+						<br/><li><b>9 : </b>nombre de titres gagnés par le Real ou le Barça sur les 10 derniers championnats. </li>
+						<br/><li><b>22 : </b>nombre de clubs espagnols en cessation de paiement en 2012, sur 23 en Europe.</li>
+						<br/><li><b>35% : </b>part des revenus tirés des droits TV que les clubs espagnols seront tenus d’affecter au remboursement des arriérés d’impôts, à partir de la saison 2014-2015.</li>
+						<br/><li><b>94 millions d’€ : </b>montant du transfert de Cristiano Ronaldo de Manchester United au Real, avec un salaire de 19 millions d’euros primes incluses. En septembre 2012 Ronaldo se déclarait <i>« un peu triste »</i> après une victoire éclatante de son club face à Grenade : il semble que l’insuffisance de ses rémunérations soit à l’origine de son vague à l’âme. </li>
+						<br/><li><b>62 % : </b>baisse des montants investis pour le mercato 2012.</li>
+						<br/><li><b>4 millions d'€ :</b>fraude fiscale supposée de Lionel Messi, qui a donné lieu à des poursuites du Trésor Public espagnol en juin 2013.</li>
+						</p>
+						<br/><li>A lire sur Courrier International
+						<br>
+						<i><a href="http://www.courrierinternational.com/article/2012/04/05/le-ballon-rond-resquilleur-de-la-crise" target="_blank">Le ballon rond, le resquilleur de la crise</a></i>
+						</li>
+						]]>
+					</content>
+				</item>
+			</complements>
+		</movie>
+		<movie id="patio" isFooter="true">
+			<video>
+				<sd>
+					<![CDATA[SD_patio.mp4]]>
+				</sd>
+				<hd>
+					<![CDATA[HD_patio.mp4]]>
+				</hd>
+			</video>
+			<subtitle>
+				<![CDATA[FR_4_PATIO.srt]]>
+			</subtitle>
+			<synthes>
+				<item>
+					<timecode>
+						<![CDATA[00:00:38]]>
+					</timecode>
+					<desc>
+						<![CDATA[Valentin{0}Militant Juventud Sin Futuro]]>
+					</desc>
+				</item>
+			</synthes>
+			<complements>
+				<item id="cplt-jeunesse-victime">
+					<!-- texte / video -->
+					<type>
+						<![CDATA[texte]]>
+					</type>
+					<titleShort>
+						<![CDATA[La jeunesse, première victime de la crise]]>
+					</titleShort>
+					<titleLong>
+						<![CDATA[La jeunesse, première victime de la crise]]>
+					</titleLong>
+					<timecode>
+						<![CDATA[00:04:27]]>
+					</timecode>
+					<content>
+						<![CDATA[<p align='right'><font size='20'><b>La jeunesse, première victime de la crise</p></font></b>
+
+						<p align='justify'>
+						<br/><li><b>55% : </b>taux de chômage des moins de 25 ans en Espagne.</li>
+						<br/><li><b>320 000 : </b>nombre de jeunes Espagnols ayant émigré depuis 2008, selon l’INE, l’Institut national de la statistique en Espagne. Juventud Sin Futuro considère que ce chiffre est sous-estimé.</li>
+						<br/><li><b>6,7% : </b>en 2012, augmentation de la population espagnole vivant à l’étranger.</li>
+						</p>
+
+						<br/><li>Voir le site de Juventud Sin Futuro, « No nos vamos, nos echan » (« on ne part pas, ils nous chassent »)
+						<br>
+						<i><a href="http://www.nonosvamosnosechan.net/" target="_blank">http://www.nonosvamosnosechan.net/</a></i>
+						</li>
+						]]>
+					</content>
+				</item>
+			</complements>
+		</movie>
+		<movie id="bassi" isFooter="true">
+			<video>
+				<sd>
+					<![CDATA[SD_lao-bassi.mp4]]>
+				</sd>
+				<hd>
+					<![CDATA[HD_lao-bassi.mp4]]>
+				</hd>
+			</video>
+			<subtitle>
+				<![CDATA[FR_4_LEOBASSI.srt]]>
+			</subtitle>
+			<synthes>
+				<item>
+					<timecode>
+						<![CDATA[00:03:17]]>
+					</timecode>
+					<desc>
+						<![CDATA[Leo Bassi{0}Comédien]]>
+					</desc>
+				</item>
+			</synthes>
+			<complements>
+				<item id="cplt_bassi">
+					<type>
+						<![CDATA[texte]]>
+					</type>
+					<titleShort>
+						<![CDATA[L'Eglise athée de Léo Bassi]]>
+					</titleShort>
+					<titleLong>
+						<![CDATA[L'Eglise athée de Léo Bassi]]>
+					</titleLong>
+					<timecode>
+						<![CDATA[00:05:25]]>
+					</timecode>
+					<content>
+						<![CDATA[Leo Bassi a ouvert à Madrid son Eglise "Patolique", jeu de mot entre catholique et "pato", le canard. D'où l'emblème de ce culte loufoque... Suivez Leo, il vous fait visiter <strong><a href="http://vimeo.com/54306373" target="_blank">sa chapelle...</a></strong>]]>
+					</content>
+				</item>
+			</complements>
+		</movie>
+	</movies>
+
+</nofuture>

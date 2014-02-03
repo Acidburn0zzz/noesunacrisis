@@ -1,0 +1,109 @@
+{
+  "VIDEO": {
+	"PANNEAU":"5-PanneauSaccage",
+	"TITLE": {
+		"EN": "Torrespaña",
+		"ES": "Torrespaña",
+		"FR": "Torrespaña"
+	},
+	"SUBTITLE": {
+		"EN": "Journalism in crisis",
+		"ES": "Periodismo en crisis",
+		"FR": "Le journalisme en crise"
+	},
+    "SRT": {
+		"EN": "EN_2_TORRESPANNA.srt",
+		"ES": "ES_2_TORRESPANNA.srt",
+		"FR": "FR_2_TORRESPANNA.srt"
+	},
+    "FILE": {
+		"HD-MP4": "HD_torrespanna.mp4",
+		"HD-WEBM": "HD_torrespanna.webm",
+		"SD-MP4": "SD_torrespanna.mp4",
+		"SD-WEBM": "SD_torrespanna.webm"
+	},
+	"POPUPS": {
+		"30": {
+			"EN": {
+				"TITLE":"Spain, a Third-World destination",
+				"LONGTITLE":"Spain, a Third-World destination",
+				"MODALE":"<iframe src='video2.html#ramon' style='width:558px;height:314px;border:none'><\/iframe>"
+			},
+			"ES": {
+				"TITLE":"España, destino Tercer-Mundo",
+				"LONGTITLE":"España, destino Tercer-Mundo",
+				"MODALE":"<iframe src='video2.html#ramon' style='width:558px;height:314px;border:none'><\/iframe>"
+			},
+			"FR": {
+				"TITLE":"Espagne, destination Tiers-Monde",
+				"LONGTITLE":"Espagne, destination Tiers-Monde",
+				"MODALE":"<iframe src='video2.html#ramon' style='width:558px;height:314px;border:none'><\/iframe>"
+			}
+		},
+		"172": {
+			"EN": {
+				"TITLE":"An imbalanced overview over the Spanish medias.",
+				"LONGTITLE":"An imbalanced overview over the Spanish medias.",
+				"MODALE":"<p align='justify'>Left-wing :<ul><li>Eldiario.es<\/li><li>Infolibre.es<\/li><\/ul><br>Center-Left :<ul><li>PRISA Group (El Pais, As, Cinco Dias, Canal + Espagne, 18% Mediaset, Cadena Ser, 0 Principales, 15% Le Monde)<\/li><li>La Sexta (Atresmedia)<\/li><li>Público.es<\/li><\/ul><br>Center-Right :<ul><li>Vocento Group  (ABC + regional  daily newspapers, Net TV)<\/li><li>Godó Group (La Vanguardia, El Mundo Deportivo, TNT catalane)<\/li><\/ul><br>Right-wing :<ul><li>Unidad Editorial (El Mundo, Marca, Expansión, Popular TV, Radio Marca)<\/li><li>Atresmedia (Antena 3, Onda Cero, Europa FM)<\/li><li>Mediaset España (Telecinco, Cuatro, La Siete), from the Italian group Mediaset, owned by Silvio Berlusconi<\/li><li>RTVE (public TV & radios)<\/li><\/ul><br>Extreme-Right-wing :<ul><li>Planeta Group (La Razón, 45% Atresmedia, Editis in France)<\/li><li>Conferencia Episcopal Española (Cadena COPE, Cadena 100, 13TV)<\/li><li>Intereconomia Group (La Gaceta, Intereconomia TV)<\/li><\/ul><\/p>"
+			},
+			"ES": {
+				"TITLE":"Un panorama mediático desequilibrado",
+				"LONGTITLE":"Un panorama mediático desequilibrado",
+				"MODALE":"<p align='justify'>Izquierda : <ul><li>Eldiario.es<\/li> <li>Infolibre.es<\/li><\/ul><br>Centro-izquierda : <ul><li>Grupo PRISA (El Pais, As, Cinco Dias, Canal + Espagne, 18% Mediaset, Cadena Ser, 0 Principales, 15% Le Monde)<\/li> <li>La Sexta (Atresmedia)<\/li> <li>Público.es<\/li><\/ul><br>Centro-derecha : <ul><li>Grupo Vocento (ABC + quotidiens régionaux, Net TV)<\/li> <li>Grupo Godó (La Vanguardia, El Mundo Deportivo, TNT catalane)<\/li><\/ul><br>Derecha : <ul><li>Unidad Editorial (El Mundo, Marca, Expansión, Popular TV, Radio Marca)<\/li> <li>Atresmedia (Antena 3, Onda Cero, Europa FM)<\/li> <li>Mediaset España (Telecinco, Cuatro, La Siete), del grupo italiano Mediaset de Silvio Berlusconi<\/li> <li>RTVE (publico)<\/li><\/ul><br>Más allá de la derecha : <ul><li>Grupo Planeta (La Razón, 45% Atresmedia, Editis en France)<\/li> <li>Conferencia Episcopal Española (Cadena COPE, Cadena 100, 13TV)<\/li> <li>Grupo Intereconomia (La Gaceta, Intereconomia TV)<\/li><\/ul><\/p>"
+			},
+			"FR": {
+				"TITLE":"Un panorama médiatique déséquilibré",
+				"LONGTITLE":"Un panorama médiatique déséquilibré",
+				"MODALE":"<p align='justify'>A gauche :<ul><li>Eldiario.es<\/li><li>Infolibre.es<\/li><\/ul><br>Au centre-gauche :<ul><li>Groupe PRISA (El Pais, As, Cinco Dias, Canal + Espagne, 18% Mediaset, Cadena Ser, 0 Principales, 15% Le Monde)<\/li><li>La Sexta (Atresmedia)<\/li><li>Público.es<\/li><\/ul><br>Au centre-droit :<ul><li>Groupe Vocento (ABC + quotidiens régionaux, Net TV)<\/li><li>Grupo Godó (La Vanguardia, El Mundo Deportivo, TNT catalane)<\/li><\/ul><br>A droite :<ul><li>Unidad Editorial (El Mundo, Marca, Expansión, Popular TV, Radio Marca)<\/li><li>Atresmedia (Antena 3, Onda Cero, Europa FM)<\/li><li>Mediaset España (Telecinco, Cuatro, La Siete), du groupe italien Mediaset de Silvio Berlusconi<\/li><li>RTVE (publique)<\/li><\/ul><br>A droite de la droite :<ul><li>Grupo Planeta (La Razón, 45% Atresmedia, Editis en France)<\/li><li>Conferencia Episcopal Española (Cadena COPE, Cadena 100, 13TV)<\/li><li>Grupo Intereconomia (La Gaceta, Intereconomia TV)<\/li><\/ul><\/p>"
+			}
+		},
+		"227": {
+			"EN": {
+				"TITLE":"Political purge at the RTVE",
+				"LONGTITLE":"Political purge at the RTVE",
+				"MODALE":"<p align='justify'>The impermeability of the spanish public medias towards the political changeovers has always been missing. It seems that the purge was noteworthy as specially after that Mariano Rajoy arrived at the head of the government in december 2011.<br>José Luis Zapatero had started though a process of depoliticization of the Spanish Radio and Television (RTVE), by having its boss named by a majority of two thirds of the Parliament members.<br>ulio Somoano takes then the lead of the Information Service.  Former chief editor or the Telemadrid's news broadcast, Julio Somoano had also written for conservative newspapers (El Mundo for ex.) Less known that his resume, the topic of his thesis in political communication: <i>« A communication strategy for the victory of the Popular Party at the next elections »<\/i>.<br>Since summer 2012, Julio Somoano housecleaned the broadcasts in the public television.  The figure of what it appears to be a political purge is Ana Pastor Garcia. The successful host of  TVE's morning programs, is reputed for the rigor and tenacity of her political interviews. The PP already had an eye on her before the 2011 elections.  The spokesperson of Mariano Rajoy's party had let to think ever since the summer of 2011, that she would be dismissed from the antenna if the PP should be in power.<br>And that was done in august 2012. Alicia Montano from Informe semanal and Xabier Fortes from Canal 24 horas are also dismissed. The power accuses them of two having questioned too much its austerity policy.<br>In september Javier Gallego and his impertinent Carne cruda just as the economist Paco Alvarez and his chronicle La bourse et la vie were also removed. »<\/p>"
+			},
+			"ES": {
+				"TITLE":"Purga política en RTVE",
+				"LONGTITLE":"Purga política en RTVE",
+				"MODALE":"<p align='justify'>La impermeabilidad de los medios de comunicación públicos españoles a las alternancias políticas, ha sido siempre defectuosa. Al parecer, la purga fue particularmente notable cuando Mariano Rajoy llegó a la cúpula del gobierno, en diciembre de 2011.   <br>A pesar de que Jose Luis Rodriguez Zapatero empezara un proceso de despolitización de la Radio Televisión Española (RTVE) cuando decidió que la presidencia de los medios audiovisuales públicos debía contar con una mayoría de dos tercios de la Camara de Diputados, Mariano Rajoy hizo marcha atrás, volviendo a una nominación directa por parte del gobierno y, en junio de 2012, nombró a Leopoldo González Echenique presidente de RTVE. <br>Fue entonces cuando Julio Somano tomó la dirección del servicio de información. Antes redactor jefe del telediario de Telemadrid, Somano también ha escrito para algunos de los periódicos más conservadores (El Mundo).  Menos conocido que su currículo es el tema de su tesis en comunicación política: <i>“Una estrategia de comunicación para la victoria del Partido Popular en las próximas elecciones legislativas”<\/i>.  <br>El verano de 2012, Julio Somano empezó a hacer limpieza en algunos programas de la televisión pública. Ana Pastor García representa lo que se percibió entonces como una purga política. Presentadora de éxito de las mañanas de TVE, la periodista es conocida por el rigor y la tenacidad de sus entrevistas políticas. Ella ya se encontraba en el punto de mira del PP antes de las elecciones, ya que el portavoz del partido de Rajoy, justo antes del verano de 2011, dejó entender que la periodista sería apartada de la antena si el PP retomaba el poder. <br>En agosto de 2012 su cese se hizo efectivo. Al tiempo fueron destituidos Alicia Montano, de  <i>Informe semanal<\/i>, y Xabier Fortes, del <i>Canal 24 horas<\/i>. También a ellos se les reprochaba haber cuestionado en demasía las políticas de austeridad.<br>Del mismo modo, en septiembre, fueron apartados de la radio pública Javier Gallego y su impertinente programa <i>Carne cruda<\/i>, así como el economista Paco Alvarez por su crónica <i>La Bolsa y la vida.<\/i>. <\/p><ul><li>Más información en El País<br><i><a href='http:\/\/politica.elpais.com\/politica\/2012\/05\/20\/actualidad\/1337545022_640739.html' target='_blank'>La RTVE del PP<\/a><\/i><\/li><\/ul>"
+			},
+			"FR": {
+				"TITLE":"Purge politique à la RTVE",
+				"LONGTITLE":"Purge politique à la RTVE",
+				"MODALE":"<p align='justify'>L’imperméabilité des médias publics espagnols aux alternances politiques a toujours fait défaut. Il semble que la purge fut particulièrement notable suite à l’arrivée de Mariano Rajoy à la tête du gouvernement, en décembre 2011.<br>José Luis Zapatero avait pourtant entamé un processus de dépolitisation de la Radio Televisión Española (RTVE), en faisant nommer le patron de l’audiovisuel public espagnol par une majorité des deux tiers des députés. Mariano Rajoy fait machine arrière, pour revenir à une nomination directe par le gouvernement : en juin 2012, il place Leopoldo González Echenique à la présidence de RTVE.<br>C’est alors Julio Somoano qui prend la tête du service Informations. Auparavant rédacteur en chef du journal de Telemadrid, Julio Somoano a aussi écrit pour des journaux conservateurs (El Mundo notamment). Moins connu que son CV, son sujet  de thèse en communication politique : <i>« Une stratégie de communication pour la victoire du Parti Populaire aux prochaines élections législatives »<\/i>.<br>Dès l’été 2012, Julio Somoano fait le ménage dans les programmes de la télévision publique. La figure de ce qui apparaît alors comme une purge politique est Ana Pastor Garcia. Présentatrice à succès des matins de TVE, elle est réputée pour la rigueur et la ténacité de ses interviews politiques. Elle était déjà dans le collimateur du PP avant les élections de 2011, le porte-parole du parti de Mariano Rajoy ayant dès l’été 2011 laissé entendre qu’elle serait écartée de l’antenne si le PP revenait au pouvoir.<br>C’est donc chose faîte en août 2012. Sont également licenciés Alicia Montano d’<i>Informe semanal<\/i> et Xabier Fortes de <i>Canal 24 horas<\/i>. A eux aussi le pouvoir reproche d’avoir trop questionné sa politique d’austérité.<br>En septembre étaient également évincés de la radio publique Javier Gallego et son impertinent <i>Carne cruda<\/i>, ainsi que l’économiste Paco Alvarez pour sa chronique <i>La Bourse et la vie<\/i>.<\/p><ul><li>A lire sur Courrier International<br><i><a href='http:\/\/www.courrierinternational.com\/article\/2012\/06\/06\/l-audiovisuel-public-mis-sous-tutelle' target='_blank'>L’audiovisuel public mis sous tutelle<\/a><\/i><\/li><\/ul>"
+			}
+		},
+		"375": {
+			"EN": {
+				"TITLE":"The sabotage of Telemadrid",
+				"LONGTITLE":"Telemadrid, or the sabotage of a public television",
+				"MODALE":"<p align='justify'>See the video leaflet of the Telemadrid employees (in Spanish) : <i><a href='http:\/\/www.salvemostelemadrid.es\/telemadrid-como-destruir-un-servicio-publico\/ ' target='_blank'>Comment détruire un service public <\/a><\/i><\/p>"
+			},
+			"ES": {
+				"TITLE":"El sabotaje de Telemadrid",
+				"LONGTITLE":"Telemadrid, el sabotaje de una televisión pública",
+				"MODALE":"<p align='justify'>Ver en entero el corto de animación realizado por los empleados de Telemadrid : <i><a href='http:\/\/www.salvemostelemadrid.es\/telemadrid-como-destruir-un-servicio-publico\/ ' target='_blank'>Telemadrid, cómo destruir un servicio público<\/a><\/i><\/p>"
+			},
+			"FR": {
+				"TITLE":"Le sabotage de Telemadrid",
+				"LONGTITLE":"Telemadrid, ou le sabotage d’une TV publique",
+				"MODALE":"<p align='justify'>Voir dans son intégralité le tract vidéo des salariés de Telemadrid (en espagnol) : <i><a href='http:\/\/www.salvemostelemadrid.es\/telemadrid-como-destruir-un-servicio-publico\/ 'target='_blank'>Comment détruire un service public <\/a><\/i><\/p>"
+			}
+		}
+	}
+  },
+  "NEXT" : {
+	"TITLE": {
+		"EN": "Complutense University",
+		"ES": "Universidad Complutense",
+		"FR": "Université Complutense"
+	},
+	"SUBTITLE": {
+		"EN": "Education is cut off",
+		"ES": "Recortes en educación",
+		"FR": "Ça coupe dans l'éducation"
+	},
+	"JSON":"fac"
+  }
+}

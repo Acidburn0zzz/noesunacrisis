@@ -1,0 +1,39 @@
+{
+  "VIDEO": {
+	"PANNEAU":"8-Portraits",
+	"TITLE": {
+		"EN": "Angeles",
+		"ES": "Angeles",
+		"FR": "Angeles"
+	},
+	"SUBTITLE": {
+		"EN": "",
+		"ES": "",
+		"FR": "Professeur de Sociologie politique"
+	},
+    "SRT": {
+		"EN": "EN_ANGELES.srt",
+		"ES": "ES_ANGELES.srt",
+		"FR": "FR_ANGELES.srt"
+	},
+    "FILE": {
+		"HD-MP4": "Angeles/HD_angeles.mp4",
+		"HD-WEBM": "Angeles/HD_angeles.webm",
+		"SD-MP4": "Angeles/SD_angeles.mp4",
+		"SD-WEBM": "Angeles/SD_angeles.webm"
+	}
+  },
+  "NEXT" : {
+	"TITLE": {
+		"EN": "",
+		"ES": "",
+		"FR": ""
+	},
+	"SUBTITLE": {
+		"EN": "",
+		"ES": "",
+		"FR": ""
+	},
+	"JSON":""
+  }
+}

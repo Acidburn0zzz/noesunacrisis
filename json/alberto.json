@@ -1,0 +1,39 @@
+{
+  "VIDEO": {
+	"PANNEAU":"8-Portraits",
+	"TITLE": {
+		"EN": "Alberto",
+		"ES": "Alberto",
+		"FR": "Alberto"
+	},
+	"SUBTITLE": {
+		"EN": "",
+		"ES": "",
+		"FR": "Député Izquierda Unida"
+	},
+    "SRT": {
+		"EN": "EN_ALBERTO.srt",
+		"ES": "ES_ALBERTO.srt",
+		"FR": "FR_ALBERTO.srt"
+	},
+    "FILE": {
+		"HD-MP4": "Alberto/HD_alberto.mp4",
+		"HD-WEBM": "Alberto/HD_alberto.webm",
+		"SD-MP4": "Alberto/SD_alberto.mp4",
+		"SD-WEBM": "Alberto/SD_alberto.webm"
+	}
+  },
+  "NEXT" : {
+	"TITLE": {
+		"EN": "",
+		"ES": "",
+		"FR": ""
+	},
+	"SUBTITLE": {
+		"EN": "",
+		"ES": "",
+		"FR": ""
+	},
+	"JSON":""
+  }
+}

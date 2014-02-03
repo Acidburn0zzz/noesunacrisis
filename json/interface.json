@@ -1,0 +1,487 @@
+{
+  "LANG": {
+    "EN": "ANGLAIS",
+    "FR": "FRANCAIS",
+    "ES": "ESPAGNOL"
+  },
+  "HOME": {
+    "NAME": {
+      "EN": "HOME",
+      "FR": "ACCUEIL",
+      "ES": "INICIO"
+    },
+    "TITLE": {
+      "EN": "Madrid, the rigour and the revolt",
+      "FR": "Madrid, la rigueur et la révolte",
+      "ES": "Madrid, restricción y revuelta"
+    },
+    "SUBTITLE": {
+      "EN": "A web-documentary",
+      "FR": "Un web-documentaire",
+      "ES": "Un web-documental"
+    },
+    "AUTHORS": {
+      "EN": "by Fabien Benoit and Julien Malassigné",
+      "FR": "de Fabien Benoit et Julien Malassigné",
+      "ES": "de Fabien Benoit y Julien Malassigné"
+    },
+    "DESCRIPTION": {
+      "EN": "Since 2008 Spain is seeing a deepening crisis. Madrid is buried under the austerity policies. The city is bled dry, ravaged. Despite that, the people is hanging in. ",
+      "FR": "Depuis 2008 l’Espagne s’enfonce dans la crise. Les politiques d’austérité s’abattent sur Madrid. La ville est exsangue, meurtrie. Pourtant, le peuple résiste.",
+      "ES": "Desde 2008, España se ahoga en la crisis. Las políticas de austeridad se han ensañado con Madrid y la ciudad está exangüe, maltrecha. Pese a todo, el pueblo resiste."
+    },
+    "PARTNERS": {
+      "EN": "With the participation of",
+      "FR": "Avec la participation de",
+      "ES": "Con la participación de"
+    },
+    "PRODUCED": {
+      "EN": "Produced by",
+      "FR": "Produit par",
+      "ES": "Producido por"
+    },
+    "START": {
+      "EN": "START",
+      "FR": "DÉMARRER",
+      "ES": "EMPEZAR"
+    },
+    "RETRATOS": {
+      "EN": "PORTRAITS",
+      "FR": "PORTRAITS",
+      "ES": "RETRATOS"
+    },
+    "SHARE": {
+      "EN": "SHARE",
+      "FR": "PARTAGER",
+      "ES": "COMPARTIR"
+    },
+    "CREDITS": {
+      "EN": "CREDITS",
+      "FR": "CRÉDITS",
+      "ES": "CREDITOS"
+    },
+    "PREFACE": {
+      "EN": "PREFACE",
+      "FR": "PRÉFACE",
+      "ES": "PREFACIO"
+    },
+    "CITY": {
+      "EN": "BACK TO THE CITY",
+      "FR": "RETOUR À LA VILLE",
+      "ES": "VOLVER A LA CIUDAD"
+    },
+    "DISCOVER": {
+      "EN": "DISCOVER",
+      "FR": "À DÉCOUVRIR",
+      "ES": "DESCUBRIR"
+    },
+    "SKIP": {
+      "EN": "SKIP",
+      "FR": "PASSER",
+      "ES": "SALTAR"
+    },
+    "GO": {
+      "EN": "Go",
+      "FR": "Se rendre",
+      "ES": "Ir"
+    },
+    "ADDITIONNALS": {
+      "EN": "See - or see again - additionnals",
+      "FR": "Voir - ou revoir - les compléments",
+      "ES": "Ver - o ver de nuevo - los complementos"
+    },
+    "DOWNLOAD": {
+      "EN": "Download the sequence",
+      "FR": "Télécharger la séquence",
+      "ES": "Descargar la secuencia"
+    }
+  },
+  "INSTRUCTIONS": {
+    "NAME": {
+      "EN": "INSTRUCTIONS FOR USE",
+      "FR": "MODE D’EMPLOI",
+      "ES": "MODO DE EMPLEO"
+    },
+    "DESCRIPTION": {
+      "EN": "You can now visit the four neighbourhoods of Madrid : <strong>MIRAGE, RAVAGING, REVOLT and NO FUTURE</strong>. Each one of them approaches a major issue related to the economic crisis and its consequences.<br>In each neighbourhood, clicking on a building provides access to a video sequence.<br>At the end of each video sequence we suggest a new sequence that allows you to continue your journey.",
+      "FR": "Parcourez les quatre quartiers de Madrid : <strong>MIRAGE, SACCAGE, REVOLTE et NO FUTURE</strong>. Chacun aborde une grande thématique liée à la crise économique et ses conséquences.<br>Dans chaque quartier, cliquez sur un bâtiment pour accéder à une séquence vidéo.<br>A la fin de chaque vidéo nous vous proposerons une nouvelle séquence pour poursuivre votre parcours.",
+      "ES": "Recorres los cuatro barrios de Madrid : <strong>ESPEJISMO, SAQUEO, REVUELTA y NO FUTURE.</strong> Cada uno aborda un tema importante relacionado con la crisis económica y sus consecuencias.<br>En cada barrio, puedes hacer clic sobre los edificios y acceder a los vídeos.<br>Al final de cada grabación te propondremos una nueva secuencia para continuar con tu visita."
+    },
+    "ACCESS": {
+      "EN": "ACCESS",
+      "FR": "ACCÉDER",
+      "ES": "ACCEDER"
+    }
+  },
+  "MIRAGE": {
+    "NAME": {
+      "EN": "MIRAGE",
+      "FR": "MIRAGE",
+      "ES": "ESPEJISMO"
+    },
+    "TITLE": {
+      "EN": "The illusions of the real estate boom",
+      "FR": "Les illusions du boom immobilier",
+      "ES": "La ilusión del boom inmobiliario"
+    },
+    "BANKIA": {
+      "TITLE": {
+        "EN": "The Bankia Towers",
+        "FR": "Tours Bankia",
+        "ES": "Torre de Bankia"
+      },
+      "SUBTITLE": {
+        "EN": "No limit credit",
+        "FR": "Crédit sans limite",
+        "ES": "Sin limite de crédito"
+      }
+    },
+    "PAH": {
+      "TITLE": {
+        "EN": "PAH Office",
+        "FR": "Permanence de la PAH",
+        "ES": "Perseverancia de la PAH"
+      },
+      "SUBTITLE": {
+        "EN": "The scourge of property evictions",
+        "FR": "Le fléau des expulsions",
+        "ES": "El cataclismo de los desalojos"
+      }
+    },
+    "VALDELUZ": {
+      "TITLE": {
+        "EN": "Ciudad Valdeluz",
+        "FR": "Ciudad Valdeluz",
+        "ES": "Ciudad Valdeluz"
+      },
+      "SUBTITLE": {
+        "EN": "City looks for rezidents",
+        "FR": "Ville recherche habitants",
+        "ES": "Ciudad busca habitantes"
+      }
+    },
+    "CAJA": {
+      "TITLE": {
+        "EN": "Caja Madrid Camp",
+        "FR": "Campement de Caja Madrid",
+        "ES": "Campamento de Caja Madrid"
+      },
+      "SUBTITLE": {
+        "EN": "In war against the banks",
+        "FR": "En guerre contre les banques",
+        "ES": "En guerra contra los bancos"
+      }
+    }
+  },
+  "SACCAGE": {
+    "NAME": {
+      "EN": "RAVAGING",
+      "FR": "SACCAGE",
+      "ES": "SAQUEO"
+    },
+    "TITLE": {
+      "EN": "Rigour at all levels",
+      "FR": "Rigueur à tous les étages",
+      "ES": "Restricción a toso los niveles"
+    },
+    "ITEMS": {
+      "TORRESPANA": {
+        "TITLE": {
+          "EN": "Torrespaña",
+          "FR": "Torrespaña",
+          "ES": "Torrespaña"
+        },
+        "SUBTITLE": {
+          "EN": "Medias under control, Medias in crisis",
+          "FR": "Médias sous contrôle, médias en crise",
+          "ES": "Medios bajo control, crisis de los medios"
+        }
+    },
+      "UNIVERSIDAD": {
+        "TITLE": {
+          "EN": "University and primary school",
+          "FR": "Université et école primaire",
+          "ES": "Universidad y escuela primaria"
+        },
+        "SUBTITLE": {
+          "EN": "Education is cut",
+          "FR": "Ça coupe dans l’éducation",
+          "ES": "Recortes en educación"
+        }
+    },
+      "HUELGA": {
+        "TITLE": {
+          "EN": "General strike ",
+          "FR": "Grève générale",
+          "ES": "Huelga General"
+        },
+        "SUBTITLE": {
+          "EN": "Everybody is the street !",
+          "FR": "Tous dans la rue !",
+          "ES": "¡Todos a la calle!"
+        }
+      },
+      "MARANON": {
+        "TITLE": {
+          "EN": "Gregorio Marañón Hospital",
+          "FR": "Hôpital Grégorio Maranon",
+          "ES": "Hospital Gregorio Marañón"
+        },
+        "SUBTITLE": {
+          "EN": "Privatizing health... and public benefits",
+          "FR": "Privatisons la santé… et les bénéfices publics",
+          "ES": "Privatización de la salud... y de los beneficios públicos"
+        }
+      }
+    }
+  },
+  "REVOLTE": {
+    "NAME": {
+      "EN": "REVOLT",
+      "FR": "REVOLTE",
+      "ES": "REVUELTA"
+    },
+    "TITLE": {
+      "EN": "The Spanish people in resistance",
+      "FR": "Le peuple espagnol en résistance",
+      "ES": "Rebelión ciudadana"
+    },
+    "ITEMS": {
+      "PARLIAMENT": {
+        "TITLE": {
+          "EN": "Spanish Parliament",
+          "FR": "Parlement espagnol",
+          "ES": "Parlamento español"
+        },
+        "SUBTITLE": {
+          "EN": "They don't represent us",
+          "FR": "Ils ne nous représentent pas",
+          "ES": "No nos representan"
+        }
+      },
+      "PUERTA": {
+        "TITLE": {
+          "EN": "Puerta del Sol",
+          "FR": "Puerta del Sol",
+          "ES": "Puerta del Sol"
+        },
+        "SUBTITLE": {
+          "EN": "The 15-M Movement",
+          "FR": "Le mouvement du 15-M",
+          "ES": "El 15-M"
+        }
+      },
+      "PILAR": {
+        "TITLE": {
+          "EN": "At Pilar's place",
+          "FR": "Chez Pilar",
+          "ES": "En casa de Pilar"
+        },
+        "SUBTITLE": {
+          "EN": "Yayoflautas, the retirees in combat",
+          "FR": "Yayoflautas, les retraités en lutte",
+          "ES": "Yayoflautas"
+        }
+      },
+      "ELROTO": {
+        "TITLE": {
+          "EN": "Workshop of illustrator El Roto",
+          "FR": "Atelier du dessinateur el Roto",
+          "ES": "Taller del diseñador el Roto"
+        },
+        "SUBTITLE": {
+          "EN": "Drawing crisis",
+          "FR": "Dessiner la crise",
+          "ES": "Dibujar la crisis"
+        }
+      }
+    }
+  },
+  "NOFUTURE": {
+    "NAME": {
+      "EN": "NOFUTURE",
+      "FR": "NOFUTURE",
+      "ES": "NOFUTURE"
+    },
+    "TITLE": {
+      "EN": "The future of a sacrificed Spain ?",
+      "FR": "L’avenir de l’Espagne sacrifié ?",
+      "ES": "El porvenir de España, ¿sacrificado?"
+    },
+    "ITEMS": {
+      "MARAVILLAS": {
+        "TITLE": {
+          "EN": "Patio Maravillas Squat",
+          "FR": "Squat Patio Maravillas",
+          "ES": "El Patio Maravillas, okupado"
+        },
+        "SUBTITLE": {
+          "EN": "The youth with no future",
+          "FR": "La jeunesse sans futur",
+          "ES": "Juventud sin futuro"
+        }
+      },
+      "SCHOOL": {
+        "TITLE": {
+          "EN": "Foreign languages school",
+          "FR": "Ecole de langues étrangères",
+          "ES": "Escuela Oficial de Idiomas"
+        },
+        "SUBTITLE": {
+          "EN": "Young people, run !",
+          "FR": "Jeunes, fuyez !",
+          "ES": "Jóvenes, ¡huid!"
+        }
+      },
+      "ALFIL": {
+        "TITLE": {
+          "EN": "Teatro Alfil",
+          "FR": "Teatro Alfil",
+          "ES": "Alfil Theater"
+        },
+        "SUBTITLE": {
+          "EN": "Humor and Hope",
+          "FR": "Humour et espoir",
+          "ES": "Humor y esperanza"
+        }
+      },
+      "REAL": {
+        "TITLE": {
+          "EN": "Real Madrid's football stadium",
+          "FR": "Stade du Real Madrid",
+          "ES": "Estadio del Real Madrid"
+        },
+        "SUBTITLE": {
+          "EN": "La Liga, a second class championship",
+          "FR": "La Liga, championnat de seconde zone",
+          "ES": "La Liga, campeonato de segunda división"
+        }
+      }
+    }
+  },
+  "ENDSEQ": {
+    "BACK": {
+      "EN": "Back to the city",
+      "FR": "Retour à la ville",
+      "ES": "Volver a la cuidad"
+    },
+    "GO": {
+      "EN": "Go to",
+      "FR": "Se rendre",
+      "ES": "Ir"
+    }
+  },
+  "PORTRAITS": {
+    "CARLOS": {
+      "NAME": "Carlos",
+      "TITLE": {
+        "EN" : "Professor of Political science",
+        "FR": "Professeur de Sciences politiques",
+        "ES": "Profesor de Ciencias políticas"
+      },
+      "DESCRIPTION": {
+        "EN" : "Spanish myths and realities",
+        "FR": "Mythes et réalités espagnols",
+        "ES": "Mito y realidad españoles"
+      }
+    }, 
+    "ANGELES": {
+      "NAME": "Angeles",
+      "TITLE": {
+        "EN" : "Professor of Political Sociology",
+        "FR": "Professeur de Sociologie politique",
+        "ES": "Profesora de Sociología política"
+      },
+      "DESCRIPTION": {
+        "EN" : "A crisis that comes from far away",
+        "FR": "Une crise qui vient de loin",
+        "ES": "Una crisis que viene de lejos"
+      }
+    }, 
+    "ALBERTO": {
+      "NAME": "Alberto",
+      "TITLE": {
+        "EN" : "Member of Izquierda Unida",
+        "FR": "Député Izquierda Unida",
+        "ES": "Diputado de Izquierda Unida"
+      },
+      "DESCRIPTION": {
+        "EN" : "An indignant in the Parliament",
+        "FR": "Un indigné au Parlement",
+        "ES": "Un indignado en el Parlamento"
+      }
+    }, 
+    "ELVIRA": {
+      "NAME": "Elvira",
+      "TITLE": {
+        "EN" : "Professor of European law",
+        "FR": "Professeur de Droit européen",
+        "ES": "Profesora de Derecho europeo"
+      },
+      "DESCRIPTION": {
+        "EN" : "The example of the icelandic revolution",
+        "FR": "L’exemple de la révolution islandaise",
+        "ES": "El ejemplo de la revolución islandesa"
+      }
+    }, 
+    "ENRIQUE": {
+      "NAME": "Enrique",
+      "TITLE": {
+        "EN" : "Professor in information science",
+        "FR": "Professeur en Sciences de l’information",
+        "ES": "Profesor de Ciencias de la información"
+      },
+      "DESCRIPTION": {
+        "EN" : "Internet and the 15-M movement",
+        "FR": "Internet et le mouvement du 15-M",
+        "ES": "Internet y el movimiento 15-M"
+      }
+    }, 
+    "PILAR": {
+      "NAME": "Pilar",
+      "TITLE": {
+        "EN" : "Retired",
+        "FR": "Retraitée",
+        "ES": "Jubilada"
+      },
+      "DESCRIPTION": {
+        "EN" : "The Franco regime, the transition, the indignation",
+        "FR": "Le franquisme, la transition, l'indignation",
+        "ES": "El franquismo, la transición, la indignación"
+      }
+    }, 
+    "RAMON": {
+      "NAME": "Ramón",
+      "TITLE": {
+        "EN" : "Journalist for El País",
+        "FR": "Journaliste à El País",
+        "ES": "Periodista de El País"
+      },
+      "DESCRIPTION": {
+        "EN" : "Spain: Third world destination",
+        "FR": "Espagne: destination Tiers-monde",
+        "ES": "España: destino, el Tercer mundo"
+      }
+    }, 
+    "VALENTIN": {
+      "NAME": "Valentin",
+      "TITLE": {
+        "EN" : "Student",
+        "FR": "Étudiant",
+        "ES": "Estudiante"
+      },
+      "DESCRIPTION": {
+        "EN" : "A youth with no future",
+        "FR": "Une jeunesse sans futur",
+        "ES": "Juventud sin futuro"
+      }
+    }
+  },
+  "MODAL": {
+    "CLOSE": {
+      "EN": "Close",
+      "FR": "Fermer",
+      "ES": "X"
+    }
+  }
+}

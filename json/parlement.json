@@ -1,0 +1,92 @@
+{
+  "VIDEO": {
+	"PANNEAU":"6-PanneauRevolte",
+	"TITLE": {
+		"EN": "Spanish parliament",
+		"ES": "Parlamento español",
+		"FR": "Parlement espagnol"
+	},
+	"SUBTITLE": {
+		"EN": "They don't represent us !",
+		"ES": "No nos representan !",
+		"FR": "Ils ne nous représentent pas !"
+	},
+    "SRT": {
+		"EN": "EN_3_PARLEMENT.srt",
+		"ES": "ES_3_PARLEMENT.srt",
+		"FR": "FR_3_PARLEMENT.srt"
+	},
+    "FILE": {
+		"HD-MP4": "HD_parlement.mp4",
+		"HD-WEBM": "HD_parlement.webm",
+		"SD-MP4": "SD_parlement.mp4",
+		"SD-WEBM": "SD_parlement.webm"
+	},
+	"POPUPS": {
+		"47": {
+			"EN": {
+				"TITLE":"The Barcenas case",
+				"LONGTITLE":"Corruption everywhere : The Barcenas case",
+				"MODALE":"<p align='justify'>One more scandal on the long list of corruption cases poisoning the Spanish political life. Only this time, it's the head of the government that seems to be involved...<br>The scandal begins in january 2013, when <i>El Mundo<\/i> reveals a large corruption system inside the Popular Party, organized at that time by its former treasurer, Luis Barcenas. A classical case (Public works and construction enterprises pay commissions to the PP, in exchange for the guarantee of the public markets), only this time it was on a large scale: several heads of the PP took benefits for 20 years !<br>The case takes a different turn at the end of january 2013, when <i>El Pais<\/i> affirms that Mariano Rajoy was one of the beneficiaries of the Barcenas system. The journal publishes documents indicating that the Prime Minister had received 25.000€\/ year, between 1997 and 2008.<br>In the 2013 summer, Mariano Rajoy was obliged to speak to the Congressmen after it was revealed that he exchanged sms with  Luis Bárcenas.<\/p>"
+			},
+			"ES": {
+				"TITLE":"El caso Bárcenas",
+				"LONGTITLE":"Corrupción a todos los niveles : El caso Bárcenas",
+				"MODALE":"<p align='justify'>Un escándalo más de la larga lista de casos de corrupción que envenenan la vida política española. Sólo que, esta vez, los implicados forman parte de la cúpula de gobierno...<br>El caso se destapó en enero de 2013, cuando <i>El Mundo<\/i> desveló un vasto sistema de corrupción en el seno del Partido Popular, organizado por su ex tesorero, Luis Bárcenas. Finalmente, todo un clásico (empresas constructoras que pagaban comisiones al PP, a cambio de obtener su tajada en los concursos públicos), excepto que esta vez se hizo a gran escala: muchos altos cargos del PP obtuvieron beneficios ¡durante dos décadas!<br>El caso tomó un giro a finales de enero de 2013, cuando <i>El País<\/i> afirmó que Mariano Rajoy fue uno de los beneficiarios del sistema de Bárcenas. El periódico presentó documentos en los que se muestra que el primer ministro habría recibido 25.000 € por año entre 1997 y 2008.<br>En el verano de 2013, Mariano Rajoy enfrenta serias dificultades, a causa de los mensajes intercambiados con Luis Bárcenas, que le obligaran a comparecer ante el Congreso.<\/p>"
+			},
+			"FR": {
+				"TITLE":"L’affaire Bárcenas",
+				"LONGTITLE":"Corruption à tous les étages : L'affaire Bárcenas",
+				"MODALE":"<p align='justify'>Un scandale de plus dans la longue liste des affaires de corruption qui gangrènent la vie politique espagnole. Sauf que cette fois-ci, c’est le sommet de l’Etat qui semble concerné…<br>L’affaire démarre en janvier 2013, quand <i>El Mundo<\/i> dévoile un vaste système de corruption au sein du Parti Populaire, organisé alors par son ancien trésorier, Luis Bárcenas. Du très classique au final (des entreprises du BTP versent des commissions au PP, contre l’obtention garantie de marchés publics), sauf que cette fois-ci l’entreprise s’est faîte à grande échelle : de très nombreux cadres du PP en ont bénéficié, pendant vingt ans !<br>L’affaire prend une autre tournure fin janvier 2013, quand <i>El País<\/i> affirme que Mariano Rajoy faisait partie des bénéficiaires du système Bárcenas. Le journal produit des documents où il apparaît que le Premier Ministre aurait touché 25.000€ par an, entre 1997 et 2008.<br>A l’été 2013, Mariano Rajoy est mis en difficulté par des SMS échangés avec Luis Bárcenas. Il est alors tenu de s’expliquer devant le Congreso.<\/p><br\/><li>A lire sur Courrier International<br><i><a href='http:\/\/www.courrierinternational.com\/article\/2013\/02\/05\/corruption-le-premier-ministre-rajoy-mis-en-difficulte-0' target='_blank'>Corruption : le Premier Ministre Rajoy mis en difficulté<\/a><\/i><\/li>"
+			}
+		},
+		"371": {
+			"EN": {
+				"TITLE":"The Spanish electoral system",
+				"LONGTITLE":"Unfair and imbalanced : the Spanish electoral system",
+				"MODALE":"<p align='justify'>One of the founding claims of the 15M movement, is the reform of the electoral law, considered to be unfair because it favors the big parties. Proportional in theory, the spanish electoral system is in fact majority rule and deeply unequal.<br>The Spanish Parliament is bicameral. It is composed of a low chamber, the Congress of deputy members and a high Chamber, the Senate.<br>The Congress has 350 members, elected every four years by direct universal suffrage. The voting mode is proportional. Each one of the 52 districts are assigned a number of seats, proportional to their population, with a minimum of two. This minimum gives  an  advantage to the less populated provinces. Therefor, the electors don't all have the same electoral weight, the value of their vote is not the same in all districts.<br>Besides, the calculation way in the assignment of seats, according to the Hondt law, is very unfair. This mechanism allows actually the big parties to monopolize a bigger number of seats, which establishes in fact a two-party system.<br>Let's take for example the results of the 2011 legislative elections, and focus on the first five parties, by number of votes :<br>cuadro<br>The PP with 44,62% of the votes gets 53,14% of the seats, while the communist party, United Left only gets 3,14% of the seats for 6,92% of the votes.<br>In return, the nationalist catalan party  Convergència i Unió disposes of a quite close to reality representation, because its electors are concentrated in only a few districts an so the calculation way doesn't disadvantage them. This implies that nationalists parties are the only ones that, according to the number of members, can help create a political majority. Their political influence is therefor superior to their real influence.<br>Besides the calculation way for the assignment of seats, the spanish electoral system in distinguished by a system of closed and blocked lists. It is impossible to run for a seat of Member in the Congress as an independent. The elector can only choose from the lists locked by the parties. This brings in discussion the “dependance” of the Members to their parties :<i>« becoming a Member doesn't mean investing your self, being popular, or having the support of a group of citizens »<\/i>, indicates the Professor in Political Science, Robert Liñeira, <i>« but only being put in a good place on the list by those who made the list. »<\/i>.<br>Moreover, these elected Members on a list, are sometimes unknown by their own electors. Might as well say that the proximity between the elected one and his citizens, is an empty promise.<\/p>"
+			},
+			"ES": {
+				"TITLE":"El sistema electoral español",
+				"LONGTITLE":"Injusto y desequilibrado : el sistema electoral español",
+				"MODALE":"<p align='justify'>La reforma de la Ley electoral española forma parte de las reivindicaciones que cimentaron el movimiento 15M. Considerada injusta, favorece a los grandes partidos. Aunque en teoría la ley es proporcional, en la práctica se trata de un sistema electoral de mayorías, profundamente desigualitario.<br>Las Cortes Generales (el parlamento español) se componen de dos cámaras. La cámara baja, Congreso de los Diputados, y la Camara Alta, el Senado.<br>El Congreso de los Diputados lo forman 350 miembros elegidos cada cuatro años por sufragio universal directo. El modo de escrutinio es proporcional. Las 52 circunscripciones pueden atribuirse un número de escaños proporcional a su población, con un mínimo de 2. Este mínimo da una clara ventaja a las provincias con menor numero de habitantes.  Por tanto, no todos los votantes tienen el mismo peso electoral: el valor de su voto varía según la circunscripción a la que pertenecen.<br>Por otra parte, el modelo de cálculo de atribución de los escaños, según el sistema d'Hondt, es particularmente injusto. Este sistema permite que los grandes partidos acaparen la mayor parte de escaños, instaurando un bipartidismo de facto.<br>Tomemos, por ejemplo, los resultados de las elecciones legislativas de 2011, concentrándonos en los cinco partidos con mayor número de votos:<br>cuadro<br>El PP con un 44,62% de votos obtuvo el 53,14% de los escaños, mientras que  Izquierda Unida tan sólo logró un 3,14% de escaños por… el 6,92% de los votos.<br>A la inversa, el partido nacionalista catalán, Convergència i Unió, alcanzó una representación bastante aproximada respecto a su resultado real. Sus votantes se concentran en unas circunscripciones muy determinadas, de modo que el sistema de cálculo no le resulta desfavorable. Esto implica que los partidos nacionalistas son los únicos, visto el respectivo  número de diputados, que pueden formar coalición para lograr la mayoría. Por lo tanto, su influencia política es muy superior a su representatividad real.<br>Mas allá del sistema de cálculo de atribución de los escaños, el sistema electoral español se distingue por ser un sistema de listas cerradas. Resulta imposible presentarse candidato a la diputación de modo independiente. Los votantes tan sólo pueden escoger entre listas  bloqueadas por los partidos.Esto plantea cuestiones de lealtad entre los candidatos hacia sus respectivos partidos:<i>« llegar a ser diputado no conlleva implicarse, ser popular o disfrutar del respaldo de un determinado grupo de ciudadanos »<\/i>, resume el profesor de Ciencias Políticas Robert Liñeira, <i>« basta con que aquellos que confeccionan las listas te posicionen en un buen lugar »<\/i>.<br>Por otra parte, estos diputados, escogidos a través de las listas, son a veces desconocidos para sus propios electores: en España, la proximidad entre el elegido y sus votantes es una mera ilusión.<\/p>"
+			},
+			"FR": {
+				"TITLE":"Le système électoral espagnol",
+				"LONGTITLE":"Injuste et désiquilibré : le système électoral espagnol",
+				"MODALE":"<p align='justify'>Parmi les revendications fondatrices du mouvement 15-M figure la réforme de la Loi électorale espagnole, considérée comme injuste car favorisant les grands partis. Proportionnel en théorie, le système électoral espagnol est majoritaire dans les faits, et profondément inégalitaire.<br>Le parlement espagnol (Cortes Generales) est bicaméral. Il est composé d'une chambre basse, le Congrès des députés, et d'une chambre haute, le Sénat.<br>Le Congrès des députés compte 350 membres élus tous les quatre ans au suffrage universel direct. Le mode de scrutin est proportionnel. Les 52 circonscriptions se voient attribuer un nombre de sièges proportionnel à leur population, avec un minimum de deux. Ce minimum donne un avantage aux provinces les moins peuplées. Par conséquent les électeurs n'ont pas tous le même poids électoral, la valeur de leur voix n'étant pas la même dans une circonscription que dans une autre.<br>Par ailleurs, le mode de calcul d’attribution des sièges, selon la loi d’Hondt, est particulièrement injuste. Ce mécanisme permet en effet aux grands partis de s’accaparer un plus grand nombre de sièges, instaurant un bipartisme de fait.<br>Prenons par exemple les résultats des élections législatives de 2011, en se concentrant sur les cinq premiers partis, par nombre de voix :<br>INSERER UN TABLEAU ??<br>Le PP avec 44,62% des voix obtient 53,14% des sièges, tandis que le parti communiste Izquierda Unida n’obtient que 3,14% des sièges pour… 6,92% des voix.<br>A l’inverse, le parti nationaliste catalan Convergència i Unió dispose d’une représentation assez proche de son score réel, car ses électeurs sont concentrés sur quelques circonscriptions, le mode de calcul ne lui est donc pas défavorable. Ceci implique que les partis nationalistes sont les seuls, vus leurs nombres de députés respectifs, à pouvoir aider à constituer une majorité politique. Leur influence politique est donc supérieure à leur représentativité réelle.<br>Au-delà du mode de calcul d’attribution des sièges, le système électoral espagnol se distingue par un système de listes fermées et bloquées. Il est impossible de se présenter à la députation en indépendant, l’électeur n’ayant le choix que dans des listes verrouillées par les partis. Cela pose donc la question de l’inféodation des députés à leurs partis respectifs : <i>« Devenir député ne suppose donc pas de s'investir, d'être populaire ou de bénéficier du soutien de tel ou tel groupe de citoyens »<\/i>, indique le professeur en sciences politiques Robert Liñeira, <i>« mais seulement d'avoir été placé à une bonne place sur la liste par ceux qui l'ont confectionnée »<\/i>.<br>Par ailleurs ces députés élus sur liste sont parfois méconnus de leurs propres électeurs : autant dire qu’en Espagne, la proximité entre l’élu et ses administrés est un vœu pieu.<\/p>"
+			}
+		},
+		"546": {
+			"EN": {
+				"TITLE":"The Icelandic example",
+				"LONGTITLE":"The Icelandic example",
+				"MODALE":"<iframe src='video2.html#elvira' style='width:558px;height:314px;border:none'><\/iframe>"
+			},
+			"ES": {
+				"TITLE":"El caso islandés",
+				"LONGTITLE":"El caso islandés",
+				"MODALE":"<iframe src='video2.html#elvira' style='width:558px;height:314px;border:none'><\/iframe>"
+			},
+			"FR": {
+				"TITLE":"L'exemple islandais",
+				"LONGTITLE":"L'exemple islandais",
+				"MODALE":"<iframe src='video2.html#elvira' style='width:558px;height:314px;border:none'><\/iframe>"
+			}
+		}
+	}
+  },
+  "NEXT" : {
+	"TITLE": {
+		"EN": "Puerta del Sol",
+		"ES": "Puerta del Sol",
+		"FR": "Puerta del Sol"
+	},
+	"SUBTITLE": {
+		"EN": "The 15M Movement",
+		"ES": "El 15M",
+		"FR": "Le mouvement du 15M"
+	},
+	"JSON":"puertadelsol_mouvement"
+  }
+}

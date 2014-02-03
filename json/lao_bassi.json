@@ -1,0 +1,58 @@
+{
+  "VIDEO": {
+	"PANNEAU":"7-PanneauNoFuture",
+	"TITLE": {
+		"EN": "Alfil Theatre",
+		"ES": "Teatro Alfil",
+		"FR": "Teatro Alfil"
+	},
+	"SUBTITLE": {
+		"EN": "Humor and hope",
+		"ES": "Humor y esperanza",
+		"FR": "Humour et espoir"
+	},
+    "SRT": {
+		"EN": "EN_4_LEOBASSI.srt",
+		"ES": "ES_4_LEOBASSI.srt",
+		"FR": "FR_4_LEOBASSI.srt"
+	},
+    "FILE": {
+		"HD-MP4": "HD_lao-bassi.mp4",
+		"HD-WEBM": "HD_lao-bassi.webm",
+		"SD-MP4": "SD_lao-bassi.mp4",
+		"SD-WEBM": "SD_lao-bassi.webm"
+	},
+	"POPUPS": {
+		"325": {
+			"EN": {
+				"TITLE":"The \"Patholic\" Church of Leo Bassi",
+				"LONGTITLE":"The \"Patholic\" Church of Leo Bassi",
+				"MODALE":"<iframe src='video2.html#EgliseLeoBassi' style='width:558px;height:314px;border:none'><\/iframe>"
+			},
+			"ES": {
+				"TITLE":"La Iglesia Patólica Leo Bassi",
+				"LONGTITLE":"La Iglesia Patólica Leo Bassi",
+				"MODALE":"<iframe src='video2.html#EgliseLeoBassi' style='width:558px;height:314px;border:none'><\/iframe>"
+			},
+			"FR": {
+				"TITLE":"L'Eglise athée de Léo Bassi",
+				"LONGTITLE":"L'Eglise athée de Léo Bassi",
+				"MODALE":"<iframe src='video2.html#EgliseLeoBassi' style='width:558px;height:314px;border:none'><\/iframe>"
+			}
+		}
+	}
+  },
+  "NEXT" : {
+	"TITLE": {
+		"EN": "Real Madrid's Stadium",
+		"ES": "Estadio del Real Madrid",
+		"FR": "Stade du Real Madrid"
+	},
+	"SUBTITLE": {
+		"EN": "La Liga, a second class championship",
+		"ES": "La Liga, campeonato de segunda división",
+		"FR": "La Liga, championnat de seconde zone"
+	},
+	"JSON":"foot"
+  }
+}

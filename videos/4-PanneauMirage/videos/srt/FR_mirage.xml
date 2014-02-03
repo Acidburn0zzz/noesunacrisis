@@ -1,0 +1,289 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<mirage>
+	<config>
+		<video classname="symbols.BgMovieMirageSymbol" />
+		<sound classname="symbols.SoundMirageSymbol" />
+	</config>
+	<nav>
+		<item id="tours-bankia">
+			<title>
+				<![CDATA[TOURS BANKIA]]>
+			</title>
+			<subtitle>
+				<![CDATA[Spéculation et bulle immobilière]]>
+			</subtitle>
+			<bgPicture>
+				<![CDATA[mirage_picture_1]]>
+			</bgPicture>
+			<video>
+				<!-- TODO: INFOS sur les videos, soustritr, etc... -->
+			</video>
+		</item>
+		<item id="pah">
+			<title>
+				<![CDATA[PERMANENCE DE LA PAH]]>
+			</title>
+			<subtitle>
+				<![CDATA[Le fléau des expulsions]]>
+			</subtitle>
+			<bgPicture>
+				<![CDATA[mirage_picture_2]]>
+			</bgPicture>
+			<video>
+				<!-- TODO: INFOS sur les videos, soustritr, etc... -->
+			</video>
+		</item>
+		<item id="valdeluz">
+			<title>
+				<![CDATA[CIUDAD VALDELUZ]]>
+			</title>
+			<subtitle>
+				<![CDATA[Ville recherche habitants]]>
+			</subtitle>
+			<bgPicture>
+				<![CDATA[mirage_picture_3]]>
+			</bgPicture>
+			<video>
+				<!-- TODO: INFOS sur les videos, soustritr, etc... -->
+			</video>
+		</item>
+		<item id="caja-madrid">
+			<title>
+				<![CDATA[CAMPEMENT DE CAJA MADRID]]>
+			</title>
+			<subtitle>
+				<![CDATA[En guerre contre les banques]]>
+			</subtitle>
+			<bgPicture>
+				<![CDATA[mirage_picture_4]]>
+			</bgPicture>
+			<video>
+				<!-- TODO: INFOS sur les videos, soustritr, etc... -->
+			</video>
+		</item>
+	</nav>
+	<subtitle>
+		<![CDATA[Les illusions du boom immobilier]]>
+	</subtitle>
+	<presentation>
+		<![CDATA[Parcourez les quatre quartiers de Madrid: <b>MIRAGE, SACCAGE, REVOLTE et NO FUTURE</b>. Chacun aborde une grande thématique liée à la crise économique et ses conséquences.<br/><br/>Dans chaque quartier, cliquez sur un bâtiment pour accéder à une séquence vidéo.<br/><br/>A la fin de chaque vidéo, une nouvelle séquence vous sera proposée pour poursuivre votre parcours.]]>
+	</presentation>
+	<presBtn>
+		<![CDATA[accéder]]>
+	</presBtn>
+	<movies>
+		<movie id="tours-bankia" isFooter="true">
+			<video>
+				<sd>
+					<![CDATA[HD_bankia.mp4]]>
+				</sd>
+				<hd>
+					<![CDATA[SD_bankia.mp4]]>
+				</hd>
+			</video>
+			<subtitle>
+				<![CDATA[FR_1_BANKIA.srt]]>
+			</subtitle>
+			<synthes>
+				<item>
+					<timecode>
+						<![CDATA[00:01:40]]>
+					</timecode>
+					<desc>
+						<![CDATA[Alberto Garzón{0}Député Izquierda Unida]]>
+					</desc>
+				</item>
+				<item>
+					<timecode>
+						<![CDATA[00:01:55]]>
+					</timecode>
+					<desc>
+						<![CDATA[Carlos Taibo{0}Professeur de sciences politiques]]>
+					</desc>
+				</item>
+				<item>
+					<timecode>
+						<![CDATA[00:02:29]]>
+					</timecode>
+					<desc>
+						<![CDATA[Paco Álvarez{0}Banquier]]>
+					</desc>
+				</item>
+			</synthes>
+			<complements>
+				<item id="cplt-bankia">
+					<!-- texte / video -->
+					<type>
+						<![CDATA[texte]]>
+					</type>
+					<titleShort>
+						<![CDATA[Les milliards de Bankia]]>
+					</titleShort>
+					<titleLong>
+						<![CDATA[Les milliards de Bankia]]>
+					</titleLong>
+					<timecode>
+						<![CDATA[00:03:18]]>
+					</timecode>
+					<content>
+						<![CDATA[<p align='right'><font size='20'><b>Les milliards de Bankia</p></font></b>
+						<p align='justify'>
+						Bankia est une parfaite illustration de ces banques devenues <i>« too big to fail »</i>, trop grosses pour qu’on les laisse faire faillite.
+						</p>
+						<p align='justify'>
+						<br/><li><b>7 : </b>nombre de caisses d’épargne fusionnées en 2010 pour créer Bankia (Caja Madrid, Bancaja, La Caja de Canarias, Caja de Avila, Caixa Laietana, Caja Segovia, Caja Rioja).</li>
+						<br/><li><b>4e : </b>Bankia est le quatrième établissement bancaire espagnol, derrière Santander, BBVA et CaixaBank. </li>
+						<br/><li><b>32 milliards d'€ :</b> montant des actifs toxiques de Bankia en mai 2012, correspondant aux prêts immobiliers en passe de ne jamais être remboursés. </li>
+						<br/><li><b>23.5 milliards d'€ :</b> montant du renflouement public accordé par le gouvernement Rajoy à Bankia.</li>
+						<br/><li><b>45% :</b> parts du capital de Bankia détenues par l’Etat espagnol, ayant conduit de fait à une nationalisation de la banque par le gouvernement Rajoy. </li>
+						<br/><li><b>23% :</b> part des postes de travail supprimés chez Bankia, suite au plan de restructuration annoncé par la direction de la banque en février 2013.</li>
+						<br/><li><b>41 milliards d'€ :</b> sommes déjà versées aux banques espagnoles dans le cadre du plan de sauvetage européen. </li>
+						<br/><li><b>3,75€ :</b> cours de l’action Bankia à l’introduction en Bourse le 18 juillet 2011.</li>
+						<br/><li><b>0.17€ :</b> cours de l’action Bankia le 19 avril 2013 (-95%), avant une augmentation de capital de 15 milliards d’euros. </li>
+						<br/><li><b>710 000 :</b> nombre de familles espagnoles ayant perdu une grande partie de leur épargne dans le scandale des preferentes. Ces « participations préférentielles » ont permis aux banques espagnoles de renforcer leurs bilans avec de l’argent frais. Aujourd’hui, ces titres financiers à haut risque ont perdu plus de 70% de leur valeur d’origine. </li>
+						<br/><li><b>33 :</b> nombre d’anciens responsables de Bankia soupçonnés par la justice espagnole d’escroquerie, de détournements de fonds et de falsification des comptes annuels, lors de l’introduction en bourse de Bankia. L’ancien Président de Bankia, Rodrigo Rato, fait partie des suspects. Il avait été auparavant Ministre de l’Economie de M. Aznar, et Directeur général du FMI. </li>
+						</p>
+
+						<br /><li>A lire sur Courrier International
+						<i><a href="http://www.courrierinternational.com/article/2013/04/18/une-arnaque-de-32-milliards-d-euros" target="_blank">Une arnaque de 32 milliards d’euros</a></i>
+						</li>
+						
+
+						]]>
+					</content>
+				</item>
+			</complements>
+		</movie>
+		<movie id="pah" isFooter="true">
+			<video>
+				<sd>
+					<![CDATA[HD_pah.mp4]]>
+				</sd>
+				<hd>
+					<![CDATA[SD_pah.mp4]]>
+				</hd>
+			</video>
+			<subtitle>
+				<![CDATA[FR_1_PAH.srt]]>
+			</subtitle>
+			<synthes>
+				<item>
+					<timecode>
+						<![CDATA[00:04:40]]>
+					</timecode>
+					<desc>
+						<![CDATA[Chema Ruiz{0}Porte-parole de la PAH]]>
+					</desc>
+				</item>
+			</synthes>
+			<complements>
+				<item id="cplt-pah">
+					<!-- texte / video -->
+					<type>
+						<![CDATA[texte]]>
+					</type>
+					<titleShort>
+						<![CDATA[La proposition de loi de la PAH]]>
+					</titleShort>
+					<titleLong>
+						<![CDATA[Stop aux expulsions ! La proposition de loi d’initiative populaire]]>
+					</titleLong>
+					<timecode>
+						<![CDATA[00:05:59]]>
+					</timecode>
+					<content>
+						<![CDATA[<p align='right'><font size='20'><b>Stop aux expulsions : la proposition de loi d’initiative populaire</b></font></p><br />
+						<p align='justify'>
+						A l’initiative de la PAH, près de 1,5 millions de signatures ont été recueillies pour exiger du Parlement la discussion d’une initiative législative populaire. Celle-ci comportait trois volets : un moratoire sur les expulsions, l’annulation rétroactive des arriérés après la saisie du logement par la banque, la mise en place d’un parc de logements sociaux.
+						<br /><br />
+						Le 18 avril 2013, le Parti Populaire votait, seul, une nouvelle loi, jugée totalement insuffisante par l’opposition de gauche, qui l’a rejeté en bloc. Les citoyens mobilisés n’étaient pas en reste, eux qui manifestaient devant le Congrès.
+						<br /><br />
+						Les avancées de la nouvelle loi sont de fait modestes : les familles les plus fragiles voient seulement leur processus d’expulsion suspendu pendant deux ans ; les pénalités de retard, qui peuvent être pharaoniques en Espagne, sont limitées ; la justice peut suspendre une procédure d’expulsion si elle a des doutes sur d’éventuelles clauses abusives dans le contrat de crédit (cette disposition ayant été rendue obligatoire par l’arrêt du 14 mars 2013 de la Cour de Justice Européenne).
+						<br /><br />
+						La <i>dación en pago</i>, qui était la disposition emblématique de l’initiative législative populaire, a été écartée par les députés PP. Elle aurait permis aux familles expulsées de leur logement de ne plus avoir à continuer à rembourser leurs dettes auprès des banques. Car aujourd’hui, quand une banque saisit un logement, sa valeur est dépréciée par rapport au prix d’achat, fixé en pleine euphorie immobilière. Elle demande donc à son débiteur de rembourser la différence entre la valeur réelle du logement et le montant, souvent exorbitant, du prêt contracté. Déjà expulsées de leur logement, des familles se retrouvent ainsi acculées, sans aucune perspective.
+						<br /><br />
+						Oubliée également la création d’un parc de logements sociaux avec les biens saisis par les banques. Celles-ci continueront donc d’être à la tête d’un gigantesque parc immobilier inoccupé.
+						<br /><br />
+						Au printemps 2013, la PAH décide de mettre la pression sur les députés PP qui refusent de voter la loi. Elle lance alors les <i>escraches</i>, en référence au mode d’action des Argentins qui traquaient les anciens caciques de la dictature : il s’agit simplement d’aller protester devant le domicile de la personne visée.
+						<br /><br />
+						Ce mode d’action a fait bondir le PP : la secrétaire générale du parti de droite, María Dolores de Cospedal, l’a qualifié de <i>« pur nazisme »</i>, rien que ça.
+						<br /><br />
+						Autant dire que le Prix du Citoyen européen 2013 décerné en juin dernier à la PAH par le Parlement Européen n’a pas été du goût du PP et des éditorialistes conservateurs, qui y ont vu <i>« la mort morale et ethique »</i> de l’Europe. Le PP a naturellement réclamé le retrait de ce prix. En vain.
+						</p>
+						<br />
+						<li>A lire sur Courrier International: <i><strong><a href="http://www.courrierinternational.com/article/2011/09/15/le-jour-ou-les-jeunes-ont-reinvente-la-democratie" target="_blank">Ada Colau, elle fait du logis son combat</a></strong></i>
+						</li>
+						<br/>
+						<li>A lire sur Courrier International: <i><u><a href="http://www.courrierinternational.com/article/2013/04/05/histoire-d-une-expulsion-je-pensais-que-ca-ne-pouvait-pas-m-arriver" target="_blank">Histoire d’une expulsion : « je pensais que ça ne pouvait pas m’arriver »</a></u></i>
+						</li>]]>
+					</content>
+				</item>
+			</complements>
+		</movie>
+		<movie id="valdeluz" isFooter="true">
+			<video>
+				<sd>
+					<![CDATA[HD_valdeluz.mp4]]>
+				</sd>
+				<hd>
+					<![CDATA[SD_valdeluz.mp4]]>
+				</hd>
+			</video>
+			<subtitle>
+				<![CDATA[FR_1_VALDELUZ.srt]]>
+			</subtitle>
+			<synthes/>
+			<complements/>
+		</movie>
+		<movie id="caja-madrid" isFooter="true">
+			<video>
+				<sd>
+					<![CDATA[HD_cajamadrid.mp4]]>
+				</sd>
+				<hd>
+					<![CDATA[SD_cajamadrid.mp4]]>
+				</hd>
+			</video>
+			<subtitle>
+				<![CDATA[FR_1_CAJAMADRID.srt]]>
+			</subtitle>
+			<synthes/>
+			<complements>
+				<item id="cplt-desahucios">
+					<!-- texte / video -->
+					<type>
+						<![CDATA[texte]]>
+					</type>
+					<titleShort>
+						<![CDATA[La justice européenne dénonce les desahucios]]>
+					</titleShort>
+					<titleLong>
+						<![CDATA[La justice européenne dénonce les desahucios]]>
+					</titleLong>
+					<timecode>
+						<![CDATA[00:02:37]]>
+					</timecode>
+					<content>
+						<![CDATA[<p align='right'><font size='20'><b>La justice européenne dénonce les desahucios</p></font></b>
+						<p align='justify'>
+						Mohamed Aziz est un de ces milliers d’Espagnols qui, après avoir perdu leur emploi, se sont trouvés dans l’impossibilité de payer les traites de leur crédit immobilier. En 2011, sa banque lance une procédure d’expulsion pour récupérer le logement de Mohamed, qui doit continuer de rembourser sa dette.
+						<br>
+						Mais celui-ci ne se résigne pas. Accompagné de son avocat, il tente de négocier avec la banque. Refus catégorique. L’avocat assigne alors la banque devant le Tribunal de commerce de Barcelone pour clause abusive dans le contrat de Mohamed.
+						<br>
+						Là le juge José María Fernández Seijo transmet l’affaire à la Cour de Justice Européenne, au motif que la loi espagnole ne permet pas au débiteur de s’opposer à une procédure de levée de l’hypothèque (comme la saisie du bien immobilier), même s’il apparaît que le contrat contient des clauses abusives. Pour le dire autrement : en Espagne, lorsqu’une procédure de saisie est lancée par la banque, plus rien ne peut l’arrêter.
+						<br>
+						Dans son <a href="http://curia.europa.eu/juris/documents.jsf?num=C-415/11" target="_blank">arrêt du 14 mars 2013</a>, la Cour de Justice Européenne a considéré la loi espagnole comme contraire au droit européen, puisqu’elle <i>« ne permet pas au juge saisi de la procédure […] d’adopter des mesures provisoires, notamment la suspension de la procédure d’exécution »</i>.
+						<br>
+						<i>« À partir d’aujourd’hui, tout juge qui détecte une clause abusive pourra, par mesure de précaution, ne pas expulser le consommateur »</i>, commente le juge José Maria Fernandez Seijo.
+						<br>
+						Le gouvernement Rajoy s’est engagé à corriger la loi afin de la mettre en conformité avec le droit européen. Il aura fallu attendre une décision de la justice européenne pour l’y contraindre.
+						</p>
+
+						]]>
+					</content>
+				</item>
+			</complements>
+		</movie>
+	</movies>
+
+</mirage>

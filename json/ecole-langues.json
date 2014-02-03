@@ -1,0 +1,58 @@
+{
+  "VIDEO": {
+	"PANNEAU":"7-PanneauNoFuture",
+	"TITLE": {
+		"EN": "Foreign Language School",
+		"ES": "Escuela Oficial de Idiomas",
+		"FR": "École de Langues Étrangères"
+	},
+	"SUBTITLE": {
+		"EN": "Young people, run !",
+		"ES": "Jóvenes, ¡huid!",
+		"FR": "Jeunes, fuyez !"
+	},
+    "SRT": {
+		"EN": "EN_4_ECOLEDELANGUES.srt",
+		"ES": "ES_4_ECOLEDELANGUES.srt",
+		"FR": "FR_4_ECOLEDELANGUES.srt"
+	},
+    "FILE": {
+		"HD-MP4": "HD_ecole-langues.mp4",
+		"HD-WEBM": "HD_ecole-langues.webm",
+		"SD-MP4": "SD_ecole-langues.mp4",
+		"SD-WEBM": "SD_ecole-langues.webm"
+	},
+	"POPUPS": {
+		"267": {
+			"EN": {
+				"TITLE":"Spanish youth, first vicim of crisis",
+				"LONGTITLE":"Spanish youth, first vicim of crisis",
+				"MODALE":"<p align='justify'><ul><li><b>55% : <\/b>unemployment rate of the less than 2 years unemployed in Spain.<\/li><br\/><li><b>320 000 : <\/b>number of young Spaniards who have emigrated since 2008, according to the NIS , the National Institute of Statistics in Spain. Juventud sin Futuro considers this number underestimated. <\/li><br\/><li><b>6,7% : <\/b>in 2012, increase of the spanish population living abroad.<\/li><\/ul><\/p><ul><li>See the website of Juventud Sin Futuro, « No nos vamos, nos echan » (« We're not leaving, they're chasing us away ».)<br><i><a href='http:\/\/www.nonosvamosnosechan.net\/' target='_blank'>http:\/\/www.nonosvamosnosechan.net\/<\/a><\/i><\/li><\/ul>"
+			},
+			"ES": {
+				"TITLE":"La juventud, primera victima de la crisis",
+				"LONGTITLE":"La juventud, primera victima de la crisis",
+				"MODALE":"<p align='justify'><ul><li><b>55% : <\/b>Tasa de desempleo de los menores de 25 años, en España.<\/li><br\/><li><b>320 000 : <\/b>Número de jóvenes españoles que han emigrado después de 2008, según datos del INE, Instituto Nacional de Estadística. Juventud Sin Futuro considera que esta cifra está subestimada.<\/li><br\/><li><b>6,7% : <\/b>Aumento de la población española que vive en el extranjero, en 2012.<\/li><\/ul><\/p><ul><li>Visita el sitio de Juventud Sin Futuro, « No nos vamos, nos echan »<br><i><a href='http:\/\/www.nonosvamosnosechan.net\/' target='_blank'>http:\/\/www.nonosvamosnosechan.net\/<\/a><\/i><\/li><\/ul>"
+			},
+			"FR": {
+				"TITLE":"La jeunesse, première victime de la crise",
+				"LONGTITLE":"La jeunesse, première victime de la crise",
+				"MODALE":"<p align='justify'><ul><li><b>55% : <\/b>taux de chômage des moins de 25 ans en Espagne.<\/li><br\/><li><b>320 000 : <\/b>nombre de jeunes Espagnols ayant émigré depuis 2008, selon l’INE, l’Institut national de la statistique en Espagne. Juventud Sin Futuro considère que ce chiffre est sous-estimé.<\/li><br\/><li><b>6,7% : <\/b>en 2012, augmentation de la population espagnole vivant à l’étranger.<\/li><\/ul><\/p><ul><li>Voir le site de Juventud Sin Futuro, « No nos vamos, nos echan » (« on ne part pas, ils nous chassent »)<br><i><a href='http:\/\/www.nonosvamosnosechan.net\/' target='_blank'>http:\/\/www.nonosvamosnosechan.net\/<\/a><\/i><\/li><\/ul>"
+			}
+		}		
+	}
+  },
+  "NEXT" : {
+	"TITLE": {
+		"EN": "Alfil Theatre",
+		"ES": "Teatro Alfil",
+		"FR": "Teatro Alfil"
+	},
+	"SUBTITLE": {
+		"EN": "Humor and hope",
+		"ES": "Humor y esperanza",
+		"FR": "Humour et espoir"
+	},
+	"JSON":"lao_bassi"
+  }
+}

@@ -1,0 +1,64 @@
+
+
+<ul class='kwicks kwicks-horizontal'>
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+</ul>
+
+
+        <script type='text/javascript'>
+            $().ready(function() {
+                $('.kwicks').kwicks({
+                    maxSize : 250,
+                    behavior: 'menu'
+                });
+            });
+        </script>
+
+<div><i class="glyphicon glyphicon-play"></i></div>
+
+<img src="img/8-Portraits/02_out.jpg">
+//    $(".cartouche").hide();
+         <script type="text/javascript" src="js/portrait.js"></script>
+          <script src="inc/js/libs/video-js/video.js"></script>
+   	<script src="inc/js/libs/videojs.markers.js"></script>
+<source src="videos/8-Portraits/videos/Carlos/SD_carlos.mp4" type="video/mp4" class="mp4"></source>
+<canvas id=c></canvas> 
+<video id=v controls loop> 
+	<source src=video.webm type=video/webm> 
+	<source src=video.ogg type=video/ogg> 
+	<source src=video.mp4 type=video/mp4> 
+</video> 
+
+//initialise le kwicks
+    $('.kwicks').kwicks({
+        maxSize : 402,
+        behavior: 'menu',
+        autoResize: false
+    });
+  //humm
+    calcHeight('.portrait');
+    calcHeight('#pan-content');
+    calcHeight('.kwicks-expanded > img');
+    calcHeight('.kwicks-collapsed > img');
+});
+$(".portraits").on('expand-complete.kwicks', function(e, data) {
+        //    alert("toto");
+});
+
+window.onresize = function() {
+    calcHeight('.portrait');
+    calcHeight('#pan-content');
+    calcHeight('.kwicks-expanded');
+    calcHeight('.kwicks-collapsed');
+}
+
+function calcHeight(selector) {
+    var wheight = $(window).height() - 50;
+    $(selector).height(wheight);
+}
+
+../videos/8-portraits/Carlos/carlos.json
+

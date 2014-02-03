@@ -1,0 +1,40 @@
+{
+  "VIDEO": {
+	"PANNEAU":"4-PanneauMirage",
+	"TITLE": {
+		"EN": "Ciudad Valdeluz",
+		"ES": "Ciudad Valdeluz",
+		"FR": "Ciudad Valdeluz"
+	},
+	"SUBTITLE": {
+		"EN": "City looking for residents",
+		"ES": "Ciudad busca habitantes",
+		"FR": "Ville recherche habitants"
+	},
+    "SRT": {
+		"EN": "EN_1_VALDELUZ.srt",
+		"ES": "ES_1_VALDELUZ.srt",
+		"FR": "FR_1_VALDELUZ.srt"
+	},
+    "FILE": {
+		"HD-MP4": "HD_valdeluz.mp4",
+		"HD-WEBM": "HD_valdeluz.webm",
+		"SD-MP4": "SD_valdeluz.mp4",
+		"SD-WEBM": "SD_valdeluz.webm"
+	},
+	"POPUPS": {}
+  },
+  "NEXT" : {
+	"TITLE": {
+		"EN": "Caja Madrid Camp",
+		"ES": "Campamento de Caja Madrid",
+		"FR": "Campement de Caja Madrid"
+	},
+	"SUBTITLE": {
+		"EN": "In war against the banks",
+		"ES": "En guerra contra los bancos",
+		"FR": "En guerre contre les banques"
+	},
+	"JSON":"caja_madrid"
+  }
+}

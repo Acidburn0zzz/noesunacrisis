@@ -1,0 +1,193 @@
+<!DOCTYPE html>
+<!-- vim:set sw=4 ts=4 sts=4 ft=html expandtab smartindent: -->
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.0.3/css/bootstrap.min.css">
+        <link rel="stylesheet" href="css/jquery.kwicks.min.css">
+        <link rel="stylesheet" href="css/no-es-una-crisis.css">
+        <link href='http://fonts.googleapis.com/css?family=Voces&subset=latin,latin-ext' rel='stylesheet' type='text/css'>
+        <script type="text/javascript" src="//code.jquery.com/jquery-2.0.3.min.js"></script>
+        <script type="text/javascript" src="//netdna.bootstrapcdn.com/bootstrap/3.0.3/js/bootstrap.min.js"></script>
+        <script type="text/javascript" src="js/minimit-anima.min.js"></script>
+    </head>
+    <body>
+        <nav class="navbar navbar-fixed-top" role="navigation">
+            <div class="navbar-header" id="logo-no-es-una-crisis">
+                <ul class="nav navbar-nav">
+                    <li><img src="img/0-Communs/LogosEtPictos/logo_noesunacrisis_blanc.png" alt="Logo No es una crisis"></li>
+                </ul>
+            </div>
+            <div class="pull-right">
+                <ul class="nav navbar-nav">
+                    <li id="menu-portrait" class="text-right">PORTRAITS</li>
+                </ul>
+            </div>
+        </nav>
+        <div id="pan-content">
+            <div id="pan-title" class="container">
+                <div class="row">
+                    <div class="text-center">
+                        MIRAGE
+                    </div>
+                </div>
+                <!-- MIRAGE BEGIN -->
+                <style>
+                .mirage img {
+                }
+                #bankia {
+                    z-index: 0;
+                    max-width: 20%;
+                }
+                #pah {
+                    position: relative;
+                    z-index: 1;
+                    max-width: 17%;
+                    margin-top: 25%;
+                    margin-left: -2%;
+                }
+                #valdeluz {
+                    position: relative;
+                    max-width: 55%;
+                    margin-top: 8%;
+                    margin-left: -16%;
+                }
+                #caja {
+                    position: relative;
+                    max-width: 24%;
+                    margin-top: 14%;
+                    margin-left: -6%;
+                }
+                </style>
+                <div class="row mirage">
+                    <img id="bankia"
+                        src="img/4-PanneauMirage/bankia.png"
+                        data-content=""
+                        data-placement="top"
+                        data-container="body"
+                        data-toggle="popover"
+                        data-html="true" />
+                    <img id="pah"
+                        src="img/4-PanneauMirage/pah.png"
+                        data-content=""
+                        data-placement="top"
+                        data-container="body"
+                        data-toggle="popover"
+                        data-html="true" />
+                    <img id="valdeluz"
+                        src="img/4-PanneauMirage/ciudad_valdeluz.png"
+                        data-content=""
+                        data-placement="top"
+                        data-container="body"
+                        data-toggle="popover"
+                        data-html="true" />
+                    <img id="caja"
+                        src="img/4-PanneauMirage/caja_madrid.png"
+                        data-content=""
+                        data-placement="top"
+                        data-container="body"
+                        data-toggle="popover"
+                        data-html="true" />
+                </div>
+                <script type="text/javascript">
+                // Globals
+                var LANG;
+                var userLang = "FR";
+                // Cache
+                var jqCache = {
+                    bankia: $('#bankia'),
+                    pah: $('#pah'),
+                    valdeluz: $('#valdeluz'),
+                    caja: $('#caja'),
+                };
+                // Events
+                // MouseOver
+                var initEvents = function () {
+                    // Animation CSS pour toutes les images sauf key
+                    var animButOneImage = function (key, style) {
+                        for (var k in jqCache) {
+                            if (k !== key) {
+                                jqCache[k].anima(style, 200);
+                            }
+                        }
+                    };
+                    var overEvents = function () {
+                        for (var key in jqCache) {
+                            var contentData = LANG['MIRAGE'][key.toUpperCase()];
+                            // Usage de closure pour conserver le scope
+                            (function (key) {
+                                jqCache[key].mouseover(function() {
+                                    $(this).popover('show');
+                                    animButOneImage(key, {'opacity': 0.5 });
+                                });
+                                jqCache[key].mouseout(function() {
+                                    $(this).popover('hide');
+                                    animButOneImage(key, {'opacity': 1 });
+                                });
+                            })(key);
+                        }
+                    };
+
+                    overEvents();
+                };
+                // Internationalization
+                initLang = function () {
+                    for (var key in jqCache) {
+                        var data = LANG['MIRAGE'][key.toUpperCase()];
+                        var title = data['TITLE'][userLang];
+                        var subtitle = data['SUBTITLE'][userLang];
+                        var popoverContent = "<h2>" + title + "</h2>";
+                        popoverContent += "<p>" + subtitle + "<p>";
+                        jqCache[key].attr({
+                            alt: title,
+                            'data-content': popoverContent
+                        });
+                    }
+                };
+                // Global initialization
+                $.get('lang/interface.json', function (data) { init(data); });
+                var init = function (lang) {
+                    LANG = lang;
+                    initLang();
+                    initEvents();
+                }
+                </script>
+                <!-- MIRAGE END -->
+            </div>
+        </div>
+        <nav class="navbar navbar-fixed-bottom" role="navigation">
+            <div class="row">
+                <div id="pan-menu-gauche" class="col-md-3">
+                    <ul class="nav navbar-nav">
+                        <li>PRÉFACE</li>
+                        <li>BLOG</li>
+                        <li>CRÉDITS</li>
+                    </ul>
+                </div>
+                <div class="col-md-6">
+                    <div class="row">
+                        <div id="pan-menu-mirage" class="col-md-3 text-center active">MIRAGE</div>
+                        <div id="pan-menu-saccage" class="col-md-3 text-center">SACCAGE</div>
+                        <div id="pan-menu-revolte" class="col-md-3 text-center">RÉVOLTE</div>
+                        <div id="pan-menu-no-future" class="col-md-3 text-center">NO FUTURE</div>
+                    </div>
+                </div>
+                <div id="pan-menu-droite" class="col-md-3">
+                    <ul class="nav navbar-nav pull-right">
+                        <li class="pan-share">
+                            Partager
+                            <span>
+                                <a href="" class="pan-share-icon"><img src="img/0-Communs/LogosEtPictos/icone_facebook.png" alt="Logo Facebook"></a>
+                                <a href="" class="pan-share-icon"><img src="img/0-Communs/LogosEtPictos/icone_twitter.png" alt="Logo Twitter"></a>
+                            </span>
+                        </li>
+                        <li><i id="pan-volume" class="glyphicon glyphicon-volume-up"></i></li>
+                        <li><i id="pan-full-screen" class="glyphicon glyphicon-resize-full"></i></li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+        <!--<script type="text/javascript" src="js/no-es-una-crisis.js"></script>-->
+    </body>
+</html>

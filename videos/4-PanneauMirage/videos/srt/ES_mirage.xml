@@ -1,0 +1,290 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<mirage>
+	<config>
+		<video classname="symbols.BgMovieMirageSymbol" />
+		<sound classname="symbols.SoundMirageSymbol" />
+	</config>
+	<nav>
+		<item id="tours-bankia">
+			<title>
+				<![CDATA[TORRE BANKIA]]>
+			</title>
+			<subtitle>
+				<![CDATA[Especulación y burbuja immobiliaria]]>
+			</subtitle>
+			<bgPicture>
+				<![CDATA[mirage_picture_1]]>
+			</bgPicture>
+			<video>
+				<!-- TODO: INFOS sur les videos, soustritr, etc... -->
+			</video>
+		</item>
+		<item id="pah">
+			<title>
+				<![CDATA[PERSEVERANCIA DE LA PAH]]>
+			</title>
+			<subtitle>
+				<![CDATA[El cataclismo de los desahucios]]>
+			</subtitle>
+			<bgPicture>
+				<![CDATA[mirage_picture_2]]>
+			</bgPicture>
+			<video>
+				<!-- TODO: INFOS sur les videos, soustritr, etc... -->
+			</video>
+		</item>
+		<item id="valdeluz">
+			<title>
+				<![CDATA[CIUDAD VALDELUZ]]>
+			</title>
+			<subtitle>
+				<![CDATA[Ciudad busca habitantes]]>
+			</subtitle>
+			<bgPicture>
+				<![CDATA[mirage_picture_3]]>
+			</bgPicture>
+			<video>
+				<!-- TODO: INFOS sur les videos, soustritr, etc... -->
+			</video>
+		</item>
+		<item id="caja-madrid">
+			<title>
+				<![CDATA[CAMPAMENTO DE CAJA MADRID]]>
+			</title>
+			<subtitle>
+				<![CDATA[En guerra contra los bancos]]>
+			</subtitle>
+			<bgPicture>
+				<![CDATA[mirage_picture_4]]>
+			</bgPicture>
+			<video>
+				<!-- TODO: INFOS sur les videos, soustritr, etc... -->
+			</video>
+		</item>
+	</nav>
+	<subtitle>
+		<![CDATA[La ilusión del boom inmobiliario]]>
+	</subtitle>
+	<presentation>
+		<![CDATA[Recorres los cuatro barrios de Madrid :<b>ESPEJISMO, SAQUEO, REVUELTA y NO FUTURE.</b>. Cada uno aborda un tema importante relacionado con la crisis económica y sus consecuencias.<br/><br/>En cada barrio, puedes hacer clic sobre los edificios y acceder a los vídeos.<br/><br/>Al final de cada grabación te propondremos una nueva secuencia para continuar con tu visita.]]>
+	</presentation>
+	<presBtn>
+		<![CDATA[ACCEDER]]>
+	</presBtn>
+	<movies>
+		<movie id="tours-bankia" isFooter="true">
+			<video>
+				<sd>
+					<![CDATA[HD_bankia.mp4]]>
+				</sd>
+				<hd>
+					<![CDATA[SD_bankia.mp4]]>
+				</hd>
+			</video>
+			<subtitle>
+				<![CDATA[ES_1_BANKIA.srt]]>
+			</subtitle>
+			<synthes>
+				<item>
+					<timecode>
+						<![CDATA[00:01:40]]>
+					</timecode>
+					<desc>
+						<![CDATA[Alberto Garzón{0}Diputado Izquierda Unida]]>
+					</desc>
+				</item>
+				<item>
+					<timecode>
+						<![CDATA[00:01:55]]>
+					</timecode>
+					<desc>
+						<![CDATA[Carlos Taibo{0}Profesor de Ciencias politicas]]>
+					</desc>
+				</item>
+				<item>
+					<timecode>
+						<![CDATA[00:02:29]]>
+					</timecode>
+					<desc>
+						<![CDATA[Paco Álvarez{0}Banquero]]>
+					</desc>
+				</item>
+			</synthes>
+			<complements>
+				<item id="cplt-bankia">
+					<!-- texte / video -->
+					<type>
+						<![CDATA[texte]]>
+					</type>
+					<titleShort>
+						<![CDATA[Los millones de Bankia]]>
+					</titleShort>
+					<titleLong>
+						<![CDATA[Los millones de Bankia]]>
+					</titleLong>
+					<timecode>
+						<![CDATA[00:03:18]]>
+					</timecode>
+					<content>
+						<![CDATA[<p align='right'><font size='20'><b>Los millones de Bankia</p></font></b>
+						<p align='justify'>
+						Bankia es una perfecta ilustración de esos bancos <i>« too big to fail »</i>, demasiado grandes para quebrar.
+						</p>
+						<p align='justify'>
+						<br/><li><b>7 : </b>Número de cajas de ahorro fusionadas en 2010 para crear Bankia (Caja Madrid, Bancaja, La Caja de Canarias, Caja de Ávila, Caixa Laietana, Caja Segovia, Caja Rioja).</li>
+						<br/><li><b>4a : </b>Bankia es la cuarta entidad financiera española, por detrás del Santander, el BBVA y CaixaBank.</li>
+						<br/><li><b>32 mil millones de euros :</b> Activos tóxicos de Bankia en mayo del 2012, correspondientes a los préstamos inmobiliarios en vías de convertirse en irreemborsables. </li>
+						<br/><li><b>23,5 miles de millones de euros :</b> Montante de los fondos acordados por el gobierno de Rajoy  a Bankia.</li>
+						<br/><li><b>45% :</b> Porcentaje del capital de Bankia retenido por el estado español; lo cual permitió la nacionalización de la entidad financiera por parte del gobierno de Rajoy.</li>
+						<br/><li><b>23% :</b> Porcentaje de los puestos de trabajo suprimidos en Bankia, debido al plan de reestructuración anunciado por la dirección de la entidad en febrero de 2013. </li>
+						<br/><li><b>41 mil millones de euros :</b> Suma concedida a las entidades financieras españolas a través del plan de rescate europeo.</li>
+						<br/><li><b>3,75€ :</b> Valor de las acciones de Bankia en el momento de su entrada en Bolsa, el 18 de julio de 2011.</li>
+						<br/><li><b>0.17€ :</b> Valor de las acciones de Bankia el 10 de abril de 2013 (-95%), antes de inyectar a su capital 15 mil millones de euros.</li>
+						<br/><li><b>710 000 :</b> Número de familias españolas que perdieron gran parte de sus ahorros durante el escándalo de las preferentes. Estas participaciones permitieron a los bancos reforzar sus cuentas con dinero fresco. Hoy en día, estos títulos financieros de alto riesgo han perdido más del 70% de su valor original.</li>
+						<br/><li><b>33 :</b> Número de antiguos responsables de Bankia imputados por la justicia española por estafa, desvío de fondos y falsificación de las cuentas anuales, en el momento de la entrada en bolsa de Bankia. El antiguo presidente de Bankia, Rodrigo Rato, antiguo Director General del FMI, forma parte de los sospechosos. Durante el gobierno de Aznar, Rato ocupó el cargo de Ministro de Economía. </li>
+						</p>
+
+						
+						]]>
+					</content>
+				</item>
+			</complements>
+		</movie>
+		<movie id="pah" isFooter="true">
+			<video>
+				<sd>
+					<![CDATA[HD_pah.mp4]]>
+				</sd>
+				<hd>
+					<![CDATA[SD_pah.mp4]]>
+				</hd>
+			</video>
+			<subtitle>
+				<![CDATA[ES_1_PAH.srt]]>
+			</subtitle>
+			<synthes>
+				<item>
+					<timecode>
+						<![CDATA[00:04:40]]>
+					</timecode>
+					<desc>
+						<![CDATA[Chema Ruiz{0}Porta-voz de la PAH]]>
+					</desc>
+				</item>
+			</synthes>
+			<complements>
+				<item id="cplt-pah">
+					<!-- texte / video -->
+					<type>
+						<![CDATA[texte]]>
+					</type>
+					<titleShort>
+						<![CDATA[El proyecto de ley de la PAH]]>
+					</titleShort>
+					<titleLong>
+						<![CDATA[Stop desahucios ! El proyecto de ley de la PAH]]>
+					</titleLong>
+					<timecode>
+						<![CDATA[00:05:59]]>
+					</timecode>
+					<content>
+						<![CDATA[<p align='right'><font size='20'><b>Stop desahucios ! El proyecto de ley de la PAH</b></font></p><br />
+						<p align='justify'>
+						Por iniciativa de la PAH, se recogieron cerca de 1,5 millones de firmas para exigir al Parlamento abrir el debate a una iniciativa legislativa popular. Esta constaba de tres partes: una moratoria para los desalojos, la anulación con carácter retroactivo de los atrasos hipotecarios - una vez que el banco ejecutara las hipotecas -, y la puesta en marcha de un parque de alquileres sociales. 
+						<br>
+						El 18 de abril de 2013, el Partido Popular votó, solo, una nueva ley, considerada totalmente insuficiente por la oposición de izquierdas, que la rechazó en bloque. Mientras se tomaban estas decisiones, una movilización ciudadana se manifestaba a las puertas del Congreso.
+						<br>
+						Los avances de la nueva ley son, de hecho, bastante modestos: las familias más frágiles podrán aplazar el proceso de expulsión durante dos años; las penalizaciones por retrasos, que pueden ser astronómicas en España, serán limitadas; los jueces podrán suspender un  procedimiento de desalojo si se detectan cláusulas abusivas en el contrato de crédito hipotecario (disposición ordenada por el Tribunal de Justicia Europeo el 14 de marzo de 2013). 
+						<br>
+						La dación en pago, medida emblema de la iniciativa legislativa popular, fue rechazada por los diputados del PP. Esta habría permitido a las familias desahuciadas entregar su vivienda a cambio de quedar libre de toda deuda. A día de hoy, el valor de las viviendas hipotecadas,  fijado en plena euforia inmobiliaria, se ha depreciado frente al precio de compra. Esto impone al deudor rembolsar la diferencia entre el valor real de la casa y el, a menudo exorbitante, préstamo. Así pues, una vez expulsadas de sus hogares, las familias se encuentran acorraladas y sin ninguna perspectiva. 
+						<br>
+						Igualmente rechazada fue la propuesta de crear un parque de alquileres sociales, constituido con los bienes incautados por las entidades financieras, las cuales seguirán a la cabeza de un enorme parque de viviendas vacías. 
+						<br>
+						Durante la primavera de 2013, la PAH decide presionar a los miembros del PP que se niegan a votar a favor de  la ley. Se difundieron entonces los escraches, en referencia al modo de acción de los argentinos, que acechaban a los ex jefes de la dictadura. Se trataba simplemente de ir a protestar frente a la residencia de las personas implicadas. 
+						<br>
+						Estas acciones hicieron saltar a la derecha. La secretaria general del partido popular, María Dolores de Cospedal, llegó a calificarlas de “puro nazismo", nada menos. 
+						<br>
+						Dada la situación, el Premio Ciudadano Europeo 2013, otorgado a la PAH por el Parlamento Europeo el pasado junio, no fue del gusto de conservadores y columnistas del PP, quienes vieron en él <i>« la muerte de la ética y la moral de Europa »</i> de l’Europe. El PP llegó incluso a solicitar la retirada de la concesión. En vano. 
+						</p>
+
+
+						<br/><li>Más información en ABC
+						<br>
+						<i><a href="http://www.abc.es/estilo-gente/20130419/rc-desahucios-201304191507.html "target="_blank">Ada de los desahucios</a></i>
+						</li>
+						<br/><li>Más información en El Diario
+						<br>
+						<i><a href="http://www.eldiario.es/andalucia/Historia-desahucio-Pensaba-podia-pasarme_0_114788638.html "target="_blank">Historia de un desahucio: "Pensaba que esto no podía pasarme a mí" </a></i>
+						</li>
+						]]>
+					</content>
+				</item>
+			</complements>
+		</movie>
+		<movie id="valdeluz" isFooter="true">
+			<video>
+				<sd>
+					<![CDATA[HD_valdeluz.mp4]]>
+				</sd>
+				<hd>
+					<![CDATA[SD_valdeluz.mp4]]>
+				</hd>
+			</video>
+			<subtitle>
+				<![CDATA[ES_1_VALDELUZ.srt]]>
+			</subtitle>
+			<synthes/>
+			<complements/>
+		</movie>
+		<movie id="caja-madrid" isFooter="true">
+			<video>
+				<sd>
+					<![CDATA[HD_cajamadrid.mp4]]>
+				</sd>
+				<hd>
+					<![CDATA[SD_cajamadrid.mp4]]>
+				</hd>
+			</video>
+			<subtitle>
+				<![CDATA[]]>
+			</subtitle>
+			<synthes/>
+			<complements>
+				<item id="cplt-desahucios">
+					<!-- texte / video -->
+					<type>
+						<![CDATA[texte]]>
+					</type>
+					<titleShort>
+						<![CDATA[La justicia europea denuncia los desahucios]]>
+					</titleShort>
+					<titleLong>
+						<![CDATA[La justicia europea denuncia los desahucios]]>
+					</titleLong>
+					<timecode>
+						<![CDATA[00:02:37]]>
+					</timecode>
+					<content>
+						<![CDATA[<p align='right'><font size='20'><b>La justicia europea denuncia los desahucios</p></font></b>
+						<p align='justify'>
+						Mohamed Aziz es uno de los miles de españoles que, tras haber perdido su trabajo, se encuentra frente a la imposibilidad de pagar su hipoteca. En 2011, el banco puso en marcha el proceso de desalojo para recuperar la vivienda de Mohamed, quien debe seguir pagando su deuda.
+						<br>
+						Pero él no se ha resignado. Acompañado por su abogado, trató de negociar con el banco. Rechazo categórico. Su abogado decidió entonces llevar el caso al Tribunal de Comercio de Barcelona, alegando clausulas abusivas en el contrato de Mohamed.
+						<br>
+						Desde allí, el juez  José María Fernández Seijo trasladó el caso a la Corte de Justicia de la Unión Europea, argumentando que la legislación española no permite que el deudor se oponga a un procedimiento para el levantamiento de la hipoteca (como la confiscación de bienes), a pesar de que su contrato contenga cláusulas abusivas. En otras palabras: en España, donde se inició el proceso de ejecución hipotecaria, nada puede detener a la banca.
+						<br>
+						En su <a href="http://curia.europa.eu/juris/documents.jsf?num=C-415/11"target="_blank">sentencia de 14 de marzo de 2013</a>, el Tribunal de Justicia de la Unión Europea, consideraba la ley española contraria al Derecho comunitario, ya que esta <i>« no permite que  el juez encargado del caso [...] pueda tomar medidas provisionales, incluyendo la suspensión del procedimiento de desahucio »</i>. 
+						<br>
+						<i>« A partir de hoy, todo juez que se encuentre frente a una cláusula abusiva puede, como medida de precaución, no expulsar a los usuarios »</i>, commente le juge José Maria Fernandez Seijo.
+						<br>
+						El gobierno de Rajoy se ha comprometido a corregir la ley para ponerla en consonancia con la legislación europea. Ha sido necesaria a intervención de la Justicia Europea para obligarlo a adoptar estas medidas.
+						</p>
+
+						]]>
+					</content>
+				</item>
+			</complements>
+		</movie>
+	</movies>
+
+</mirage>

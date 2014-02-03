@@ -1,0 +1,58 @@
+{
+  "VIDEO": {
+	"PANNEAU":"4-PanneauMirage",
+	"TITLE": {
+		"EN": "The Bankia Towers",
+		"ES": "Torre Bankia",
+		"FR": "Tours Bankia"
+	},
+	"SUBTITLE": {
+		"EN": "Gambling and housing bubble",
+		"ES": "Especulación y burbuja immobiliaria",
+		"FR": "Spéculation et bulle immobilière"
+	},
+    "SRT": {
+		"EN": "EN_1_BANKIA.srt",
+		"ES": "ES_1_BANKIA.srt",
+		"FR": "FR_1_BANKIA.srt"
+	},
+    "FILE": {
+		"HD-MP4": "HD_bankia.mp4",
+		"HD-WEBM": "HD_bankia.webm",
+		"SD-MP4": "SD_bankia.mp4",
+		"SD-WEBM": "SD_bankia.webm"
+	},
+	"POPUPS": {
+		"198": {
+			"EN": {
+				"TITLE":"Gambling and housing bubble",
+				"LONGTITLE":"Gambling and housing bubble",
+				"MODALE":"<p align='justify'>Bankia is a perfect image of those banks who have become <i>« too big to fail »<\/i>.<\/p><p align='justify'><ul><li><b>7 : <\/b>Number of banks that merged in 2010 in order to create Bankia (Caja Madrid, Bancaja, La Caja de Canarias, Caja de Avila, Caixa Laietana, Caja Segovia, Caja Rioja).<\/li><br\/><li><b>4th : <\/b>Bankia is the fourth spanish bank, after Santander, BBVA and CaixaBank.<\/li><br\/><li><b>32 billions of euros :<\/b> amount of the toxic assets of Bankia in may 2012, meaning the unpayed real estate loans.<\/li><br\/><li><b>23,5 billions of  de euros :<\/b> amount of the public raising given to Bankia by the Rajoy government.<\/li><br\/><li><b>45% :<\/b> percentage of shares of the capital of Bankia, hold by the State of Spain, which led to a nationalization of the bank by the Rajoy government.<\/li><br\/><li><b>23% :<\/b> percentage of jobs cut out at Bankia, after the restructuring plan announced by the manager of the bank in february 2013.<\/li><br\/><li><b>41 billions of  euros :<\/b> amounts already transfered to the spanish banks as part of the european saving plan.<\/li><br\/><li><b>3,75€ :<\/b> course of the Bankia stock when introduced on the stock market on the 18th of july 2011.<\/li><br\/><li><b>0.17€ :<\/b> course of the bankia stock the 19th of april 2013 (95%), before a 15 billions euros of capital raise. <\/li><br\/><li><b>710 000 :<\/b> number of spanish families having lost a big part of their savings in the « preferred shares » scandal. These preferred shares allowed the spanish banks to reinforce their statements of account with fresh money. Today, those financial equities of high level risk have lost more than 70% of their original value.<\/li><br\/><li><b>33 :<\/b> number of former responsible of Bankia, suspected by the spanish justice of fraud, misappropriation of funds, forging annual accounts, when Bankia entered on the stock market. The former president of Bankia, Rodrigo Rato, is among the suspects. He was before m. aznar's Minister of Economy and head director of IMF.<\/li><\/ul><\/p>"
+			},
+			"ES": {
+				"TITLE":"Los millones de Bankia",
+				"LONGTITLE":"Los millones de Bankia",
+				"MODALE":"<p align='justify'>Bankia es una perfecta ilustración de esos bancos <i>« too big to fail »<\/i>, demasiado grandes para quebrar.<\/p><p align='justify'><ul><li><b>7 : <\/b>Número de cajas de ahorro fusionadas en 2010 para crear Bankia (Caja Madrid, Bancaja, La Caja de Canarias, Caja de Ávila, Caixa Laietana, Caja Segovia, Caja Rioja).<\/li><br\/><li><b>4a : <\/b>Bankia es la cuarta entidad financiera española, por detrás del Santander, el BBVA y CaixaBank.<\/li><br\/><li><b>32 mil millones de euros :<\/b> Activos tóxicos de Bankia en mayo del 2012, correspondientes a los préstamos inmobiliarios en vías de convertirse en irreemborsables. <\/li><br\/><li><b>23,5 miles de millones de euros :<\/b> Montante de los fondos acordados por el gobierno de Rajoy  a Bankia.<\/li><br\/><li><b>45% :<\/b> Porcentaje del capital de Bankia retenido por el estado español; lo cual permitió la nacionalización de la entidad financiera por parte del gobierno de Rajoy.<\/li><br\/><li><b>23% :<\/b> Porcentaje de los puestos de trabajo suprimidos en Bankia, debido al plan de reestructuración anunciado por la dirección de la entidad en febrero de 2013. <\/li><br\/><li><b>41 mil millones de euros :<\/b> Suma concedida a las entidades financieras españolas a través del plan de rescate europeo.<\/li><br\/><li><b>3,75€ :<\/b> Valor de las acciones de Bankia en el momento de su entrada en Bolsa, el 18 de julio de 2011.<\/li><br\/><li><b>0.17€ :<\/b> Valor de las acciones de Bankia el 10 de abril de 2013 (-95%), antes de inyectar a su capital 15 mil millones de euros.<\/li><br\/><li><b>710 000 :<\/b> Número de familias españolas que perdieron gran parte de sus ahorros durante el escándalo de las preferentes. Estas participaciones permitieron a los bancos reforzar sus cuentas con dinero fresco. Hoy en día, estos títulos financieros de alto riesgo han perdido más del 70% de su valor original.<\/li><br\/><li><b>33 :<\/b> Número de antiguos responsables de Bankia imputados por la justicia española por estafa, desvío de fondos y falsificación de las cuentas anuales, en el momento de la entrada en bolsa de Bankia. El antiguo presidente de Bankia, Rodrigo Rato, antiguo Director General del FMI, forma parte de los sospechosos. Durante el gobierno de Aznar, Rato ocupó el cargo de Ministro de Economía. <\/li><\/ul><\/p>"
+			},
+			"FR": {
+				"TITLE":"Les milliards de Bankia",
+				"LONGTITLE":"Les milliards de Bankia",
+				"MODALE":"<p align='justify'>Bankia est une parfaite illustration de ces banques devenues <i>« too big to fail »<\/i>, trop grosses pour qu’on les laisse faire faillite.<\/p><p align='justify'><ul><li><b>7 : <\/b>nombre de caisses d’épargne fusionnées en 2010 pour créer Bankia (Caja Madrid, Bancaja, La Caja de Canarias, Caja de Avila, Caixa Laietana, Caja Segovia, Caja Rioja).<\/li><br\/><li><b>4e : <\/b>Bankia est le quatrième établissement bancaire espagnol, derrière Santander, BBVA et CaixaBank. <\/li><br\/><li><b>32 milliards d'€ :<\/b> montant des actifs toxiques de Bankia en mai 2012, correspondant aux prêts immobiliers en passe de ne jamais être remboursés. <\/li><br\/><li><b>23.5 milliards d'€ :<\/b> montant du renflouement public accordé par le gouvernement Rajoy à Bankia.<\/li><br\/><li><b>45% :<\/b> parts du capital de Bankia détenues par l’Etat espagnol, ayant conduit de fait à une nationalisation de la banque par le gouvernement Rajoy. <\/li><br\/><li><b>23% :<\/b> part des postes de travail supprimés chez Bankia, suite au plan de restructuration annoncé par la direction de la banque en février 2013.<\/li><br\/><li><b>41 milliards d'€ :<\/b> sommes déjà versées aux banques espagnoles dans le cadre du plan de sauvetage européen. <\/li><br\/><li><b>3,75€ :<\/b> cours de l’action Bankia à l’introduction en Bourse le 18 juillet 2011.<\/li><br\/><li><b>0.17€ :<\/b> cours de l’action Bankia le 19 avril 2013 (-95%), avant une augmentation de capital de 15 milliards d’euros. <\/li><br\/><li><b>710 000 :<\/b> nombre de familles espagnoles ayant perdu une grande partie de leur épargne dans le scandale des preferentes. Ces « participations préférentielles » ont permis aux banques espagnoles de renforcer leurs bilans avec de l’argent frais. Aujourd’hui, ces titres financiers à haut risque ont perdu plus de 70% de leur valeur d’origine. <\/li><br\/><li><b>33 :<\/b> nombre d’anciens responsables de Bankia soupçonnés par la justice espagnole d’escroquerie, de détournements de fonds et de falsification des comptes annuels, lors de l’introduction en bourse de Bankia. L’ancien Président de Bankia, Rodrigo Rato, fait partie des suspects. Il avait été auparavant Ministre de l’Economie de M. Aznar, et Directeur général du FMI. <\/li><\/ul><\/p><ul><li>A lire sur Courrier International<i><a href=\"http:\/\/www.courrierinternational.com\/article\/2013\/04\/18\/une-arnaque-de-32-milliards-d-euros\" target=\"_blank\">Une arnaque de 32 milliards d’euros<\/a><\/i><\/li><\/ul>"
+			}
+		}
+	}
+  },
+  "NEXT" : {
+	"TITLE": {
+		"EN": "PAH Office",
+		"ES": "Perseverancia de la PAH",
+		"FR": "Permanence de la PAH"
+	},
+	"SUBTITLE": {
+		"EN": "The plague of property evictions",
+		"ES": "El cataclismo de los desahucios",
+		"FR": "Le fléau des expulsions"
+	},
+	"JSON":"pah"
+  }
+}

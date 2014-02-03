@@ -1,0 +1,281 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<mirage>
+	<config>
+		<video classname="symbols.BgMovieMirageSymbol" />
+		<sound classname="symbols.SoundMirageSymbol" />
+	</config>
+	<nav>
+		<item id="tours-bankia">
+			<title>
+				<![CDATA[THE BANKIA TOWERS]]>
+			</title>
+			<subtitle>
+				<![CDATA[Gambling and housing bubble]]>
+			</subtitle>
+			<bgPicture>
+				<![CDATA[mirage_picture_1]]>
+			</bgPicture>
+			<video>
+				<!-- TODO: INFOS sur les videos, soustritr, etc... -->
+			</video>
+		</item>
+		<item id="pah">
+			<title>
+				<![CDATA[PAH OFFICE]]>
+			</title>
+			<subtitle>
+				<![CDATA[The plague of property evictions]]>
+			</subtitle>
+			<bgPicture>
+				<![CDATA[mirage_picture_2]]>
+			</bgPicture>
+			<video>
+				<!-- TODO: INFOS sur les videos, soustritr, etc... -->
+			</video>
+		</item>
+		<item id="valdeluz">
+			<title>
+				<![CDATA[CIUDAD VALDELUZ]]>
+			</title>
+			<subtitle>
+				<![CDATA[City looking for residents]]>
+			</subtitle>
+			<bgPicture>
+				<![CDATA[mirage_picture_3]]>
+			</bgPicture>
+			<video>
+				<!-- TODO: INFOS sur les videos, soustritr, etc... -->
+			</video>
+		</item>
+		<item id="caja-madrid">
+			<title>
+				<![CDATA[CAJA MADRID CAMP]]>
+			</title>
+			<subtitle>
+				<![CDATA[In war against the banks]]>
+			</subtitle>
+			<bgPicture>
+				<![CDATA[mirage_picture_4]]>
+			</bgPicture>
+			<video>
+				<!-- TODO: INFOS sur les videos, soustritr, etc... -->
+			</video>
+		</item>
+	</nav>
+	<subtitle>
+		<![CDATA[The illusions of the real estate boom]]>
+	</subtitle>
+	<presentation>
+		<![CDATA[You can now visit Madrid's four neighbourhoods :<b> ILLUSION, DEVASTATION, REVOLT and NO FUTURE. </b>.Each one approaches a major issue related to the economic crisis and its consequences.<br/><br/>In each neighbourhood, clicking on a building provides access to a video sequence.<br/><br/>At the end of each video sequence we suggest a new sequence that allows you to continue your journey.]]>
+	</presentation>
+	<presBtn>
+		<![CDATA[ACCESS]]>
+	</presBtn>
+	<movies>
+		<movie id="tours-bankia" isFooter="true">
+			<video>
+				<sd>
+					<![CDATA[HD_bankia.mp4]]>
+				</sd>
+				<hd>
+					<![CDATA[SD_bankia.mp4]]>
+				</hd>
+			</video>
+			<subtitle>
+				<![CDATA[EN_1_BANKIA.srt]]>
+			</subtitle>
+			<synthes>
+				<item>
+					<timecode>
+						<![CDATA[00:01:40]]>
+					</timecode>
+					<desc>
+						<![CDATA[Alberto Garzón{0}Congressman for the United Left party]]>
+					</desc>
+				</item>
+				<item>
+					<timecode>
+						<![CDATA[00:01:55]]>
+					</timecode>
+					<desc>
+						<![CDATA[Carlos Taibo{0}Professor of Political Science]]>
+					</desc>
+				</item>
+				<item>
+					<timecode>
+						<![CDATA[00:02:29]]>
+					</timecode>
+					<desc>
+						<![CDATA[Paco Álvarez{0}Banker]]>
+					</desc>
+				</item>
+			</synthes>
+			<complements>
+				<item id="cplt-bankia">
+					<!-- texte / video -->
+					<type>
+						<![CDATA[texte]]>
+					</type>
+					<titleShort>
+						<![CDATA[The billions of Bankia]]>
+					</titleShort>
+					<titleLong>
+						<![CDATA[The billions of Bankia]]>
+					</titleLong>
+					<timecode>
+						<![CDATA[00:03:18]]>
+					</timecode>
+					<content>
+						<![CDATA[<p align='right'><font size='20'><b>The billions of Bankia</p></font></b>
+						<p align='justify'>
+						Bankia is a perfect image of those banks who have become <i>« too big to fail »</i>.
+						</p>
+						<p align='justify'>
+						<br/><li><b>7 : </b>Number of banks that merged in 2010 in order to create Bankia (Caja Madrid, Bancaja, La Caja de Canarias, Caja de Avila, Caixa Laietana, Caja Segovia, Caja Rioja).</li>
+						<br/><li><b>4th : </b>Bankia is the fourth spanish bank, after Santander, BBVA and CaixaBank.</li>
+						<br/><li><b>32 billions of euros :</b> amount of the toxic assets of Bankia in may 2012, meaning the unpayed real estate loans.</li>
+						<br/><li><b>23,5 billions of  de euros :</b> amount of the public raising given to Bankia by the Rajoy government.</li>
+						<br/><li><b>45% :</b> percentage of shares of the capital of Bankia, hold by the State of Spain, which led to a nationalization of the bank by the Rajoy government.</li>
+						<br/><li><b>23% :</b> percentage of jobs cut out at Bankia, after the restructuring plan announced by the manager of the bank in february 2013.</li>
+						<br/><li><b>41 billions of  euros :</b> amounts already transfered to the spanish banks as part of the european saving plan.</li>
+						<br/><li><b>3,75€ :</b> course of the Bankia stock when introduced on the stock market on the 18th of july 2011.</li>
+						<br/><li><b>0.17€ :</b> course of the bankia stock the 19th of april 2013 (95%), before a 15 billions euros of capital raise. </li>
+						<br/><li><b>710 000 :</b> number of spanish families having lost a big part of their savings in the « preferred shares » scandal. These preferred shares allowed the spanish banks to reinforce their statements of account with fresh money. Today, those financial equities of high level risk have lost more than 70% of their original value.</li>
+						<br/><li><b>33 :</b> number of former responsible of Bankia, suspected by the spanish justice of fraud, misappropriation of funds, forging annual accounts, when Bankia entered on the stock market. The former president of Bankia, Rodrigo Rato, is among the suspects. He was before m. aznar's Minister of Economy and head director of IMF.</li>
+						</p>
+
+						
+						]]>
+					</content>
+				</item>
+			</complements>
+		</movie>
+		<movie id="pah" isFooter="true">
+			<video>
+				<sd>
+					<![CDATA[HD_pah.mp4]]>
+				</sd>
+				<hd>
+					<![CDATA[SD_pah.mp4]]>
+				</hd>
+			</video>
+			<subtitle>
+				<![CDATA[EN_1_PAH.srt]]>
+			</subtitle>
+			<synthes>
+				<item>
+					<timecode>
+						<![CDATA[00:04:40]]>
+					</timecode>
+					<desc>
+						<![CDATA[Chema Ruiz{0}Spokesperson of the PAH]]>
+					</desc>
+				</item>
+			</synthes>
+			<complements>
+				<item id="cplt-pah">
+					<!-- texte / video -->
+					<type>
+						<![CDATA[texte]]>
+					</type>
+					<titleShort>
+						<![CDATA[The proposal of a law of popular initiative]]>
+					</titleShort>
+					<titleLong>
+						<![CDATA[Stop to the property evictions ! The proposal of a law of popular initiative]]>
+					</titleLong>
+					<timecode>
+						<![CDATA[00:05:59]]>
+					</timecode>
+					<content>
+						<![CDATA[<p align='right'><font size='20'><b>Stop to the property evictions ! The proposal of a law of popular initiative</b></font></p><br />
+						<p align='justify'>
+						At the initiative of the PAH (Platform for the victims of mortgage), almost 1,5 million signatures were gathered in order to require from the Parliament a discussion about a popular legislative initiative. This popular legislative initiative was composed of three sections: a moratorium on the evictions, the retroactive cancellation of the arrears after the seize of the property by the bank, the establishment of a social housing park.  
+						<br>
+						The 18th of April 2013, the Popular Party voted, by its self, a new law, judged totally insufficient by the left-wing opposition, who rejected it en bloc. The mobilized citizens kept up with the opposition, they were protesting in front of the Congress. 
+						<br>
+						The improvements proposed by this new law were in fact modest: the more fragile families only see their eviction proceeding suspended for two year; the delay penalties, who can be quite colossal in Spain, are limited; the justice can cancel an eviction proceeding if it has doubts about some eventual unfair terms in the loan contract ( this provision has become mandatory according to the 14th march 2013 law given by the European Court of Justice).  
+						<br>
+						The transfer in lieu of payment (<i>dación en pago</i>), the emblematic provision of the popular legislative initiative, was excluded by the P.P. Members. It would have allowed the families evicted from their housings to continue to repay their debts to the banks. As today, when a bank seizes a property, its value is depreciated comparing to the purchase price, established during a full real estate euphoria. It forces so the debtor to repay the difference between the real value of the property and the amount, often, exorbitant of the contract price. Already evicted from their homes, these families find them selves compelled, with no perspective. 
+						<br>
+						The creation of a social housing park with the properties seized by the banks was also forgotten. These properties will so continue to be at the head of a giant unoccupied housing park.
+						<br>
+						In spring 2013, the PAH decides to put some pressure on the Members of PP in the Parliament, who they refuse to vote the law. The PAH initiates then the <i>« escraches »</i>, with reference to how the Argentinians proceeded when they were tracking down the former bosses of the dictatorship: they were simply protesting in front of the person's home. 
+						<br>
+						This way of action made the PP react: the general secretary of the right-wing parti, Maria Dolores of Cospedal, qualified it of <;>« pure Nazism »</i>, nothing less. 
+						<br>
+						The « 2013 European Citizen Price » awarded last june to the PAH by the European Parliament, didn't please the PP and some conservative editorial writers, who saw in that the <i>« moral and ethical death »</i> of Europe. The PP had naturally requested to be awarded with this price. In vain. 
+						</p>
+						
+						]]>
+					</content>
+				</item>
+			</complements>
+		</movie>
+		<movie id="valdeluz" isFooter="true">
+			<video>
+				<sd>
+					<![CDATA[HD_valdeluz.mp4]]>
+				</sd>
+				<hd>
+					<![CDATA[SD_valdeluz.mp4]]>
+				</hd>
+			</video>
+			<subtitle>
+				<![CDATA[EN_1_VALDELUZ.srt]]>
+			</subtitle>
+			<synthes/>
+			<complements/>
+		</movie>
+		<movie id="caja-madrid" isFooter="true">
+			<video>
+				<sd>
+					<![CDATA[HD_cajamadrid.mp4]]>
+				</sd>
+				<hd>
+					<![CDATA[SD_cajamadrid.mp4]]>
+				</hd>
+			</video>
+			<subtitle>
+				<![CDATA[EN_1_CAJAMADRID.srt]]>
+			</subtitle>
+			<synthes/>
+			<complements>
+				<item id="cplt-desahucios">
+					<!-- texte / video -->
+					<type>
+						<![CDATA[texte]]>
+					</type>
+					<titleShort>
+						<![CDATA[European Justice condemns the property evictions.]]>
+					</titleShort>
+					<titleLong>
+						<![CDATA[European Justice condemns the property evictions.]]>
+					</titleLong>
+					<timecode>
+						<![CDATA[00:02:37]]>
+					</timecode>
+					<content>
+						<![CDATA[<p align='right'><font size='20'><b>European Justice condemns the property evictions.</p></font></b>
+						<p align='justify'>
+						Mohamed Aziz is one of the thousands Spaniards who, after having lost their jobs, have  found themselves in the impossibility of paying their real estate loan . In 2011, his bank initiates an eviction proceeding in order to take possession of Mohamed's house, who must continue to repay his debt.
+						<br>
+						But he doesn't resign. Attended by his lawyer, he tries to negotiate with the bank. Foursquare refusal. The lawyer assigns then the bank before the Court of Commerce of Barcelona for unfair terms in Mohamed's contract. 
+						<br>
+						There, the judge José Maria Fernandez Seijo forwards the case to the European Court of Justice, on the grounds that the spanish law doesn't allow the debtor to object to a release of mortgage proceeding (as seizure of property), even if it seems that the consumer's contract contains unfair terms. In other words: in Spain, when an action of mortgage enforcement is brought by the bank, nothing can stop it. 
+						<br>
+						In its  <a href="http://curia.europa.eu/juris/documents.jsf?num=C-415/11" target="_blank">judgement of the 14th of march 2013</a>, the European Court of Justice considered the spanish law to be against the european legislation as it <i>« does not allow the court before which declaratory proceedings have been brought, […]  to grant interim relief, including, in particular, the staying of those enforcement proceedings »</i>. 
+						<br>
+						<i>« Since this day, any judge who detects an unfair term will be able, as a precautionary measure, to deny the eviction of the consumer »</i>, commented judge José Maria Fernandez Seijo.
+						<br>
+						The Rajoy government committed to correct the law and upgrade it to compliance with the european legislation. An official decision from the European Court of Justice was though necessary in order to constrain the government.
+						</p>
+
+						]]>
+					</content>
+				</item>
+			</complements>
+		</movie>
+	</movies>
+
+</mirage>

@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<home>
+	<lang>
+		<item id='fr'>FR</item>
+		<item id='en'>EN</item>
+		<item id='es'>ES</item>
+	</lang>
+	
+	<partners><![CDATA[With the participation of]]></partners>
+	<producer><![CDATA[Produced by]]></producer>
+	<partnersLink>
+		<link><![CDATA[http://www.cnc.fr/]]></link>
+		<link><![CDATA[http://www.fondationdefrance.org/La-Fondation-de-France/Fonds-et-fondations-sous-egide/Toutes-les-fondations/Un-monde-par-tous]]></link>
+		<link><![CDATA[http://www.rhonealpes.fr/]]></link>
+		<link><![CDATA[http://www.mediapart.fr/]]></link>
+		<link><![CDATA[http://www.courrierinternational.com/]]></link>
+		<link><![CDATA[http://usbek-et-rica.fr/]]></link>
+		<link><![CDATA[http://www.eldiario.es/]]></link>
+		<link><![CDATA[http://cinemadocumentaire.wordpress.com/]]></link>
+		<link><![CDATA[http://www.framasoft.net/]]></link>
+	</partnersLink>
+	<producerLink>
+		<link><![CDATA[http://lasocietedesapaches.com/]]></link>
+	</producerLink>
+	<title><![CDATA[A web{0}documentary]]></title>
+	<subtitle><![CDATA[by Fabien Benoit and Julien Malassigné]]></subtitle>
+	<description><![CDATA[Since 2008 Spain has plunged into crisis.<br />Madrid is buried under austerity policies.<br />The city is battered, ravaged.<br />Yet, the people are resisting. ]]></description>
+	<start><![CDATA[START]]></start>
+</home>

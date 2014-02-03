@@ -1,0 +1,58 @@
+{
+  "VIDEO": {
+	"PANNEAU":"5-PanneauSaccage",
+	"TITLE": {
+		"EN": "Gregorio Marañon Hospital",
+		"ES": "Gregorio Marañon Hospital",
+		"FR": "Gregorio Marañon Hospital"
+	},
+	"SUBTITLE": {
+		"EN": "Privatizing health... and public benefits",
+		"ES": "Privatización de la salud... y de los beneficios públicos",
+		"FR": "Privatisons la santé... et les bénéfices publics"
+	},
+    "SRT": {
+		"EN": "EN_2_HOPITAL.srt",
+		"ES": "ES_2_HOPITAL.srt",
+		"FR": "FR_2_HOPITAL.srt"
+	},
+    "FILE": {
+		"HD-MP4": "HD_hopital.mp4",
+		"HD-WEBM": "HD_hopital.webm",
+		"SD-MP4": "SD_hopital.mp4",
+		"SD-WEBM": "SD_hopital.webm"
+	},
+	"POPUPS": {
+		"47": {
+			"EN": {
+				"TITLE":"They turn health into a business",
+				"LONGTITLE":"They turn health into a business",
+				"MODALE":"<p align='justify'>The Community of Madrid initiated a privatization process of the management of the seven healthcare centers and of six of the biggest hospitals in the region. <br>The 7th of June 2013, to everyone's complete surprise, only two private companies were responding to the Regional Government's call for tender, and for only three hospitals. The british investment fund CVC Capital Partners, through its subsidiary firm IDC Salud (ex-Capio), and its local competitor, the spanish HM Hospitals, threw in the towel: the profits they could get from managing these hospitals were less big then expected. <br>It's true that the clear purpose of the CVC Capital Partners fund is targeting high profit sectors. IDC Salud is also accused of having transfered its profits through FVC (financial vehicle corporation) to the Caiman islands so that they could escape taxes.  <br>As for Sanitas and Salud Ribera (who already manages private hospitals in Valencia), they presented offers for the Infanta Leonor, Sureste and Henares Hospitals. <\/p>"
+			},
+			"ES": {
+				"TITLE":"Tu salud es su negocio",
+				"LONGTITLE":"Tu salud es su negocio",
+				"MODALE":"<p align='justify'>La Comunidad de Madrid inició un proceso de privatización de la gestión de veintisiete centros de salud y seis grandes hospitales de su región.<br>El 7 de junio de 2013, para sorpresa general, sólo dos compañías privadas respondieron a la oferta del gobierno regional, interesándose tan solo por tres de los hospitales. Fueron los fondos de inversión británicos CVC Capital Partners, vía su filial IDC Salud (ex-Capio), y su competidor local, el español HM Hospitales, aunque ambos tiraron la toalla: los posibles  beneficios de la gestión de estos hospitales se revelaban menores de lo previsto.<br>Evidentemente, el objetivo visible de los fondos CVC Capital Partners es detectar sectores de “alta rentabilidad”. Lo que no impide que IDC Salud haya sido acusada de hacer circular sus beneficios a través de sociedades pantalla hacia las Islas Caimán, con el único fin de escapar a los impuestos.<br>Sanitas y Ribera Salud (quienes ya gestionan dos hospitales privados en Valencia), también han presentado ofertas por los hospitales - Infanta Leonor, Sureste y Hospital de Henares .<\/p><ul><li>Más información en El Diario<br><i><a href='http:\/\/www.eldiario.es\/sociedad\/sanidad-madrid-privatizacion-oferta_economica_0_147685460.html' target='_blank'>Ninguna sociedad compite con otra por hacerse con lotes de los centros privatizados <\/a><\/i><\/li><br\/><li>Más información en InfoLibre (suscripción requerida)<br><i><a href='http:\/\/www.infolibre.es\/noticias\/politica\/2013\/03\/05\/los_duenos_del_gigante_sanidad_privatizada_ocultan_las_caiman_781_1012.html ' target='_blank'>Los dueños del gigante de la sanidad privatizada se ocultan en las Caimán<\/a><\/i><\/li><\/ul>"
+			},
+			"FR": {
+				"TITLE":"Votre santé est leur business",
+				"LONGTITLE":"Votre santé est leur business",
+				"MODALE":"<p align='justify'>La Communauté de Madrid a entamé un processus de privatisation de la gestion de vingt-sept centres de santé et de six des plus grands hôpitaux de la région.<br>Le 7 juin 2013, à la surprise générale, seuls deux compagnies privées répondaient à l’appel d’offre du Gouvernement régional, et pour seulement trois hôpitaux. Le fonds d’investissement britannique CVC Capital Partners, via sa filiale IDC Salud (ex-Capio), et son concurrent local, l’espagnol HM Hospitales, ont jeté l’éponge : les bénéfices à tirer de la gestion de ces hôpitaux s’avèreraient moins grands qu’escomptés.<br>Il est vrai que le but affiché du fonds CVC Capital Partners est de cibler des secteurs <i>« à rentabilité élevée »<\/i>. IDC Salud est également accusée de faire transiter ses bénéfices via des sociétés écran vers les Îles Caïman afin d’échapper à l’impôt.<br>Sanitas et Ribera Salud (qui gère déjà des hôpitaux privés à Valencia), ont eux présenté des offres pour les hôpitaux Infanta Leonor, Sureste et Hospital de Henares.<\/p><ul><li>A lire sur Médiapart (sur abonnement)<br><i><a href='http:\/\/www.mediapart.fr\/journal\/international\/250313\/madrid-une-maree-blanche-contre-les-privatisations-dhopitaux' target='_blank'>A Madrid, une «marée blanche» contre les privatisations d'hôpitaux<\/a><\/i><\/li><\/ul>"
+			}
+		}
+	}
+  },
+  "NEXT" : {
+	"TITLE": {
+		"EN": "Spanish parliament",
+		"ES": "Parlamento español",
+		"FR": "Parlement espagnol"
+	},
+	"SUBTITLE": {
+		"EN": "They don't represent us !",
+		"ES": "No nos representan !",
+		"FR": "Ils ne nous représentent pas !"
+	},
+	"JSON":"parlement"
+  }
+}
